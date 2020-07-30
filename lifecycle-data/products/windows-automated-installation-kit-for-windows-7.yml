@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7 용 windows 자동 설치 키트
+  description: Windows 7 용 windows 자동 설치 키트는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826580"
+name: Windows 7 용 windows 자동 설치 키트
+summary: >
+  Windows 7 용 windows 자동 설치 키트는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 01/13/2015
+content: ''
