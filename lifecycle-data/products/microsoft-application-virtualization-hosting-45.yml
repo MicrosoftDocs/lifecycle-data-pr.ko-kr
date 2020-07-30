@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 데스크톱용 Microsoft 응용 프로그램 가상화 호스팅 4.5
+  description: Windows 데스크톱에 대 한 Microsoft 응용 프로그램 가상화 호스팅 4.5는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827293"
+name: Windows 데스크톱용 Microsoft 응용 프로그램 가상화 호스팅 4.5
+summary: >
+  Windows 데스크톱에 대 한 Microsoft 응용 프로그램 가상화 호스팅 4.5는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 다음 버전의 Windows 데스크톱에 적용 됩니다.
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 정보를 참조 하세요.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Links \n* [제품 및 마이그레이션 정보](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Windows 데스크톱"

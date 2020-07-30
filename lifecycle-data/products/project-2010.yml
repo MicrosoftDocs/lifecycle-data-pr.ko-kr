@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project 2010
+  description: 프로젝트 2010는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e9ac4a6d3a0fb9211ebad118c74feb650769620b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827128"
+name: Project 2010
+summary: >+
+  프로젝트 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이는 다음 버전에 적용 됩니다. 전문가, 표준
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/19/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 만든\n* 표준을"
