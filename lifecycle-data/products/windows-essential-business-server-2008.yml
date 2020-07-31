@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 필수 비즈니스 서버 2008
+  description: Windows 필수 비즈니스 서버 2008 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "879012"
+name: Windows 필수 비즈니스 서버 2008
+summary: >
+  Windows 필수 비즈니스 서버 2008 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+
+  > [!IMPORTANT]
+
+  > 이 제품 패키지의 지원 날짜는 개별 구성 요소 제품의 각 수명 주기에 의해 결정 됩니다. 개별 구성 요소 제품의 수명 주기를 검토 하 여 지원 기간을 확인 하세요.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/12/2008
+releases:
+- version: Original Release
+  startDate: 12/12/2008
+  endDate: 02/13/2020
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [제품 정보](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"
