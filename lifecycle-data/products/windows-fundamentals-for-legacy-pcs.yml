@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 레거시 Pc에 대 한 Windows 기본 사항
+  description: 레거시 Pc에 대 한 Windows 기본 사항은 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826572"
+name: 레거시 Pc에 대 한 Windows 기본 사항
+summary: >+
+  레거시 Pc에 대 한 Windows 기본 사항은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2006
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 05/31/2006
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 이 제품은 Windows XP와 동일한 지원 수명 주기 정책을 따릅니다."

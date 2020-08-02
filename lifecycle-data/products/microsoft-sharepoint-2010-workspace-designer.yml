@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (작업 영역, 디자이너)
+  description: Microsoft SharePoint 2010 (Workspace, Designer)는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826621"
+name: Microsoft SharePoint 2010 (작업 영역, 디자이너)
+summary: >+
+  Microsoft SharePoint 2010 (Workspace, Designer)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 디자이너, Workspace 및 edition에 적용 됩니다.
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [개발자 설명서](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [제품 설명서](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>버전 \n* 디자이너나\n* 작업 영역"
