@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: MOM (Microsoft Operations Manager) 2005
+  description: MOM (Microsoft Operations Manager) 2005 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826627"
+name: MOM (Microsoft Operations Manager) 2005
+summary: >
+  MOM (Microsoft Operations Manager) 2005 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 다음 버전에 적용 됩니다.
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/24/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 08/01/2005
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 11/24/2004
+  endDate: 10/10/2006
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>버전 \n* 작업\n\n키워드: MOM"

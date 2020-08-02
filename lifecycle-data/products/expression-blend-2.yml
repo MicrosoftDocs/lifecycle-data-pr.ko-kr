@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 식 2
+  description: 식 2는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826660"
+name: 식 2
+summary: "식 2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n이 작업은 Blend, Design, Encoder, Studio, Web 등의 버전에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/24/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 07/24/2008
+  endDate: 10/09/2018
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 색상과\n* 디자인\n* Encoder\n* 스튜디오\n* Web"

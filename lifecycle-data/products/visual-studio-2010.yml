@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2010
+  description: Visual Studio 2010는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826742"
+name: Visual Studio 2010
+summary: >+
+  Visual Studio 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 다음 버전의 에이전트에 적용 됩니다. All, ASP .NET MVC 4, Express, F # 2.0 런타임, Lab Management, Runtime 도구, Premium, Professional, Remote Debugger, SDK, 셸 (통합), 셸 (격리 됨), Team Agent, team Explorer, 테스트 전문가, Office System 4.0 Runtime, visual c # Express &
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Agent\n* 모두\n* ASP .NET MVC 4\n* 고급\n* F # 2.0 런타임\n* Lab Management\n* 성능 도구\n* 프리미엄\n* 만든\n* 원격 디버거\n* K\n* 셸 (통합)\n* 셸 (격리 됨)\n* 팀 에이전트\n* 팀 탐색기\n* 테스트 전문가\n* Office System 4.0 Runtime 도구\n* 궁극적\n* VB Express\n* Visual c # Express\n* Visual c # Express\n* Visual Web Developer Express\n* 시각화 & 모델링 SDK"

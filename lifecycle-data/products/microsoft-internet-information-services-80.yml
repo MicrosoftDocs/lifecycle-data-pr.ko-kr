@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 인터넷 정보 서비스 8.0
+  description: Microsoft 인터넷 정보 서비스 8.0는 구성 요소 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826649"
+name: Microsoft 인터넷 정보 서비스 8.0
+summary: >+
+  Microsoft 인터넷 정보 서비스 8.0는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/30/2012
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+content: "> [!TIP]\n> 이 릴리스는 상위 주요 제품, Windows Server 2012 및 Windows 8의 지원 수명 주기를 따르는 구성 요소 라고 합니다.\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
