@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8
+  description: Windows Embedded 8은 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827105"
+name: Windows Embedded 8
+summary: >+
+  Windows Embedded 8은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 Pro, Standard와 같은 버전에 적용 됩니다.
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ-Windows 제품](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> 고객은 여전히 지원 되는 상태로 있으려면 Windows Em필수로 이루어진 8.1로 마이그레이션해야 합니다.\n\n## <a name=\"editions\"></a>버전 \n* 전문가\n* 표준을"

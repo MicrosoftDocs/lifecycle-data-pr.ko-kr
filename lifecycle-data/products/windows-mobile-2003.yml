@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827083"
+name: Windows Mobile 2003
+summary: >
+  Windows Mobile 2003는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 Pocket PC, 스마트폰, Pocket PC Phone 용 두 번째 에디션 소프트웨어, 스마트폰 용 보조 소프트웨어에 적용 됩니다.
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/31/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Pocket PC\n* 스마트폰\n* Pocket PC Phone 용 보조 에디션 소프트웨어\n* 스마트폰 용 두 번째 에디션 소프트웨어"
