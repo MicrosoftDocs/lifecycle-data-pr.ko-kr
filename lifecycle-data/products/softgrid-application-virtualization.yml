@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SoftGrid 응용 프로그램 가상화
+  description: SoftGrid 응용 프로그램 가상화는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826594"
+name: SoftGrid 응용 프로그램 가상화
+summary: >
+  SoftGrid 응용 프로그램 가상화는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 데스크톱의 경우 4.1, 데스크톱용 4.2, 터미널 서비스 4.1에 적용 됩니다.
+
+
+  > [!IMPORTANT]
+
+  > 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>버전 \n* 데스크톱 4.1\n* 데스크톱 4.2\n* 터미널 서비스 4.1"
