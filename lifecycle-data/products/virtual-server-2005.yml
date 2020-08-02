@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 가상 서버 2005
+  description: 가상 서버 2005는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826749"
+name: 가상 서버 2005
+summary: >+
+  가상 서버 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 엔터프라이즈, 관리 팩, Standard 버전에 적용 됩니다.
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/29/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/29/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 관리 팩\n* 표준을"

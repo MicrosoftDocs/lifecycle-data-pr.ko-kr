@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2008
+  description: Visual Studio 2008는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826743"
+name: Visual Studio 2008
+summary: >+
+  Visual Studio 2008는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 모든 버전, Pro w/MSDN Premium, Professional, Professional w/MSDN, Team Suite, 팀 테스트 부하 에이전트, VB Express, Visual Basic Express, visual c # Express 및 visual Web Developer express에 적용 됩니다.
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 02/19/2008
+  end: 04/09/2013
+  extendedEnd: 04/10/2018
+releases:
+- version: Service Pack 1
+  startDate: 08/11/2008
+  endDate: 04/10/2018
+- version: Original Release
+  startDate: 02/19/2008
+  endDate: 10/13/2009
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Visual c # Express, Visual c # Express, VB Express, Visual Web Developer Express 및 Visual Studio Team System edition이 포함 됩니다.\n\n## <a name=\"editions\"></a>버전 \n* 모두\n* Pro w/MSDN Premium\n* 만든\n* 전문 MSDN \n* 팀 제품군\n* 팀 테스트 부하 에이전트\n* VB Express\n* Visual Basic Express\n* Visual c # Express\n* Visual c # Express\n* Visual Web Developer Express"
