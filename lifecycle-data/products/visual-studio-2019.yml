@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2019
+  description: Visual Studio 2019는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870659"
+name: Visual Studio 2019
+summary: >+
+  Visual Studio 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 에이전트, 빌드 도구, 커뮤니티, 엔터프라이즈, Mac 용, IntelliTrace 독립 실행형 수집기, 성능 도구, 전문가, 원격 도구, 팀 탐색기, Visual c + + 재배포 가능 버전에 적용 됩니다.
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 04/02/2019
+  end: 04/09/2024
+  extendedEnd: 04/10/2029
+releases:
+- version: Version 16.4
+  startDate: 12/03/2019
+  endDate: 04/10/2029
+- version: Version 16.0
+  startDate: 04/02/2019
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>Links \n* [발표](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [서비스 정보](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>버전 \n* Agent\n* 빌드 도구\n* 커뮤니티\n* 엔터프라이즈\n* Mac 용\n* IntelliTrace 독립 실행형 수집기\n* 성능 도구\n* 만든\n* 원격 도구\n* 팀 탐색기\n* Visual c + + 재배포 가능 패키지"

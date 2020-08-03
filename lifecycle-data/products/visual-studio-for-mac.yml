@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Mac 용 Visual Studio
+  description: Mac 용 Visual Studio는 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: df41c429361462c1a4f73795de70cba9591f0197
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870657"
+name: Mac 용 Visual Studio
+summary: >+
+  Mac 용 Visual Studio는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- vs
+policyType: modern-online
+supportDates:
+  start: 05/10/2017
+releases:
+- version: Original Release
+  startDate: 05/10/2017
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](/visualstudio/productinfo/vs-servicing-mac)"
