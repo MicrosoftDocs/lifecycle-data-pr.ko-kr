@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Communicator 2005
+  description: Microsoft Office Communicator 2005는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2c6dc97b10a0fd56d9fff4d2d6578f511d9b0b7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827573"
+name: Microsoft Office Communicator 2005
+summary: "Microsoft Office Communicator 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n이 작업은 다음 버전에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 08/13/2005
+  end: 10/12/2010
+  extendedEnd: 10/13/2015
+releases:
+- version: Original Release
+  startDate: 08/13/2005
+  endDate: 10/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을"

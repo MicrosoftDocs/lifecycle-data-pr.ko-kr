@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827449"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 데이터 센터, Hyper-v가 없는 데이터 센터, Enterprise, Enterprise, hyper-v 없이 엔터프라이즈에 적용 되며, Itanium 기반 시스템, Foundation, Standard, Standard (Hyper-v 불포함), Web
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [서버 업그레이드 정보](/windows-server/upgrade/upgrade-overview)\n* [ESU (확장 보안 업데이트 프로그램)](/lifecycle/faq/extended-security-updates)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ESU (확장 보안 업데이트)는 지원 종료 후 최대 3 년 동안 데이터 센터, Standard, Enterprise 및 Embedded 버전의 특정 볼륨 라이선스 프로그램을 통해 사용할 수 있습니다. 자세한 내용은 Microsoft 파트너 또는 계정 팀에 문의 하세요. \n\n릴리스-------------------------------시작 날짜----종료 날짜\n\n연장 된 보안 업데이트 연도 3---01/11/2022---01/10/2023\n\n연장 된 보안 업데이트 1 년 2---01/12/2021---01/11/2022\n\n연장 된 보안 업데이트 1 년---01/14/2020---01/12/2021\n> [!NOTE]\n> 5 월 21 일, 2009에 출시 되는 Windows Server 2008 Foundation\n\n## <a name=\"editions\"></a>버전 \n* 데이터 센터\n* 데이터 센터 (Hyper-v 불포함)\n* 엔터프라이즈\n* Enterprise (Hyper-v 불포함)\n* Itanium 기반 시스템용\n* Team\n* 표준을\n* Standard (Hyper-v 불포함)\n* Web"

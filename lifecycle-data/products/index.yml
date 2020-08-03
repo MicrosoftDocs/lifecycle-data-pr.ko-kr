@@ -1,0 +1,11 @@
+### YamlMime:ContentBrowser
+title: 제품 및 서비스 수명 주기 정보 검색 (미리 보기)
+browseType: lifecycle
+summary: "\n\n> [!IMPORTANT]\n> 이 페이지는 개발 중입니다. Microsoft 제품의 전체 목록과 해당 지원 일정 및 세부 정보를 보려면 [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)을 참조 하십시오.\n\n\nMicrosoft 수명 주기는 제품 수명 전체에 걸쳐 지원에 대 한 일관성 있고 예측 가능한 지침을 제공 하 여 고객이 향후 계획을 세울 때 IT 투자 및 환경을 관리 하도록 지원 합니다.\n\n\n아래에서 Microsoft 상업용 제품 및 서비스 목록을 검색 한 다음 결과를 선택 하 여 지원 및 서비스 일정, 필수 업데이트, 마이그레이션 정보 및 시스템 요구 사항을 찾습니다."
+metadata:
+  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827321"
