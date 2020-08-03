@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: HIPAA 3.0 용 Microsoft BizTalk 바로 연결
+  description: HIPAA 3.0 용 Microsoft BizTalk Accelerator는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c509b97024379ae56ee4a808ea7366ddead58404
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827289"
+name: HIPAA 3.0 용 Microsoft BizTalk 바로 연결
+summary: >+
+  HIPAA 3.0 용 Microsoft BizTalk Accelerator는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 Enterprise, Standard와 같은 버전에 적용 됩니다.
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/28/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 12/28/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 표준을"

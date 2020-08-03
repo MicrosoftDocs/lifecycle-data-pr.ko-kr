@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 호스트 시스템용 Microsoft BizTalk 어댑터 2.0
+  description: 호스트 시스템용 Microsoft BizTalk 어댑터 2.0 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827275"
+name: 호스트 시스템용 Microsoft BizTalk 어댑터 2.0
+summary: >+
+  호스트 시스템용 Microsoft BizTalk 어댑터 2.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 내용은 개발자, 표준에 적용 됩니다.
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>버전 \n* Developer\n* 표준을"
