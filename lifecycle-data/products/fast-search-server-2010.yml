@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (내부 응용 프로그램에 대 한 인터넷 사이트용)
+  description: FAST Search Server 2010 (내부 응용 프로그램의 경우 인터넷 사이트용)은 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827338"
+name: FAST Search Server 2010 (내부 응용 프로그램에 대 한 인터넷 사이트용)
+summary: >+
+  FAST Search Server 2010 (내부 응용 프로그램의 경우 인터넷 사이트용)은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 다음 버전에 적용 됩니다. 내부 응용 프로그램, 인터넷 사이트
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [수명 주기 FAQ-일반](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 이전에 지원 되지 않는 버전을 제외 합니다. 이 제품에 대 한 지원은 해당 취득 조건에 따라 달라 집니다.\n\n## <a name=\"editions\"></a>버전 \n* 내부 응용 프로그램\n* 인터넷 사이트"

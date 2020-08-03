@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 8
+  description: Internet Explorer 8은 구성 요소 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827311"
+name: Internet Explorer 8
+summary: >+
+  Internet Explorer 8은 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 06/17/2009
+releases:
+- version: Original Release
+  startDate: 06/17/2009
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 수명 주기 정책 FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016 년 1 월 12 일부 터, 지원 되는 운영 체제에서 가장 최근 버전의 Internet Explorer만 기술 지원 및 보안 업데이트를 받을 수 있습니다."

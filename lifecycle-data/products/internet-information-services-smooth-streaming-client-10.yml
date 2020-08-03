@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 인터넷 정보 서비스 원활 하 게 스트리밍 클라이언트 1.0
+  description: 인터넷 정보 서비스 원활 하 게 스트리밍 클라이언트 1.0이 구성 요소 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cff48fdf69039eed9e23b9534c01ea004fba6696
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827309"
+name: 인터넷 정보 서비스 원활 하 게 스트리밍 클라이언트 1.0
+summary: >+
+  인터넷 정보 서비스 원활 하 게 스트리밍 클라이언트 1.0이 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 09/05/2010
+  end: 09/08/2020
+releases:
+- version: Original Release
+  startDate: 09/05/2010
+  endDate: 09/08/2020
+content: "\n## <a name=\"links\"></a>Links \n* [제품 정보](/iis/media/on-demand-smooth-streaming/getting-started-with-iis-smooth-streaming)"

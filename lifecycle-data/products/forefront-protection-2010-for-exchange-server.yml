@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Forefront Protection 2010 for Exchange Server
+  description: Exchange Server 용 Forefront Protection 2010는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827335"
+name: Forefront Protection 2010 for Exchange Server
+summary: "Exchange Server 용 Forefront Protection 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> Forefront brand에서 보안 제품에 대 한 로드맵을 변경 했습니다. 이 제품은 12 월 31 일까, 2015에 비해 단종 됩니다. 마이그레이션 지침을 참조 하세요. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/01/2009
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 11/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"
