@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008 R2
+  description: Windows Storage Server 2008 R2는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858114"
+name: Windows Storage Server 2008 R2
+summary: >
+  Windows Storage Server 2008 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 Essentials, Standard에 적용 됩니다.
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/20/2010
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 12/20/2010
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Links \n* [지원 정보 끝](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [마이그레이션 지침](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [확장 된 보안 업데이트 FAQ](/lifecycle/faq/extended-security-updates)\n* [서버 업그레이드 정보](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials edition은 2011 년 6 월 28 일에 릴리스 되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Essentials\n* 표준을"

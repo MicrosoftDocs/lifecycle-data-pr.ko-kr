@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows server 2012 R2 용 windows Server Update Services
+  description: Windows Server 2012 R2 용 windows Server Update Services는 구성 요소 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: db602a56da102f56953ea16e19275df5aa653458
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858118"
+name: Windows server 2012 R2 용 windows Server Update Services
+summary: >+
+  Windows Server 2012 R2 용 windows Server Update Services는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 11/25/2013
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "> [!TIP]\n> 이 구성 요소는 상위 제품의 수명 주기를 따르고, Windows Server 2012 R2\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012 R2](/lifecycle/)"

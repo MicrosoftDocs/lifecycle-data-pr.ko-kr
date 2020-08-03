@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 앱 컨트롤러
+  description: Microsoft System Center 2012 앱 컨트롤러는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857964"
+name: Microsoft System Center 2012 앱 컨트롤러
+summary: >+
+  Microsoft System Center 2012 앱 컨트롤러는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Links \n* [System Center 정보](/system-center/#pivot=components&panel=components-all)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012는 구성 요소로 구성 되어 있습니다. Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"

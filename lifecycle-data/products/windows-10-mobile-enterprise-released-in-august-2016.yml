@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 모바일 Enterprise (8 월 2016에 출시)
+  description: Windows 10 모바일 Enterprise (8 월 2016에 출시 된) 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858035"
+name: Windows 10 모바일 Enterprise (8 월 2016에 출시)
+summary: >
+  Windows 10 모바일 Enterprise (8 월 2016에 출시 된) [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/16/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 08/16/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Links \n* [장치 OS 수명 주기 FAQ](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile이 종료 되었습니다. 2019 년 12 월 10 일 지원](/lifecycle/announcements/windows-10-mobile-end-of-support)"

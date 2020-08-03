@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Teams
+  description: Microsoft 팀은 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858176"
+name: Microsoft Teams
+summary: >+
+  Microsoft 팀은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>Links \n* [시스템 요구 사항](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [서비스 정보](/microsoftteams/teams-client-update)"

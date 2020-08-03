@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio Team Foundation Server 2013
+  description: Visual Studio Team Foundation Server 2013는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858128"
+name: Visual Studio Team Foundation Server 2013
+summary: >+
+  Visual Studio Team Foundation Server 2013는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 다음 버전에 적용 됩니다. 모두, 릴리스 관리
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>Links \n* [제품 정보](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [서비스 정보](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> TFS 2013에 대 한 릴리스 관리 서버의 경우 4/9/2024까지 정책 지침에 따라 업데이트 4가 지원 됩니다.\n\n## <a name=\"editions\"></a>버전 \n* 모두\n* 릴리스 관리"

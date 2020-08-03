@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Information Protection 클라이언트
+  description: Azure Information Protection 클라이언트는 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857736"
+name: Azure Information Protection 클라이언트
+summary: >+
+  Azure Information Protection 클라이언트는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> 통합 및 간소화 된 고객 환경을 제공 하기 위해 Azure Portal의 Azure Information Protection 클라이언트 (클래식) 및 레이블 관리는 더 이상 사용 되지 않습니다 (2021 년 3 월 31 일). 이 시간-프레임에서는 Microsoft Information Protection 통합 레이블 플랫폼을 사용 하 여 모든 현재 Azure Information Protection 고객이 통합 레이블 솔루션으로 전환할 수 있습니다."

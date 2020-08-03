@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2012
+  description: Windows Storage Server 2012는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857769"
+name: Windows Storage Server 2012
+summary: >+
+  Windows Storage Server 2012는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 Standard, Workgroup, edition에 적용 됩니다.
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> 고객에 게 표준 수명 주기 전환 타임 라인을 제공 하기 위해이 제품에 대 한 기본 및 연장 지원이 확장 되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* 표준을\n* 작업"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8.1 핸드헬드
+  description: Windows Embedded 8.1 핸드헬드는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858216"
+name: Windows Embedded 8.1 핸드헬드
+summary: >
+  Windows Embedded 8.1 핸드헬드는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다. 조직에서 아직 이러한 플랫폼을 유지 관리 하 고 있으며 추가 질문이 있는 경우 계정 팀에 문의 하세요.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

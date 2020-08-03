@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858219"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 에이전트, 모든, 커뮤니티, express for Web, Window for windows, windows 용 express, wmi 수집기, 모델링 SDK, 멀티 바이트 MFC 라이브러리, Premium, 전문가, 릴리스 관리, 원격 도구, SDK, 셸 (통합), 셸 (격리 됨), Team Explorer, 테스트 전문가
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>버전 \n* Agent\n* 모두\n* 커뮤니티\n* Express for Web\n* Windows Express\n* Windows 데스크톱 Express\n* IntelliTrace 수집기\n* 모델링 SDK\n* 멀티 바이트 MFC 라이브러리\n* 프리미엄\n* 만든\n* 릴리스 관리\n* 원격 도구\n* K\n* 셸 (통합)\n* 셸 (격리 됨)\n* 팀 탐색기\n* 테스트 전문가\n* 궁극적\n* Visual c + + 재배포 가능 패키지\n* 웹 도구 확장"

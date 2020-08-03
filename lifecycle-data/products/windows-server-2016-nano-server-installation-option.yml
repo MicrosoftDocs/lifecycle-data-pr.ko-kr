@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2016 Nano 서버 설치 옵션
+  description: Windows Server 2016 Nano 서버 설치 옵션은 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858205"
+name: Windows Server 2016 Nano 서버 설치 옵션
+summary: >+
+  Windows Server 2016 Nano 서버 설치 옵션은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 데이터 센터, 표준에 적용 됩니다.
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/15/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](/windows-server/get-started/nano-in-semi-annual-channel)\n* [수명 주기 FAQ-Windows 제품](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>버전 \n* 데이터 센터\n* 표준을"

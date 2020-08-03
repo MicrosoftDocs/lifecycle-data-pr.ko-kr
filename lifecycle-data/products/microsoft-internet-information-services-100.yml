@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 인터넷 정보 서비스 10.0
+  description: Microsoft 인터넷 정보 서비스 10.0는 구성 요소 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857874"
+name: Microsoft 인터넷 정보 서비스 10.0
+summary: >+
+  Microsoft 인터넷 정보 서비스 10.0는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/12/2016
+  end: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/11/2027
+content: "\n\n> [!NOTE]\n> 이 릴리스는 상위 주요 제품인 Windows Server 2016의 지원 수명 주기를 따르는 구성 요소 라고 합니다."
