@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.8
+  description: Microsoft .NET Framework 4.8는 구성 요소 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: df883bbb34d446d8dfe0ba2635a781778f510841
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870717"
+name: Microsoft .NET Framework 4.8
+summary: >+
+  Microsoft .NET Framework 4.8는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 04/18/2019
+releases:
+- version: Original Release
+  startDate: 04/18/2019
+content: "\n## <a name=\"links\"></a>Links \n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 수명 주기 FAQ](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework는 Windows OS의 구성 요소입니다. 구성 요소는 상위 제품 또는 플랫폼과 동일한 지원을 받습니다."

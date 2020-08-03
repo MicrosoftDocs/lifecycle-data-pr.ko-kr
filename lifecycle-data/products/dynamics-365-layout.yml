@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 레이아웃
+  description: Dynamics 365 레이아웃은 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870611"
+name: Dynamics 365 레이아웃
+summary: >+
+  Dynamics 365 레이아웃은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+  end: 12/31/2021
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+  endDate: 12/31/2021
+content: "\n## <a name=\"links\"></a>Links \n* [레이아웃 및 원격 지원](/dynamics365/mixed-reality/layout/faq)"

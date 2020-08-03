@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2019
+  description: Windows Server IoT 2019는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870639"
+name: Windows Server IoT 2019
+summary: >+
+  Windows Server IoT 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 데이터 센터, Essentials, Standard, 텔레커뮤니케이션 등의 버전에 적용 됩니다.
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ-Windows 제품](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 모든 버전의 Windows Server IoT 2019는 Windows Server 2019 수명 주기를 따릅니다.\n\n## <a name=\"editions\"></a>버전 \n* 데이터 센터\n* Essentials\n* 표준을\n* Telecommunications"
