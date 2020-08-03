@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 클래스 서버 3.0
+  description: Microsoft 클래스 서버 3.0 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d393a373e1a6b59165567eab05a2f777bdddece9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827256"
+name: Microsoft 클래스 서버 3.0
+summary: >+
+  Microsoft 클래스 서버 3.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 다음 버전에 적용 됩니다.
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 08/20/2003
+  end: 10/14/2008
+  extendedEnd: 10/08/2013
+releases:
+- version: Original Release
+  startDate: 08/20/2003
+  endDate: 10/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을"

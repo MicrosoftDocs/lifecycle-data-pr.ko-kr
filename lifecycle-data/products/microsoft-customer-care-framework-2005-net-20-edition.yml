@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 고객 관리 프레임 워크 2005 .NET 2.0 Edition
+  description: Microsoft 고객 관리 프레임 워크 2005 .NET 2.0 Edition은 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c319c9a4362d847d9ac7fe80a48a13b3d7209cdd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827240"
+name: Microsoft 고객 관리 프레임 워크 2005 .NET 2.0 Edition
+summary: >
+  Microsoft 고객 관리 프레임 워크 2005 .NET 2.0 Edition은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+
+  > [!IMPORTANT]
+
+  > 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+products:
+- customer-care-framework
+policyType: fixed
+supportDates:
+  start: 11/11/2006
+  end: 01/10/2012
+  extendedEnd: 01/10/2017
+releases:
+- version: Original Release
+  startDate: 11/11/2006
+  endDate: 01/10/2017
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"

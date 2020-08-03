@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SWIFT에 대 한 Microsoft BizTalk FileAct 및 상호 작용 어댑터
+  description: SWIFT에 대 한 Microsoft BizTalk FileAct 및 상호 작용 어댑터는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827273"
+name: SWIFT에 대 한 Microsoft BizTalk FileAct 및 상호 작용 어댑터
+summary: >+
+  SWIFT에 대 한 Microsoft BizTalk FileAct 및 상호 작용 어댑터는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 04/10/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Original Release
+  startDate: 04/10/2007
+  endDate: 04/11/2017
+content: ''

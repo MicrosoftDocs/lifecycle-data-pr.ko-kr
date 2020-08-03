@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Application Virtualization 4.6
+  description: Microsoft Application Virtualization 4.6는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827298"
+name: Microsoft Application Virtualization 4.6
+summary: >+
+  Microsoft Application Virtualization 4.6는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 다음과 같은 버전, 즉 원격 데스크톱 서비스, Windows 데스크톱, Sequencer에 적용 됩니다.
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [제품 및 마이그레이션 정보](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-v 4.6 클라이언트는 App-v 4.5 서버를 사용 하므로 app-v 4.5 서버는 지원 되는 App-v 4.6 클라이언트와 함께 사용할 때 App-v 4.6의 수명 주기 날짜에 따라 계속 지원 됩니다.\n\n## <a name=\"editions\"></a>버전 \n* 원격 데스크톱 서비스용\n* Windows 데스크톱\n* 시퀀서"
