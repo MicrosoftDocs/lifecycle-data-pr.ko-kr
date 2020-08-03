@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Threat Management Gateway 웹 보호 서비스
+  description: Microsoft Forefront Threat Management Gateway 웹 보호 서비스는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827219"
+name: Microsoft Forefront Threat Management Gateway 웹 보호 서비스
+summary: >+
+  Microsoft Forefront Threat Management Gateway 웹 보호 서비스는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/01/2009
+  end: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>Links \n* [Forefront 로드맵](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Forefront brand에서 보안 제품에 대 한 로드맵을 변경 했습니다.이 제품은 12 월 31 일까, 2015에 비해 단종 됩니다."
