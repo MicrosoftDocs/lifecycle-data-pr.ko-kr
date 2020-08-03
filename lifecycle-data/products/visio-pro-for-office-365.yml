@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio Online 계획 2
+  description: Visio Online 계획 2는 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5320f94b79e36743b0fb70999b363dd7f5466fb6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858047"
+name: Visio Online 계획 2
+summary: >+
+  Visio Online 계획 2는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: ''

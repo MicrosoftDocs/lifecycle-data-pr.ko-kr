@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 이 설정은 다음과 같은 유형의 장치에서 사용할 수 있습니다.
+  description: Windows Phone 8.1는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858038"
+name: 이 설정은 다음과 같은 유형의 장치에서 사용할 수 있습니다.
+summary: >
+  Windows Phone 8.1는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+
+  > [!IMPORTANT]
+
+  > 이 제품에 대 한 지원이 종료 되었습니다.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Links \n* [Windows Phone 8.1 FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft는 수명 주기 시작 날짜 이후 최소 36 개월 동안 보안 업데이트를 포함 하 여 운영 체제에 대 한 업데이트를 사용할 수 있도록 합니다. 이러한 업데이트는 증분 되며 각 업데이트가 앞에 오는 업데이트를 기반으로 구성 됩니다. 고객이 지원 되려면 각 업데이트를 설치 해야 합니다. 이러한 증분 업데이트의 배포는 휴대폰을 구매한 전화 제조업체에 의해 제어 될 수 있으며, 설치 시에는 이전 업데이트가 포함 된 전화기가 필요 합니다. 업데이트 가용성은 국가, 지역 및 하드웨어 기능에 따라서도 달라 집니다."

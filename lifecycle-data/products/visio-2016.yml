@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio 2016
+  description: Visio 2016는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5354506665e61cfd1a1d5d1f8f67afbe607f32f6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858048"
+name: Visio 2016
+summary: >+
+  Visio 2016는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이는 다음 버전에 적용 됩니다. 전문가, 표준
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 만든\n* 표준을"

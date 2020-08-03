@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: Visual Studio 2015는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857997"
+name: Visual Studio 2015
+summary: >+
+  Visual Studio 2015는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 에이전트, 커뮤니티, Enterprise, express for Web, Windows 10 용 express, windows 데스크톱용 express, Microsoft 데스크톱, 모델링 SDK, 전문가, 릴리스 관리, 원격 도구, SDK, 셸 (통합), 셸 (격리 됨), 테스트 전문가
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>버전 \n* Agent\n* 커뮤니티\n* 엔터프라이즈\n* Express for Web\n* Windows 10 용 익스프레스\n* Windows 데스크톱 Express\n* 모델링 SDK\n* 만든\n* 릴리스 관리\n* 원격 도구\n* K\n* 셸 (통합)\n* 셸 (격리 됨)\n* 테스트 전문가\n* Visual c + + 재배포 가능 패키지"

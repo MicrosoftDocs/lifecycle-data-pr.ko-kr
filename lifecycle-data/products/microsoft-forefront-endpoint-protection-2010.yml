@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Endpoint Protection 2010
+  description: Microsoft Forefront Endpoint Protection 2010는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858057"
+name: Microsoft Forefront Endpoint Protection 2010
+summary: >
+  Microsoft Forefront Endpoint Protection 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+
+  > [!IMPORTANT]
+
+  > 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [서비스 정보](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> 고객은 최신 맬웨어 방지 플랫폼 업데이트를 완벽 하 게 지원 하 여 최신 상태를 유지 해야 합니다. Forefront Endpoint Protection 2010에는 기본 및 확장 지원에 대 한 System Center Configuration Manager 2007와 동일한 수명 주기 정책이 포함 되어 있습니다."

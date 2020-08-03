@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 용 서비스 패브릭 독립 실행형 패키지
+  description: Windows Server 용 서비스 패브릭 독립 실행형 패키지는 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858059"
+name: Windows Server 용 서비스 패브릭 독립 실행형 패키지
+summary: >+
+  Windows Server 용 서비스 패브릭 독립 실행형 패키지는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 09/26/2016
+releases:
+- version: Original Release
+  startDate: 09/26/2016
+content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](/azure/service-fabric/service-fabric-support)"

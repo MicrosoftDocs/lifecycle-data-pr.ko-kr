@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Azure 가상 컴퓨터 (클래식) (게시 전에 Azure 확인-날짜 표에 종료 날짜 없음)
+  description: Microsoft Azure Virtual Machine (클래식) (게시 전에 Azure 확인-날짜 표에 종료 날짜 없음) 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858074"
+name: Microsoft Azure 가상 컴퓨터 (클래식) (게시 전에 Azure 확인-날짜 표에 종료 날짜 없음)
+summary: >+
+  Microsoft Azure Virtual Machine (클래식) (게시 전에 Azure 확인-날짜 표에 종료 날짜 없음) [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+  end: 03/01/2023
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+  endDate: 03/01/2023
+content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/azure/virtual-machines/classic-vm-deprecation)"
