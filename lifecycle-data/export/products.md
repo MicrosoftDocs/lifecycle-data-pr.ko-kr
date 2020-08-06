@@ -1,13 +1,13 @@
 ---
 title: 제품 내보내기
 description: 제품 수명 주기 정보 내보내기
-ms.date: 08/05/2020
-ms.openlocfilehash: 148d4d16dbf7e35fa5b5a44704867ac04d614e19
-ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
+ms.date: 08/06/2020
+ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
+ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "885019"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "885191"
 ---
 # <a name="export"></a>내보내기
 
