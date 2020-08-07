@@ -1,27 +1,27 @@
 ---
 title: 제품 내보내기
 description: 제품 수명 주기 정보 내보내기
-ms.date: 08/06/2020
-ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
-ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
+ms.date: 08/07/2020
+ms.openlocfilehash: cca8929e0dab2fb530d94edbcda7a037b05ff794
+ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "885191"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "885799"
 ---
-# <a name="export"></a><span data-ttu-id="fe2fa-103">내보내기</span><span class="sxs-lookup"><span data-stu-id="fe2fa-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="31a40-103">내보내기</span><span class="sxs-lookup"><span data-stu-id="31a40-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="fe2fa-104">이 페이지는 개발 중입니다.</span><span class="sxs-lookup"><span data-stu-id="fe2fa-104">This page is under development.</span></span>
+> <span data-ttu-id="31a40-104">이 페이지는 개발 중입니다.</span><span class="sxs-lookup"><span data-stu-id="31a40-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="fe2fa-105">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="fe2fa-105">Export All Products</span></span>
-<span data-ttu-id="fe2fa-106">모든 제품을 필터 없이 내보냅니다.</span><span class="sxs-lookup"><span data-stu-id="fe2fa-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="31a40-105">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="31a40-105">Export All Products</span></span>
+<span data-ttu-id="31a40-106">모든 제품을 필터 없이 내보냅니다.</span><span class="sxs-lookup"><span data-stu-id="31a40-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="fe2fa-107">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="fe2fa-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="31a40-107">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="31a40-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="fe2fa-108">범주별 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="fe2fa-108">Export Products by Category</span></span>
-<span data-ttu-id="fe2fa-109">내보낼 그룹을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fe2fa-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="31a40-108">범주별 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="31a40-108">Export Products by Category</span></span>
+<span data-ttu-id="31a40-109">내보낼 그룹을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="31a40-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="거실" title2="Group"]
 > - [(.NET | 모든](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "885191"
 > - [(Windows | 보안이](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | 서버](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="fe2fa-167">지원 연도 끝으로 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="fe2fa-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="fe2fa-168">해당 연도에 제품 종료 서비스를 내보내려면 연도를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fe2fa-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="31a40-167">지원 연도 끝으로 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="31a40-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="31a40-168">해당 연도에 제품 종료 서비스를 내보내려면 연도를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="31a40-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
