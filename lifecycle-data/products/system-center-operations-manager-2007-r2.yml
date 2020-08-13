@@ -2,13 +2,13 @@
 metadata:
   title: System Center Operations Manager 2007 R2
   description: System Center Operations Manager 2007 R2는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826590"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892506"
 name: System Center Operations Manager 2007 R2
 summary: "System Center Operations Manager 2007 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요. \n"
 products:
