@@ -2,17 +2,19 @@
 metadata:
   title: 클라우드 플랫폼 시스템
   description: 클라우드 플랫폼 시스템은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858025"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891886"
 name: 클라우드 플랫폼 시스템
 summary: >+
   클라우드 플랫폼 시스템은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
+
+  이 작업은 다음 버전에 적용 됩니다.
 
 products:
 - azure
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> 모든 고객에 게 표준 수명 주기 전환 시간 표시 막대를 제공 하기 위해 다음과 같이 클라우드 플랫폼 시스템에 대 한 지원이 확장 되었습니다.\n> [!NOTE]\n> 2017 년 9 월 18 일에 시작 되는 클라우드 플랫폼 시스템 표준입니다."
+content: "\n\n> [!NOTE]\n> 모든 고객에 게 표준 수명 주기 전환 시간 표시 막대를 제공 하기 위해 다음과 같이 클라우드 플랫폼 시스템에 대 한 지원이 확장 되었습니다.\n> [!NOTE]\n> 2017 년 9 월 18 일에 시작 되는 클라우드 플랫폼 시스템 표준입니다.\n\n## <a name=\"editions\"></a>버전 \n* 표준을"
