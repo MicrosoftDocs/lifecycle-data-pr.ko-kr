@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 웹 서비스 향상 2.0용 BizTalk 어댑터
+  description: 웹 서비스 향상 2.0용 BizTalk 어댑터는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904274"
+name: 웹 서비스 향상 2.0용 BizTalk 어댑터
+summary: >+
+  웹 서비스 향상 2.0용 BizTalk 어댑터는 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 05/10/2005
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 05/12/2006
+  endDate: 07/12/2016
+- version: Original Release
+  startDate: 05/10/2005
+  endDate: 07/12/2016
+content: ''
