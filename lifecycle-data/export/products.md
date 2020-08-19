@@ -1,27 +1,27 @@
 ---
-title: 제품 내보내기
+title: 수명 주기 데이터 내보내기
 description: 제품 수명 주기 정보 내보내기
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899809"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902409"
 ---
-# <a name="export"></a>내보내기
+# <a name="lifecycle-data-export"></a>수명 주기 데이터 내보내기
 
 > [!IMPORTANT]
 > 이 페이지는 개발 중입니다.
 
 ## <a name="export-all-products"></a>모든 제품 내보내기
-모든 제품을 필터 없이 내보냅니다.
+아래를 클릭 하 여 모든 제품에 대 한 수명 주기 데이터를 내보냅니다.
 
 > [!div class="nextstepaction"]
 > [모든 제품 내보내기](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>범주별 제품 내보내기
-내보낼 그룹을 선택 합니다.
+## <a name="export-products-by-family-and-group"></a>제품군 및 그룹별로 제품 내보내기
+가족을 선택한 다음 내보낼 그룹을 선택 합니다. 참고: 그룹 값을 선택 하면 내보내기가 시작 됩니다. 
 
 > [!div class="op_multi_selector" title1="거실" title2="Group"]
 > - [(.NET | 모든](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899809"
 > - [(Windows | 보안이](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | 서버](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>지원 연도 끝으로 제품 내보내기
-해당 연도에 제품 종료 서비스를 내보내려면 연도를 선택 합니다.
+## <a name="export-products-by-end-of-support-date"></a>지원 종료 날짜를 기준으로 제품 내보내기
+연도를 선택 하 여 지원 종료에 도달한 제품을 확인 합니다. 참고: 연도 값을 선택 하면 내보내기가 시작 됩니다.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
