@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Advanced Threat Analytics 1.X
+  description: Advanced Threat Analytics 1.X가 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: acfca59a1c834c55c8fdb6f8d3eddbd34d6070b2
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904268"
+name: Advanced Threat Analytics 1.X
+summary: >+
+  Advanced Threat Analytics 1.X가 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 11/25/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release
+  startDate: 11/25/2015
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>Links \n* [Advanced Threat Analytics 서비스 지침](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> 업데이트는 누적될 수 있고 각 업데이트는 이전에 추가된 모든 업데이트를 기반으로 합니다. 장치는 최신 업데이트를 설치해야 지원을 지유지받아도 됩니다."

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: PolicyMaker는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904277"
+name: PolicyMaker
+summary: >+
+  PolicyMaker는 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
+
+
+  이 버전은 Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, 소프트웨어 업데이트 1.0, 소프트웨어 업데이트 2.0, Standard 1.0, Standard 2.0에 적용됩니다.
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> 이 제품에 대한 지원이 해당 구입 약관에 따라 달라질 수 있습니다.\n\n## <a name=\"editions\"></a>에디션 \n* 애플리케이션 보안\n* Outlook 버전\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* 소프트웨어 업데이트 2.0\n* Standard 1.0\n* Standard 2.0"
