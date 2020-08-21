@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core 서비스
-  description: Windows 10 IoT Core service는 최신 수명 주기 정책을 따릅니다.
+  title: Windows 10 IoT Core Services
+  description: Windows 10 IoT Core Services는 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870649"
-name: Windows 10 IoT Core 서비스
+name: Windows 10 IoT Core Services
 summary: >+
-  Windows 10 IoT Core service는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Windows 10 IoT Core Services는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 IoT Core 서비스](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Service는 지원 되는 Windows 10 IoT Core 소프트웨어 버전을 실행 하는 경우 장치 업데이트 센터가 있는 업데이트 제어 및 장치 상태 증명을 포함 하는 향상 된 보안 기능을 비롯 하 여 소프트웨어 지원을 제공 하는 구독입니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services는 Windows 10 IoT Core 소프트웨어의 지원되는 버전을 실행하는 동안은 디바이스 업데이트 센터의 업데이트 제어 및 디바이스 상태 증명을 통해 향상된 보안을 포함하여 서비스로 소프트웨어 지원을 제공하는 구독입니다."

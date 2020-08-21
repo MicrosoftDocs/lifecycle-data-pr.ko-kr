@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Talent에 대 한 Dynamics 365
-  description: Talent의 Dynamics 365는 최신 수명 주기 정책을 따릅니다.
+  title: Dynamics 365 for Talent
+  description: Dynamics 365 for Talent는 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870628"
-name: Talent에 대 한 Dynamics 365
+name: Dynamics 365 for Talent
 summary: >+
-  Talent의 Dynamics 365는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Dynamics 365 for Talent는 [최신](/lifecycle/policies/modern) 수명 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Links \n* [시스템 요구 사항](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [마이그레이션 지침](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> 모집 및 온보드 앱은 2022 년 2 월 2 일에 만료 됩니다.  핵심 HR relaunched as Dynamics 365 인적 자원으로, 2020 년 2 월 1 일에 자세한 내용은 마이그레이션 지침을 참조 하세요.\n\n## <a name=\"editions\"></a>버전 \n* 장착"
+content: "\n## <a name=\"links\"></a>링크 \n* [시스템 요구 사항](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [마이그레이션 지침](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract 및 Onboard 앱은 2022년 2월 2일에 사용이 중지됩니다.  Core HR이 2020년 2월 1일에 Dynamics 365 Human Resources로 다시 출시되었습니다. 자세한 내용은 마이그레이션 지침을 참조하세요.\n\n## <a name=\"editions\"></a>버전 \n* Onboard"

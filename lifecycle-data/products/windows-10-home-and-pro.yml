@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879183"
@@ -14,12 +14,12 @@ summary: >
   Windows 10 Home 및 Pro는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Home, Pro, Pro for 교육용, Pro for 워크스테이션, 전문가에 게 적용 됩니다.
+  다음 버전에 적용됩니다. Home, Pro, Pro for Education, Pro for Workstations, Professional
 
 
   > [!IMPORTANT]
 
-  > Microsoft는 2025 년 10 월 14 일까지 적어도 한 개의 Windows 10 반기 채널을 계속 지원 합니다.
+  > Microsoft는 하나 이상의 Windows 10 반기 채널을 2025년 10월 14일까지 계속 지원합니다.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 수명 주기 팩트 시트](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [수명 주기 FAQ-Windows 제품](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation 먼저 버전 1703을 사용 하 여 출시\n> [!NOTE]\n> 지연 되지 않으면 이전에 Windows 10 반기 채널 기능 업데이트를 기본 지원 날짜의 끝에 설치 해야 할 수 있습니다.\n\n## <a name=\"editions\"></a>버전 \n* 홈\n* 전문가\n* 전문가가 전문가를 위한 교육\n* Pro for Workstation\n* 만든"
+content: "\n## <a name=\"links\"></a>링크 \n* [WaaS(Windows as a Service)](/windows/deployment/update/waas-quick-start)\n* [Windows 수명 주기 팩트 시트](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation이 버전 1703으로 처음 릴리스됨\n> [!NOTE]\n> 지연되지 않는 한, 이후의 Windows 10 반기 채널 기능 업데이트는 나열된 일반 지원 날짜가 종료되기 전에 설치될 수 있습니다.\n\n## <a name=\"editions\"></a>버전 \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional"

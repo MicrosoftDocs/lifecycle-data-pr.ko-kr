@@ -2,24 +2,24 @@
 metadata:
   title: Windows 8
   description: Windows 8은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857994"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906700"
 name: Windows 8
 summary: >
-  Windows 8은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows 8은 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
 
 
-  이 작업은 Enterprise, Enterprise N, N, Pro, Media Center, Professional, Professional Kn 버전에 적용 됩니다.
+  이버전은 Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL에 따라 다를 수 있습니다.
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다. 고객은 지원 되는 상태로 있으려면 Windows 8.1로 업데이트 해야 합니다.
+  > 이 제품에 대한 지원이 종료되었습니다. 고객은 지원을 계속 사용하기 위해 Windows 8.1로 업데이트해야 합니다.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ-Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* Enterprise Kn\n* Kn\n* Media Center를 사용 하는 Pro\n* 만든\n* 전문 Kn"
+content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>에디션 \n* 엔터프라이즈\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"

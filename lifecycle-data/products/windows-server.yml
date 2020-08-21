@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870743"
@@ -14,7 +14,7 @@ summary: >+
   Windows Server는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 데이터 센터, 표준에 적용 됩니다.
+  다음 버전에 적용됩니다. Datacenter, Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Windows Server 서비스 채널: LTSC 및 SAC](/windows-server/get-started-19/servicing-channels-19)\n* [수명 주기 FAQ-Windows 제품](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 10 월 업데이트 (버전 1809)가 11 월 13, 2018에 다시 릴리스 되었습니다. 이에 따라 지원 날짜를 조정 했습니다.\n\n## <a name=\"editions\"></a>버전 \n* 데이터 센터\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows Server 서비스 채널: LTSC 및 SAC](/windows-server/get-started-19/servicing-channels-19)\n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Window 10 10월 업데이트(버전 1809)는 2018년 11월 13일에 다시 릴리스되었습니다. 지원 날짜는 이에 따라 조정되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Standard"

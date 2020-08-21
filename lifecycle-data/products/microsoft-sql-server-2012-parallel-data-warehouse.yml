@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012 병렬 데이터 웨어하우스 (분석 플랫폼 시스템)
-  description: Microsoft SQL Server 2012 병렬 데이터 웨어하우스 (분석 플랫폼 시스템)는 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)
+  description: Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870737"
-name: Microsoft SQL Server 2012 병렬 데이터 웨어하우스 (분석 플랫폼 시스템)
+name: Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)
 summary: >
-  Microsoft SQL Server 2012 병렬 데이터 웨어하우스 (분석 플랫폼 시스템)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > SQL Server 2012 PDW (병렬 데이터 웨어하우스)가 APS로 다시 지정 되었습니다 (분석 플랫폼 시스템).
+  > SQL Server 2012 PDW(병렬 데이터 웨어하우스)는 APS(Analytics Platform System)로 이름이 변경되었습니다.
 products:
 - sql-server
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 07/12/2013
   endDate: 10/08/2024
-content: "\n## <a name=\"links\"></a>Links \n* [제품 정보](https://www.microsoft.com/sql-server/analytics-platform-system)"
+content: "\n## <a name=\"links\"></a>링크 \n* [제품 정보](https://www.microsoft.com/sql-server/analytics-platform-system)"
