@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858151"
@@ -14,7 +14,7 @@ summary: >+
   Windows Storage Server 2012 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Essentials, Standard, Workgroup 등의 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> 고객에 게 표준 수명 주기 전환 타임 라인을 제공 하기 위해이 제품에 대 한 기본 및 연장 지원이 확장 되었습니다.\n> [!NOTE]\n> Essentials 버전의 시작 날짜는 2014 년 9 월 25 일입니다. \n\n## <a name=\"editions\"></a>버전 \n* Essentials\n* 표준을\n* 작업"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> 이 제품의 기본 및 추가 지원은 고객에게 표준 수명 주기 전환 일정을 제공할 수 있도록 확장되었습니다.\n> [!NOTE]\n> Essentials 버전의 시작 날짜는 2014년 9월 25일입니다. \n\n## <a name=\"editions\"></a>버전 \n* Essentials\n* Standard\n* Workgroup"

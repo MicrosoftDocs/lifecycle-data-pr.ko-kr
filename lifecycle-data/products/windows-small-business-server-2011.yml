@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Small Business Server 2011
-  description: Windows Small Business 서버 2011 고정 수명 주기 정책을 따릅니다.
+  description: Windows Small Business Server 2011은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857945"
 name: Windows Small Business Server 2011
 summary: >
-  Windows Small Business 서버 2011 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Small Business Server 2011은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Essentials, Premium 추가 기능, Standard 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Essentials, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > 이 제품 패키지의 지원 날짜는 개별 구성 요소 제품의 각 수명 주기에 의해 결정 됩니다. 개별 구성 요소 제품의 수명 주기를 검토 하 여 지원 기간을 확인 하세요.
+  > 이 제품 패키지의 지원 날짜는 개별 구성 요소 제품의 각 수명 주기에 따라 결정됩니다. 개별 구성 요소 제품의 수명 주기를 검토하여 지원 기간을 확인하세요.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [Windows Small Business Server 2011 Standard를 Windows Server Essentials로 마이그레이션](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>버전 \n* Essentials\n* 프리미엄 추가 기능\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [Windows Small Business Server 2011 Standard를 Windows Server Essentials로 마이그레이션](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>버전 \n* Essentials\n* Premium Add-On\n* Standard"

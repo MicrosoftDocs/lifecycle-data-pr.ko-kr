@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization 5.0
-  description: Microsoft Application Virtualization 5.0는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft Application Virtualization 5.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857896"
 name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Application Virtualization 5.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다. (원격 데스크톱 서비스의 경우) 터미널 서비스에 대 한 Windows 데스크톱
+  Remote Desktop Services, Terminal Services, Windows Desktops 버전에 적용됩니다.
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [제품 정보](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 원격 데스크톱 서비스용\n* 터미널 서비스\n* Windows 데스크톱"
+content: "\n## <a name=\"links\"></a>링크 \n* [제품 정보](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Remote Desktop Services용\n* Terminal Services용\n* Windows Desktops용"

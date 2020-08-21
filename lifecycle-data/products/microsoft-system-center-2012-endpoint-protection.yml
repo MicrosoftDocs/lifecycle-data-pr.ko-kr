@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857961"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft System Center 2012 Endpoint Protection은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  Mac용 버전에 적용됩니다.
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [System Center 설명서](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> 고객은 최신 맬웨어 방지 플랫폼 업데이트를 완벽 하 게 지원 하 여 최신 상태를 유지 해야 합니다.\n\n## <a name=\"editions\"></a>버전 \n* Mac 용"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [System Center 설명서](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> 고객은 완전한 지원을 받으려면 최신 맬웨어 방지 플랫폼 업데이트를 최신 상태로 유지해야 합니다.\n\n## <a name=\"editions\"></a>버전 \n* Mac용"

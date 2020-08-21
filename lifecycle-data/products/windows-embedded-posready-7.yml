@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858119"
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [* ESU (확장 보안 업데이트 프로그램)-선택 된 임베디드 제품에 대 한 확장 된 보안 업데이트는 Oem을 통해 제공 됩니다.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT Embedded 모드](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>링크 \n* [* ESU(확장 보안 업데이트) 프로그램 - 일부 포함된 제품의 확장 보안 업데이트는 OEM을 통해 사용할 수 있습니다.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT Embedded 모드](/windows/iot-core/develop-your-app/embeddedmode)"

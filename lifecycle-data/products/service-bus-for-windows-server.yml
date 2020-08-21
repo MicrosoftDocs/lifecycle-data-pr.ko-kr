@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 용 서비스 버스
-  description: Windows Server 용 서비스 버스가 구성 요소 수명 주기 정책을 따릅니다.
+  title: Windows Server용 Service Bus
+  description: Windows Server용 Service Bus는 구성 요소 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857955"
-name: Windows Server 용 서비스 버스
+name: Windows Server용 Service Bus
 summary: >
-  Windows Server 용 서비스 버스가 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+  Windows Server용 Service Bus는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 서비스 버스 1.1이 SharePoint server 2016 또는 SharePoint Server 2013의 구성 요소인 경우 각 SharePoint Server 버전의 지원 날짜 끝에 따라 지원 됩니다.
+  > Service Bus 1.1이 SharePoint Server 2016 또는 SharePoint Server 2013의 구성 요소인 경우 각 SharePoint Server 버전의 지원 날짜에 따라 지원됩니다.
 products:
 - windows
 policyType: component

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857949"
@@ -14,7 +14,7 @@ summary: >+
   Visual Studio 2012는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 에이전트, 커뮤니티 2013, 웹에 대 한 express, Windows 8 용 express, windows 데스크톱용 express, Microsoft Azure 도구, Premium, Professional, 원격 도구, 셸 (통합), 셸 (격리 됨), SQL Server 데이터 도구, 팀 탐색기, 테스트 전문가 2013, 궁극적인
+  다음 버전에 적용됩니다. Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Visual Studio 제품 수명 주기 및 서비스](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>버전 \n* Agent\n* 커뮤니티 2013\n* Express for Web\n* Windows 8 용 Express\n* Windows 데스크톱 Express\n* IntelliTrace 수집기\n* Microsoft Azure 도구\n* 프리미엄\n* 만든\n* 원격 도구\n* 셸 (통합)\n* 셸 (격리 됨)\n* SQL Server 데이터 도구\n* 팀 탐색기\n* 테스트 전문가 2013\n* 궁극적\n* Visual c + + 재배포 가능 패키지\n* 웹 도구 확장"
+content: "\n## <a name=\"links\"></a>링크 \n* [Visual Studio 제품 수명 주기 및 서비스](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* 원격 도구\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
