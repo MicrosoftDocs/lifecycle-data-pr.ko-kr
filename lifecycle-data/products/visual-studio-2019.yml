@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870659"
@@ -14,7 +14,7 @@ summary: >+
   Visual Studio 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 에이전트, 빌드 도구, 커뮤니티, 엔터프라이즈, Mac 용, IntelliTrace 독립 실행형 수집기, 성능 도구, 전문가, 원격 도구, 팀 탐색기, Visual c + + 재배포 가능 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Agents, Build Tools, Community, Enterprise, Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [발표](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [서비스 정보](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>버전 \n* Agent\n* 빌드 도구\n* 커뮤니티\n* 엔터프라이즈\n* Mac 용\n* IntelliTrace 독립 실행형 수집기\n* 성능 도구\n* 만든\n* 원격 도구\n* 팀 탐색기\n* Visual c + + 재배포 가능 패키지"
+content: "\n## <a name=\"links\"></a>링크 \n* [공지](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [서비스 정보](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* 원격 도구\n* Team Explorer\n* Visual C++ Redistributable"
