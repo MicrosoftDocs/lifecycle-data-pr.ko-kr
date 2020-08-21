@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826725"
@@ -14,12 +14,12 @@ summary: >
   Windows XP Embedded는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Embedded
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다.
+  > 이 제품에 대한 지원이 종료되었습니다.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Windows XP Embedded 지원](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>버전 \n* 포함 된"
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows XP Embedded 지원](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>버전 \n* Embedded"

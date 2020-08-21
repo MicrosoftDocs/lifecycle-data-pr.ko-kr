@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (인터넷 사이트용)
-  description: Microsoft SharePoint 2010 (인터넷 사이트용)은 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft SharePoint 2010(Internet Sites용)
+  description: Microsoft SharePoint 2010(Internet Sites용)은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827185"
-name: Microsoft SharePoint 2010 (인터넷 사이트용)
+name: Microsoft SharePoint 2010(Internet Sites용)
 summary: >+
-  Microsoft SharePoint 2010 (인터넷 사이트용)은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft SharePoint 2010(Internet Sites용)은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 내용은 인터넷 사이트 표준에 대해 다음 버전에 적용 됩니다.
+  Internet Sites Enterprise, Internet Sites Standard 버전에 적용됩니다.
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Links \n* [제품 설명서](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [개발자 설명서](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> 이 제품의 지원 종료 날짜는 2020 년 10 월 13 일에서 2021 4 월 13 일까지 연장 되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* 인터넷 사이트 엔터프라이즈\n* 인터넷 사이트 표준"
+content: "\n## <a name=\"links\"></a>링크 \n* [제품 설명서](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [개발자 설명서](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> 본제품 서비스 종료는 2020년 10월 13일 에서 2021년 4월 13일 로 연기되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Internet Sites Enterprise용\n* Internet Sites Standard용"

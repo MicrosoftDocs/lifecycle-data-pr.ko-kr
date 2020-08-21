@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint Server 2010
-  description: Microsoft SharePoint Server 2010는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft SharePoint Server 2010은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826620"
 name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft SharePoint Server 2010은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 Access Services, 해당 되는 모든 Excel Services, Performance Point Services 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Access Services, 적용 가능한 모든 제품, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [지원 확장](https://aka.ms/SharePoint/server/2010/supportextension)\n* [마이그레이션 지침](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> 이 제품의 지원 종료 날짜는 2020 년 10 월 13 일에서 2021 4 월 13 일까지 연장 되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Access Services\n* 해당 하는 모든\n* Excel Services\n* PerformancePoint Services"
+content: "\n## <a name=\"links\"></a>링크 \n* [지원 확장](https://aka.ms/SharePoint/server/2010/supportextension)\n* [마이그레이션 지침](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> 본제품 서비스 종료는 2020년 10월 13일 에서 2021년 4월 13일 로 연기되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Access Services\n* 적용 가능한 모든 제품\n* Excel Services\n* PerformancePoint Services"

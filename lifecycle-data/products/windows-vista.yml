@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826726"
@@ -14,12 +14,12 @@ summary: >
   Windows Vista는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home basic N 64, 홈페이지, Home Premium, home Premium 64-비트, 시작, 궁극적인, 궁극적인 64 비트 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64비트, Home Basic N, Home Basic N 64비트, Home Premium, Home Premium 64비트, Starter, Ultimate, Ultimate 64비트
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되 면 아래에서 마이그레이션 정보를 참조 하세요.
+  > 이 제품에 대한 지원이 종료되었습니다. 마이그레이션 정보를 보려면 아래를 참조하세요.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 업그레이드 및 마이그레이션 고려 사항](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 비즈니스\n* 비즈니스 N\n* 엔터프라이즈\n* 엔터프라이즈 X64\n* Home Basic\n* Home Basic 64 비트\n* Home Basic Kn\n* Home Basic Kn 64 비트\n* Home Premium\n* Home Premium 64 비트\n* 기초\n* 궁극적\n* 최종 64 비트"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 업그레이드 및 마이그레이션 고려 사항](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64비트\n* Home Basic N\n* Home Basic N 64비트\n* Home Premium\n* Home Premium 64비트\n* Starter\n* Ultimate\n* Ultimate 64비트"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2007 Microsoft Office 시스템용 microsoft Office 2003 웹 구성 요소
-  description: 2007 Microsoft Office system 용 microsoft Office 2003 웹 구성 요소는 구성 요소 수명 주기 정책을 따릅니다.
+  title: 2007 Microsoft Office 시스템용 Microsoft Office 2003 Web Components
+  description: 2007 Microsoft Office 시스템용 Microsoft Office 2003 Web Components는 구성 요소 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826643"
-name: 2007 Microsoft Office 시스템용 microsoft Office 2003 웹 구성 요소
+name: 2007 Microsoft Office 시스템용 Microsoft Office 2003 Web Components
 summary: >+
-  2007 Microsoft Office system 용 microsoft Office 2003 웹 구성 요소는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+  2007 Microsoft Office 시스템용 Microsoft Office 2003 Web Components는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/office/troubleshoot/support/office-2007-not-support)"

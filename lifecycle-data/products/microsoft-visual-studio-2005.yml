@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826609"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Visual Studio 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 전문가, Standard, Standard Edition 교육용 라이선스, 데이터베이스 전문가를 위한 팀 에디션, 소프트웨어 설계자 용 팀 에디션, 소프트웨어 개발자를 위한 팀 에디션, Microsoft Office System, team Suite, 팀 테스트 부하 에이전트, 도구, visual c # express, visual j # 익스프레스, 시각적 웹 개발자 express에 대 한 team edition에 적용 됩니다.
+  다음 버전에 적용됩니다. Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Visual j # 지원 정보](https://msdn.microsoft.com/vstudio/bb188593)\n* [마이그레이션 지침](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio 제품 정보](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 이 제품에 대 한 지원이 종료 되었습니다. 마이그레이션 지침은 아래를 참조 하세요.\n> [!NOTE]\n> 2007 년 3 월 2 일에 릴리스된 데이터베이스 전문가 용 Microsoft Visual Studio 2005 Team Edition\n\n## <a name=\"editions\"></a>버전 \n* 만든\n* 표준을\n* Standard Edition 교육용 라이선스\n* 데이터베이스 전문가를 위한 팀 에디션\n* 소프트웨어 설계자 용 Team Edition\n* 소프트웨어 개발자 용 Team Edition\n* 소프트웨어 테스터를 위한 팀 에디션\n* 팀 제품군\n* 팀 테스트 부하 에이전트\n* Microsoft Office System 용 도구\n* VB Express\n* Visual c # Express\n* Visual c # Express\n* Visual j # Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>링크 \n* [Visual J# 지원 정보](https://msdn.microsoft.com/vstudio/bb188593)\n* [마이그레이션 지침](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio 제품 정보](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 이 제품에 대한 지원이 종료되었습니다. 마이그레이션 지침은 아래를 참조하세요.\n> [!NOTE]\n> 2007년 3월 2일에 출시된 Microsoft Visual Studio 2005 Team Edition for Database Professionals\n\n## <a name=\"editions\"></a>버전 \n* Professional\n* Standard\n* Standard Edition academic license\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

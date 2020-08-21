@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 소매 관리 시스템 2.0
-  description: Dynamics 정품 관리 시스템 2.0 고정 수명 주기 정책을 따릅니다.
+  title: Dynamics Retail Management System 2.0
+  description: Dynamics Retail Management System 2.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826915"
-name: Dynamics 소매 관리 시스템 2.0
+name: Dynamics Retail Management System 2.0
 summary: >+
-  Dynamics 정품 관리 시스템 2.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Dynamics Retail Management System 2.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 본사, 스토어 작업에 적용 됩니다.
+  다음 버전에 적용됩니다. 본사, 스토어 운영
 
 products:
 - dynamics
@@ -39,4 +39,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 본사\n* 저장소 작업"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 본사\n* 스토어 운영"

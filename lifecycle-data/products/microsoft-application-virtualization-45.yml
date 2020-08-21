@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827300"
@@ -14,12 +14,12 @@ summary: >
   Microsoft Application Virtualization 4.5는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다. 터미널 서비스의 경우 Windows 데스크톱
+  Terminal Services용, Windows Desktops용 버전에 적용됩니다.
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-v 4.6 클라이언트는 App-v 4.5 서버를 사용 하므로 app-v 4.5 서버는 지원 되는 App-v 4.6 클라이언트와 함께 사용할 때 App-v 4.6의 수명 주기 날짜에 따라 계속 지원 됩니다.\n\n## <a name=\"editions\"></a>버전 \n* 터미널 서비스\n* Windows 데스크톱"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 클라이언트가 App-V 4.5 서버를 사용하기 때문에 지원되는 App-V 4.6 클라이언트와 함께 사용할 때 App-V 4.6의 수명 주기 날짜에 따라 App-V 4.5 서버가 계속 지원됩니다.\n\n## <a name=\"editions\"></a>버전 \n* Terminal Services용\n* Windows Desktops용"

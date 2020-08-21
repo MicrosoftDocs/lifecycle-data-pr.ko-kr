@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 필수 서버 솔루션용 windows Server 2008
-  description: Windows Server 2008 windows 서버 솔루션은 고정 수명 주기 정책을 따릅니다.
+  title: Windows Server 2008 for Windows Essential Server Solutions
+  description: Windows Server 2008 for Windows Essential Server Solutions는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827078"
-name: Windows 필수 서버 솔루션용 windows Server 2008
+name: Windows Server 2008 for Windows Essential Server Solutions
 summary: >
-  Windows Server 2008 windows 서버 솔루션은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Server 2008 for Windows Essential Server Solutions는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Standard (Hyper-v 불포함)에 적용 됩니다.
+  다음 버전에 적용됩니다. Standard, Hyper-V 불포함
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [제품 정보](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을\n* Hyper-v가 없는 경우"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [제품 정보](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard\n* Hyper-V 불포함"

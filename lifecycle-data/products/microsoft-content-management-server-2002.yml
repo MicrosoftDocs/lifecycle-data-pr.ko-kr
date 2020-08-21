@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827241"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Content Management Server 2002는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Enterprise, Standard와 같은 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -36,4 +36,4 @@ releases:
 - version: Service Pack 1
   startDate: 09/16/2003
   endDate: 07/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 이 제품의 Enterprise edition은 시작 날짜가 2002 년 11 월 7 일입니다. \n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 이 제품의 Enterprise 버전은 2002년 11월 7일이 시작 날짜입니다. \n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"
