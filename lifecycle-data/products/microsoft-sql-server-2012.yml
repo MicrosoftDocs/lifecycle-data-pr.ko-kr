@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857843"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft SQL Server 2012는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 비즈니스 인텔리전스, 개발자, 엔터프라이즈, 엔터프라이즈 코어, 익스프레스, 임베디드 시스템, 표준, 웹에 적용 됩니다.
+  다음 버전에 적용됩니다. Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Embedded Systems, Standard, Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 비즈니스 인텔리전스\n* Developer\n* 엔터프라이즈\n* 엔터프라이즈 코어\n* 고급\n* 임베디드 시스템의 경우\n* 표준을\n* Web"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 비즈니스 인텔리전스\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Embedded Systems용\n* Standard\n* 웹"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858171"
@@ -14,7 +14,7 @@ summary: >+
   SQL Server 2014는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 비즈니스 인텔리전스, 개발자, Enterprise, Enterprise Core, Express, Standard, Web 등의 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 비즈니스 인텔리전스\n* Developer\n* 엔터프라이즈\n* 엔터프라이즈 코어\n* 고급\n* 표준을\n* Web"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 비즈니스 인텔리전스\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* 웹"

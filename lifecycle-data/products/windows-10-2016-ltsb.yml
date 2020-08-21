@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 05a489099eb9b0bd08717e99e8735490d93edbbd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857791"
@@ -14,7 +14,7 @@ summary: >+
   Windows 10 2016 LTSB는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2016
   endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 10 월 업데이트 (버전 1809) 다시 출시](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈"
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows 10 10월 업데이트(버전 1809) 다시 릴리스](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [WaaS(Windows as a Service)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise"

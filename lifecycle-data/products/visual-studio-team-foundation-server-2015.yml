@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ff7e78930b60209ffb1bee2ba4da54aa6504027
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858218"
@@ -14,7 +14,7 @@ summary: >+
   Visual Studio Team Foundation Server 2015는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. 전체
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [제품 정보-Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>버전 \n* 모두"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [제품 정보 - Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>버전 \n* 전체"

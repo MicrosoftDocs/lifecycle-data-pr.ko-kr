@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 2010 R2
-  description: Dynamics GP 2010 R2 고정 수명 주기 정책을 따릅니다.
+  description: Dynamics GP 2010 R2는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0a949af7488fa22cb0aa994ab4436f139097b25b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858110"
 name: Dynamics GP 2010 R2
 summary: >+
-  Dynamics GP 2010 R2 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Dynamics GP 2010 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/14/2011
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Links \n* [추가 정보 및 마이그레이션 지침](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [제품 정보](/dynamics-gp/)"
+content: "\n## <a name=\"links\"></a>링크 \n* [추가 정보 및 마이그레이션 지침](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [제품 정보](/dynamics-gp/)"

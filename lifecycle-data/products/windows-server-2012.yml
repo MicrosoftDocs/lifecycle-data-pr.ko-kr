@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858206"
@@ -14,7 +14,7 @@ summary: >+
   Windows Server 2012는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 데이터 센터, Essentials, 임베디드 Systems, Standard에 적용 됩니다.
+  다음 버전에 적용됩니다. Datacenter, Essentials, Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-overview)\n* [제품 정보](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 고객에 게 표준 수명 주기 전환 타임 라인을 제공 하기 위해이 제품에 대 한 기본 및 연장 지원이 확장 되었습니다. Windows Server Essentials는 2013 년 1 월 2 일에 출시 되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* 데이터 센터\n* Essentials\n* 임베디드 시스템의 경우\n* Team\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-overview)\n* [제품 정보](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 이 제품의 기본 및 추가 지원은 고객에게 표준 수명 주기 전환 일정을 제공할 수 있도록 확장되었습니다. 2013년 1월 2일에 출시된 Windows Server Essentials.\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Essentials\n* Embedded Systems용\n* Foundation\n* Standard"
