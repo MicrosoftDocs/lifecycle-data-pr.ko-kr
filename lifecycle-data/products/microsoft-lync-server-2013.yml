@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft Lync Server 2013은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826888"
 name: Microsoft Lync Server 2013
 summary: >+
-  Microsoft Lync Server 2013는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Lync Server 2013은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 엔터프라이즈, 영구 채팅 소프트웨어 개발 키트, 휴대폰, SDK, Standard 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [제품 정보](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition은 Lync Server 2010 및 Lync Server 2013에서 지원 됩니다. Lync Phone Edition의 지원 날짜는 Lync Server 2013 수명 주기에 맞게 2 년 연장 되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 영구 채팅 소프트웨어 개발 킷\n* 전화\n* K\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [제품 정보](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition은 Lync Server 2010 및 Lync Server 2013에서 지원됩니다. Lync Phone Edition의 지원 날짜는 Lync Server 2013 수명 주기와 일치하도록 2년 연장되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827587"
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> 3.5 SP1 이전 .NET Framework 3. x 버전 지원은 2011 년 7 월 12 일에 종료 되었습니다. \n> [!NOTE]\n> 수명 주기 날짜는 Windows 10 버전 1809, Windows Server 2019 이상에서 실행할 때 .NET 3.5 SP1에 적용할 수 있습니다. 이전 버전의 Windows에서는 .NET 3.5 SP1이 기본 Windows OS의 수명 주기를 채택 합니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> 2011년 7월 12일에 3.5 SP1 이전의 .NET Framework 3.x 버전에 대한 지원이 종료되었습니다. \n> [!NOTE]\n> 수명주기 날짜는 Windows 10 버전 1809, Windows Server 2019 이상에서 실행될 때 .NET 3.5 SP1에 적용됩니다. 이보다 이전 버전의 Windows에서 .NET 3.5 SP1은 기본 Windows OS의 수명 주기를 따릅니다."

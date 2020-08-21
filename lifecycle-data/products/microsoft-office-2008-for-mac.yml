@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2008 for Mac
-  description: Mac 용 Microsoft Office 2008 고정 수명 주기 정책을 따릅니다.
+  title: Mac용 Microsoft Office 2008
+  description: Microsoft Office 2008 for Mac은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826882"
-name: Microsoft Office 2008 for Mac
-summary: "Mac 용 Microsoft Office 2008 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n이 작업은 비즈니스, 가정 및 학생, 특수 미디어 편집에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. \n"
+name: Mac용 Microsoft Office 2008
+summary: "Microsoft Office 2008 for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mac 용 Office 2008의 특수 미디어 버전에 대 한 시작 날짜는 2008입니다.\n\n## <a name=\"editions\"></a>버전 \n* 비즈니스\n* Home and Student \n* 특수 미디어 편집 켜기"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac Special Media Edition의 시작 날짜는 2008년 3월 12일입니다.\n\n## <a name=\"editions\"></a>버전 \n* Business\n* Home and Student\n* Special Media Editon"

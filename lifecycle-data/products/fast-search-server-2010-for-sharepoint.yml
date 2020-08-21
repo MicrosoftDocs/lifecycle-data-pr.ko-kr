@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (sharepoint의 경우 sharepoint 인터넷 사이트용)
-  description: FAST Search Server 2010 (sharepoint의 경우 sharepoint 인터넷 사이트용)은 고정 수명 주기 정책을 따릅니다.
+  title: FAST Search Server 2010(SharePoint, SharePoint Internet Sites)
+  description: FAST Search Server 2010(SharePoint 및 SharePoint Internet Sites 전용)은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827341"
-name: FAST Search Server 2010 (sharepoint의 경우 sharepoint 인터넷 사이트용)
+name: FAST Search Server 2010(SharePoint, SharePoint Internet Sites)
 summary: >+
-  FAST Search Server 2010 (sharepoint의 경우 sharepoint 인터넷 사이트용)은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  FAST Search Server 2010(SharePoint용 및 SharePoint Internet Sites용)은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 sharepoint에 대 한 sharepoint 인터넷 사이트용 버전에 적용 됩니다.
+  SharePoint용 및 SharePoint Internet Sites용 버전에 적용됩니다.
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 이전에 지원 되지 않는 버전을 제외 합니다. 이 제품에 대 한 지원은 해당 취득 조건에 따라 달라 집니다.\n\n## <a name=\"editions\"></a>버전 \n* SharePoint\n* SharePoint 인터넷 사이트의 경우"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 이전에 지원되지 않는 버전은 제외합니다. 이 제품의 지원은 획득 약관의 적용을 받습니다.\n\n## <a name=\"editions\"></a>버전 \n* SharePoint용\n* SharePoint Internet Sites용"

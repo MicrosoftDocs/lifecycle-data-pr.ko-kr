@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827448"
 name: Windows Server 2008 R2
-summary: "Windows Server 2008 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n이 작업은 데이터 센터, 엔터프라이즈, HPC 버전, Itanium 기반 시스템, 표준, 웹 등의 버전에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요. \n"
+summary: "Windows Server 2008 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Datacenter, Enterprise, HPC Edition, Itanium-Based Systems, Standard, Web\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [서버 업그레이드 정보](/windows-server/upgrade/upgrade-overview)\n* [ESU (확장 보안 업데이트 프로그램)](/lifecycle/faq/extended-security-updates)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ESU (확장 보안 업데이트)는 지원 종료 후 최대 3 년 동안 데이터 센터, Standard, Enterprise 및 Embedded 버전의 특정 볼륨 라이선스 프로그램을 통해 사용할 수 있습니다. 자세한 내용은 Microsoft 파트너 또는 계정 팀에 문의 하세요. \n\n릴리스-------------------------------시작 날짜----종료 날짜\n\n연장 된 보안 업데이트 연도 3---01/11/2022---01/10/2023\n\n연장 된 보안 업데이트 1 년 2---01/12/2021---01/11/2022\n\n연장 된 보안 업데이트 1 년---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>버전 \n* 데이터 센터\n* 엔터프라이즈\n* HPC 버전\n* Itanium 기반 시스템\n* 표준을\n* Web"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [서버 업그레이드 정보](/windows-server/upgrade/upgrade-overview)\n* [ESU(확장 보안 업데이트) 프로그램](/lifecycle/faq/extended-security-updates)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ESU(확장 보안 업데이트)는 지원 종료 후 최대 3년 동안 추가로 이 제품의 Datacenter, Standard, Enterprise, Embedded 버전용 특정 볼륨 라이선스 프로그램을 통해 사용할 수 있습니다. 자세한 내용은 Microsoft 파트너 또는 계정 팀에 문의하십시오. \n\n릴리스------------------------------- 시작 날짜---- 종료 날짜\n\n확장 보안 업데이트 3년---2022/01/11---2023/01/10\n\n확장 보안 업데이트 2년---2021/01/12---2022/01/11\n\n확장 보안 업데이트 1년---2020/01/14---2021/01/12\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Enterprise\n* HPC Edition\n* Itanium-Based Systems\n* Standard\n* 웹"

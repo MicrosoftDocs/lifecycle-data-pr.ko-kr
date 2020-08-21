@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826724"
@@ -14,12 +14,12 @@ summary: >
   Windows XP는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Home, Professional, Professional for 임베디드 Systems, Starter 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Home, Professional, Professional for Embedded Systems, Starter
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - windows
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 홈\n* 만든\n* 임베디드 시스템용 전문가\n* 기초"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 고급 그룹 정책 관리 4.0
-  description: Microsoft 고급 그룹 정책 관리 4.0는 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Advanced Group Policy Management 4.0
+  description: Microsoft Advanced Group Policy Management 4.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827305"
-name: Microsoft 고급 그룹 정책 관리 4.0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Microsoft 고급 그룹 정책 관리 4.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Advanced Group Policy Management 4.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [MDOP 정보 환경](https://technet.microsoft.com/en-us/windows/bb899442)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>링크 \n* [MDOP 정보 환경](https://technet.microsoft.com/en-us/windows/bb899442)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)"

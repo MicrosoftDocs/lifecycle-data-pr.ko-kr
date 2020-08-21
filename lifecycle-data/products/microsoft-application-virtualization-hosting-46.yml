@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 데스크톱용 Microsoft 응용 프로그램 가상화 호스팅 4.6
-  description: Windows 데스크톱에 대 한 Microsoft 응용 프로그램 가상화 호스팅 4.6는 고정 수명 주기 정책을 따릅니다.
+  title: Windows Desktops를 위한 Microsoft Application Virtualization Hosting 4.6
+  description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktop는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827292"
-name: Windows 데스크톱용 Microsoft 응용 프로그램 가상화 호스팅 4.6
+name: Windows Desktops를 위한 Microsoft Application Virtualization Hosting 4.6
 summary: >+
-  Windows 데스크톱에 대 한 Microsoft 응용 프로그램 가상화 호스팅 4.6는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Application Virtualization Hosting 4.6 for Windows Desktops는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전의 Windows 데스크톱에 적용 됩니다.
+  Windows Desktops용 버전에 적용됩니다.
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [제품 및 마이그레이션 정보](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-v 4.6 클라이언트는 App-v 4.5 서버를 사용 하므로 app-v 4.5 서버는 지원 되는 App-v 4.6 클라이언트와 함께 사용할 때 App-v 4.6의 수명 주기 날짜에 따라 계속 지원 됩니다.\n\n## <a name=\"editions\"></a>버전 \n* Windows 데스크톱"
+content: "\n## <a name=\"links\"></a>링크 \n* [제품 및 마이그레이션 정보](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 클라이언트가 App-V 4.5 서버를 사용하기 때문에 지원되는 App-V 4.6 클라이언트와 함께 사용할 때 App-V 4.6의 수명 주기 날짜에 따라 App-V 4.5 서버가 계속 지원됩니다.\n\n## <a name=\"editions\"></a>버전 \n* Windows Desktops용"

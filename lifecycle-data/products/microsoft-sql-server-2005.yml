@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826769"
@@ -14,12 +14,12 @@ summary: >
   Microsoft SQL Server 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Compact, Developer, Embedded, Enterprise, Enterprise for Itanium 기반 시스템용 엔터프라이즈, Enterprise X64, Express, 고급 서비스, 표준, Itanium 기반 시스템용 표준, standard X64, 작업 그룹에 적용 됩니다.
+  다음 버전에 적용됩니다. Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-based Systems, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition은 2007 년 2 월 19 일에 릴리스 되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Cd-rom\n* Developer\n* 포함 된\n* 엔터프라이즈\n* Itanium 기반 시스템용 엔터프라이즈\n* 엔터프라이즈 X64\n* 고급\n* 고급 서비스를 사용 하는 Express\n* 표준을\n* Itanium 기반 시스템용 표준\n* Standard X64\n* 작업"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 2007년 2월 9일에 릴리스된 Microsoft SQL Server 2005 Compact Edition.\n\n## <a name=\"editions\"></a>버전 \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Express\n* Express with Advanced Services\n* Standard\n* Standard for Itanium-based Systems\n* Standard X64\n* Workgroup"

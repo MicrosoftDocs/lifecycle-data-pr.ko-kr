@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forecaster 7.0
-  description: Microsoft Forecaster 7.0는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft Forecaster 7.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827227"
 name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Forecaster 7.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dynamics 제품의 구성 요소로 배포 되지 않은 경우 Forecaster 지원은 지정 된 날짜에 종료 됩니다. Dynamics 제품과 함께 배포할 때 Dynamics 수명 주기 날짜가 Forecaster 날짜를 재정의 합니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Forecaster 지원은 Dynamics 제품의 구성 요소로 배포되지 않는 한 표시된 날짜에 종료됩니다. Dynamics 제품과 함께 배포하는 경우 Dynamics 수명 주기 날짜는 Forecaster 날짜를 재정의합니다."

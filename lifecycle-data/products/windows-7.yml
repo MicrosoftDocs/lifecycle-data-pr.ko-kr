@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826583"
 name: Windows 7
-summary: "Windows 7은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n이 작업은 엔터프라이즈, 엔터프라이즈 N, Home Basic, Home Premium, Home Premium N, 프로페셔널, 전문가를 위한 임베디드 시스템, 전문가 N, Starter, Starter n, 최고급, 궁극적인 임베디드 시스템, 궁극적인 Kn 버전에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요. \n"
+summary: "Windows 7은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> ' * ESU (연장 보안 업데이트)는이 제품의 임베디드 시스템 버전에 대 한 특정 볼륨 라이선스 프로그램을 통해 지원 종료 후 3 년 이상까지 사용할 수 있습니다. 자세한 내용은 Microsoft 파트너 또는 계정 팀에 문의 하세요. \n\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://support.microsoft.com/help/4057281)\n* [Windows 7에서 Windows 10으로 업그레이드](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [ESU (확장 보안 업데이트 프로그램)](/lifecycle/faq/extended-security-updates)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* Enterprise Kn\n* Home Basic\n* Home Premium\n* Home Premium Kn\n* 만든\n* 임베디드 시스템용 전문가\n* 전문 Kn\n* 기초\n* 스타터 N\n* 궁극적\n* 임베디드 시스템에 대 한 궁극적인 최종\n* 최종 Kn"
+content: "> [!TIP]\n> '* ESU(확장 보안 업데이트)는 지원 종료 후 최대 3년 동안 추가로 이 제품의 Windows 7 Professional, Enterprise, Professional for Embedded Systems 버전용 특정 볼륨 라이선싱 프로그램을 통해 사용할 수 있습니다. 자세한 내용은 Microsoft 파트너 또는 계정 팀에 문의하십시오. \n\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://support.microsoft.com/help/4057281)\n* [Windows 7에서 Windows 10으로 업그레이드](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [ESU(확장 보안 업데이트) 프로그램](/lifecycle/faq/extended-security-updates)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N"
