@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 미디어 룸
+  description: Microsoft MediaRoom은 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907297"
+name: Microsoft 미디어 룸
+summary: >+
+  Microsoft MediaRoom은 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
+
+
+  This applies to the following editions to the Application Services 1.0, Client 2.0, Client 2.1, Server 2.0, Server 2.1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericson은 2013년에 Microsoft MediaRoom 제품을 취득했습니다. 자세한 내용은 보면 놓을 [시기를 누르세요.](http://www.ericsson.com/news/1691160) 지원이 필요한 고객은 여기로 [이동하세요.](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)\n> [!NOTE]\n> Microsoft Mediaroom Client 2.1은 2011년 12월 27일에 출시되었습니다. \n\n## <a name=\"editions\"></a>버전 \n* Application Services 1.0\n* Client 2.0\n* 클라이언트 2.1\n* Server 2.0\n* 서버 2.1"
