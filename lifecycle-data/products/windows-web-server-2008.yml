@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 웹 서버 2008
+  description: Windows Web Server 2008는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5a30ae3c7d7139240f057b39103ef126f89a2d13
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908811"
+name: Windows 웹 서버 2008
+summary: >+
+  Windows Web Server 2008는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  다음 버전에 적용됩니다. Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 04/29/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/10/2018
+content: "\n\n> [!NOTE]\n> Windows Server 2008 서비스 팩 2 당이 제품은 2020 년 1 월 14 일에 대 한 지원 종료에 도달 했습니다.\n\n## <a name=\"editions\"></a>버전 \n* Standard"
