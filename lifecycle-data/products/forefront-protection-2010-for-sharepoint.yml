@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Forefront Protection 2010 for SharePoint
+  description: SharePoint 용 Forefront Protection 2010는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908808"
+name: Forefront Protection 2010 for SharePoint
+summary: >+
+  SharePoint 용 Forefront Protection 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Forefront brand에서 보안 제품에 대 한 로드맵을 변경 했습니다. 이 제품은 12 월 31 일까, 2015에 비해 단종 됩니다."

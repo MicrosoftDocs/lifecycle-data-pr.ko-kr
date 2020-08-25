@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 감사 및 제어 관리 서버 2013
-  description: Microsoft Office 감사 및 제어 관리 서버 2013 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 96d9fdc88fbd6ccfcd2a97e1b0a0703c2532411d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Office 제어 관리 서버 2013
+  description: Microsoft Office 감사 및 제어 관리 서버 2013은 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858188"
-name: Microsoft Office 감사 및 제어 관리 서버 2013
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907917"
+name: Microsoft Office 제어 관리 서버 2013
 summary: >+
-  Microsoft Office 감사 및 제어 관리 서버 2013 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Office 관리 서버 2013은 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
 
 
 products:
