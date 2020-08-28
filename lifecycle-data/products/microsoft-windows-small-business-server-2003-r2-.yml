@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Microsoft Windows Small Business Server 2003 R2 '
+  description: Microsoft Windows Small Business Server 2003 R2는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a9142425395afa7e631f3f86fe250bd4a3c14e09
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894065"
+name: 'Microsoft Windows Small Business Server 2003 R2 '
+summary: >+
+  Microsoft Windows Small Business Server 2003 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  다음 버전에 적용됩니다. Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/01/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/01/2006
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> 이 제품 패키지의 지원 날짜는 개별 구성 요소 제품의 각 수명 주기에 따라 결정됩니다. 개별 구성 요소 제품의 수명 주기를 검토하여 지원 기간을 확인하세요.\n\n## <a name=\"editions\"></a>버전 \n* Premium\n* Standard"

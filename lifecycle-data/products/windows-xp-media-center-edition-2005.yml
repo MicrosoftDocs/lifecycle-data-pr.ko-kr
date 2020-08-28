@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP Media Center Edition 2005
+  description: Windows XP Media Center Edition 2005는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 51d0bb29320a507fba4ea0c18e11bfa85f92dccf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "892057"
+name: Windows XP Media Center Edition 2005
+summary: >+
+  Windows XP Media Center Edition 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  다음 버전에 적용됩니다. Extender
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2004
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 12/30/2004
+  endDate: 04/08/2014
+content: "\n\n> [!NOTE]\n> Media Center Extender는 2010년 1월 12일에 종료되는 일반 지원만 제공했습니다. \n\n## <a name=\"editions\"></a>버전 \n* Extender"

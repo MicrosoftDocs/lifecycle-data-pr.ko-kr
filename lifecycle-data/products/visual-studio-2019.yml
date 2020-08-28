@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: d5638d558c441faed42d3fdcfd2e5e9b8a89d2a5
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870659"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906885"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. Agents, Build Tools, Community, Enterprise, Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
+  다음 버전에 적용됩니다. Agents, Build Tools, Community, Enterprise, ESGH, Mac용, IntelliTrace Standalone Collector, Performance Tools, Professional, PSGH, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>링크 \n* [공지](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [서비스 정보](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* 원격 도구\n* Team Explorer\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>링크 \n* [공지](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [서비스 정보](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* ESGH\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* PSGH\n* PSM\n* 원격 도구\n* Team Explorer\n* Visual C++ Redistributable"

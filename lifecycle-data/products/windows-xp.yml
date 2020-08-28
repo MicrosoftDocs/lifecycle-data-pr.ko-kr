@@ -2,19 +2,19 @@
 metadata:
   title: Windows XP
   description: Windows XP는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: b87864c5f60526582efd3d8d986ce63c0d203e39
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826724"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893764"
 name: Windows XP
 summary: >
   Windows XP는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. Home, Professional, Professional for Embedded Systems, Starter
+  다음 버전에 적용됩니다. Home, Professional, Professional for Embedded Systems, Professional x64, Starter
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP Professional x64 에디션의 시작 날짜는 2005년 4월 24일이었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Home\n* Professional\n* Professional for Embedded Systems\n* Professional x64\n* Starter"
