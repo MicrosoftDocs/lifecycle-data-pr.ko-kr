@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
+  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870661"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907110"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. Agents, Build Tools, Community, Enterprise, Feedback Client, Mac용, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
+  이는 다음 에디션에 적용됩니다: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>링크 \n* [공지](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [서비스 정보](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* Feedback Client\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* 원격 도구\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>링크 \n* [공지](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [서비스 정보](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* ESM\n* Feedback Client\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* PSM\n* 원격 도구\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
