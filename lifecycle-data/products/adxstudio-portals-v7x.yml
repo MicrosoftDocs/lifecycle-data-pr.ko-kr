@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio 포털 v7
+  description: Adxstudio 포털 v7는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 5b9bb57b3e2e036f484196a07dcf60aa0e8912e1
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924398"
+name: Adxstudio 포털 v7
+summary: >+
+  Adxstudio 포털 v7는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)\n\n> [!NOTE]\n> 이 제품에 대 한 지원은 해당 취득 조건의 영향을 받게 되며 종료 되었습니다. 아래 마이그레이션 지침을 참조하세요."

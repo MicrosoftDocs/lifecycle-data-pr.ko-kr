@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio Portal v6. x 또는 이전
+  description: Adxstudio Portal v6 .x는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924396"
+name: Adxstudio Portal v6. x 또는 이전
+summary: >+
+  Adxstudio Portal v6 .x는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ-인수](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> 이 제품에 대 한 지원은 해당 취득 조건의 영향을 받게 되며 종료 되었습니다."
