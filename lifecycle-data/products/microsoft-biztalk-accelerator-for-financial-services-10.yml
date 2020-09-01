@@ -2,19 +2,20 @@
 metadata:
   title: 금융 서비스용 Microsoft BizTalk 바로 연결 1.0
   description: Microsoft BizTalk Accelerator for 금융 서비스 1.0는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827296"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935345"
 name: 금융 서비스용 Microsoft BizTalk 바로 연결 1.0
 summary: >+
   Microsoft BizTalk Accelerator for 금융 서비스 1.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Enterprise, Standard와 같은 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/12/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 표준을"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"

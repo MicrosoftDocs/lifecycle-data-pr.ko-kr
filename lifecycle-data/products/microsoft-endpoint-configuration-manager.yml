@@ -2,22 +2,23 @@
 metadata:
   title: Microsoft Endpoint Configuration Manager
   description: Microsoft Endpoint Configuration Manager는 최신 수명 주기 정책을 따릅니다.
-  ms.date: 08/20/2020
-  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 09/01/2020
+  keywords: SCCM,System Center Configuration Manager
+  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905903"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934050"
 name: Microsoft Endpoint Configuration Manager
 summary: >
-  Microsoft Endpoint Configuration Manager는 최신 [수명 주기 정책을](/lifecycle/policies/modern) 따릅니다.
+  Microsoft Endpoint Configuration Manager는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 버전 1910부터 Configuration Manager는 이제 Microsoft Endpoint Manager의 일부로 표시됩니다.
+  > 버전 1910 부터는 Configuration Manager가 Microsoft Endpoint Manager의 일부가 되었습니다.
 products:
 - m365
 policyType: modern-on-prem
@@ -69,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [버전 정보](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager가 이제 Microsoft Endpoint Configuration Manager입니다.](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [이전 버전](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Configuration Manager란](/mem/configmgr/core/understand/introduction)\n\n\n\n키워드: SCCM, System Center Configuration Manager"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [버전 세부 정보](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager가 이제 Microsoft 끝점 구성 관리자입니다.](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [이전 버전](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [구성 관리자 란?](/mem/configmgr/core/understand/introduction)"

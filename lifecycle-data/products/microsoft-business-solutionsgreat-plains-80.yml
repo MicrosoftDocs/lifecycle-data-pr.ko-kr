@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft 비즈니스 솔루션--뛰어난 Plains 8.0
   description: Microsoft 비즈니스 솔루션--8.0 Plains은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827265"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934679"
 name: Microsoft 비즈니스 솔루션--뛰어난 Plains 8.0
 summary: >
   Microsoft 비즈니스 솔루션--8.0 Plains은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Standard
 
 
   > [!IMPORTANT]
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2004
   endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"
