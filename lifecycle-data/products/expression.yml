@@ -2,15 +2,16 @@
 metadata:
   title: 식
   description: 식이 고정 수명 주기 정책에 따릅니다.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893394"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936233"
 name: 식
-summary: "식이 [고정](/lifecycle/policies/fixed) 수명 주기 정책에 따릅니다.\n\n이 작업은 Blend, Design, Encoder, Studio 버전에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. \n"
+summary: "식이 [고정](/lifecycle/policies/fixed) 수명 주기 정책에 따릅니다.\n\n이 작업은 Blend, Design, Encoder, Studio 버전에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
 - expression
 policyType: fixed

@@ -2,13 +2,14 @@
 metadata:
   title: Mac용 Microsoft Office 2008
   description: Microsoft Office 2008 for Mac은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 708930d55e4c8d9df663189a495412a170cef7d8
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826882"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936751"
 name: Mac용 Microsoft Office 2008
 summary: "Microsoft Office 2008 for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
