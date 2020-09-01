@@ -2,19 +2,20 @@
 metadata:
   title: Project 2010
   description: 프로젝트 2010는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e9ac4a6d3a0fb9211ebad118c74feb650769620b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: bdfc3db9732d902f753335f6457b960248667476
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827128"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926576"
 name: Project 2010
 summary: >+
   프로젝트 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 다음 버전에 적용 됩니다. 전문가, 표준
+  다음 버전에 적용됩니다. Professional, Standard
 
 products:
 - office
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 만든\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Professional\n* Standard"

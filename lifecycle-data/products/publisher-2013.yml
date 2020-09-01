@@ -2,19 +2,20 @@
 metadata:
   title: Publisher 2013
   description: 게시자 2013 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 706d07656f1c22220f7f96382c5aff14ac9d9d91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 351331904acc01202c407f88c65b40ec18af6907
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858232"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926169"
 name: Publisher 2013
 summary: >+
   게시자 2013 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"
