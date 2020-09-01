@@ -2,13 +2,14 @@
 metadata:
   title: Windows Media 인코더 9 시리즈
   description: Windows Media Encoder 9 시리즈는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 155a9a5c7b4177f6c51651324a6f5cff219d6069
-  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.date: 09/01/2020
+  keywords: 64 Bit,Standard
+  ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "902820"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940007"
 name: Windows Media 인코더 9 시리즈
 summary: >+
   Windows Media Encoder 9 시리즈는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> 2005 년 9 월 15 일에 릴리스된 Windows Media Encoder 9 시리즈 x64 Edition\n\n## <a name=\"editions\"></a>버전 \n* 64 비트\n* 표준을"
+content: "\n\n> [!NOTE]\n> 2005 년 9 월 15 일에 릴리스된 Windows Media Encoder 9 시리즈 x64 Edition\n\n## <a name=\"editions\"></a>버전 \n* 64Bit\n* Standard"
