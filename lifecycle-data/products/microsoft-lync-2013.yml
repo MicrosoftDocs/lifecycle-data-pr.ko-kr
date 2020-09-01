@@ -2,13 +2,14 @@
 metadata:
   title: Lync 2013
   description: Lync 2013는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857865"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933347"
 name: Lync 2013
 summary: >+
   Lync 2013는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> 비즈니스용 Skype 2015 클라이언트 릴리스는 Lync 2013 클라이언트에 대 한 업데이트 이며 동일한 제품 수명 주기를 따릅니다.\nLync 2013 SDK의 시작 날짜는 2013 년 2 월 23 일입니다. \n\n## <a name=\"editions\"></a>버전 \n* K\n* 표준을"
+content: "\n\n> [!NOTE]\n> 비즈니스용 Skype 2015 클라이언트 릴리스는 Lync 2013 클라이언트에 대 한 업데이트 이며 동일한 제품 수명 주기를 따릅니다.\nLync 2013 SDK의 시작 날짜는 2013 년 2 월 23 일입니다. \n\n## <a name=\"editions\"></a>버전 \n* SDK\n* Standard"

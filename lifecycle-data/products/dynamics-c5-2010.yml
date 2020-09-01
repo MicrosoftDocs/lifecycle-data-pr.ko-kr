@@ -2,19 +2,20 @@
 metadata:
   title: Dynamics C5 2010
   description: Dynamics C5 2010 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 42e669783f2448e3ff9834c2ec8d0924b65b408b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f391af0a4393f73c8cdc73a17e71a011b8aaa7fc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827367"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932015"
 name: Dynamics C5 2010
 summary: >+
   Dynamics C5 2010 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Standard
 
 products:
 - dynamics
@@ -32,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 11/30/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"
