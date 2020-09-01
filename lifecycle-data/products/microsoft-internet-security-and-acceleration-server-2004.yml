@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Security and Acceleration Server 2004
-  description: Microsoft Internet Security and Acceleration Server 2004는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  title: Microsoft 인터넷 보안 및 가속 서버 2004
+  description: Microsoft 인터넷 보안 및 가속 서버 2004 고정 수명 주기 정책을 따릅니다.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904269"
-name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004는 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.\n\n이는 Enterprise, Standard에 따라 다릅니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933495"
+name: Microsoft 인터넷 보안 및 가속 서버 2004
+summary: "Microsoft 인터넷 보안 및 가속 서버 2004 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Enterprise, Standard\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [마이그레이션 지침](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>에디션 \n* 엔터프라이즈\n* Standard"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [마이그레이션 지침](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"
