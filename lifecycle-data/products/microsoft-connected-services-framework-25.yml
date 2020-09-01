@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft 연결 된 서비스 프레임 워크 2.5
   description: Microsoft 연결 된 서비스 프레임 워크 2.5 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827245"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934124"
 name: Microsoft 연결 된 서비스 프레임 워크 2.5
 summary: >+
   Microsoft 연결 된 서비스 프레임 워크 2.5 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.

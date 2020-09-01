@@ -2,19 +2,20 @@
 metadata:
   title: HIPAA 3.0 용 Microsoft BizTalk 바로 연결
   description: HIPAA 3.0 용 Microsoft BizTalk Accelerator는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c509b97024379ae56ee4a808ea7366ddead58404
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 402414833e6f07af15c0b2d94d5cf40a9ebd80a1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827289"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935271"
 name: HIPAA 3.0 용 Microsoft BizTalk 바로 연결
 summary: >+
   HIPAA 3.0 용 Microsoft BizTalk Accelerator는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Enterprise, Standard와 같은 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/28/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 표준을"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HIPAA 2.0용 Microsoft BizTalk 가속기
-  description: HIPAA 2.0용 Microsoft BizTalk 가속기는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 09c6fc47a6b2f21bb6325d7451927076984c2a5f
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  title: HIPAA 2.0 용 Microsoft BizTalk 바로 연결
+  description: HIPAA 2.0 용 Microsoft BizTalk Accelerator는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: aab9e80e120618a791c1636446425b56d9d36995
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904290"
-name: HIPAA 2.0용 Microsoft BizTalk 가속기
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935308"
+name: HIPAA 2.0 용 Microsoft BizTalk 바로 연결
 summary: >+
-  HIPAA 2.0용 Microsoft BizTalk 가속기는 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
+  HIPAA 2.0 용 Microsoft BizTalk Accelerator는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 Enterprise, Standard에 따라 다릅니다.
+  다음 버전에 적용됩니다. Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/15/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>에디션 \n* 엔터프라이즈\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"

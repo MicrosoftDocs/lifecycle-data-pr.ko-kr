@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft BizTalk Accelerator for SWIFT 2.0
   description: Microsoft BizTalk Accelerator for SWIFT 2.0는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827285"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934864"
 name: Microsoft BizTalk Accelerator for SWIFT 2.0
 summary: >+
   Microsoft BizTalk Accelerator for SWIFT 2.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/25/2004
   endDate: 10/14/2014
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise"
