@@ -2,19 +2,20 @@
 metadata:
   title: Exchange Server 2013
   description: Exchange Server 2013는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 208a159b324e9631fcc2d5a54b42e00fc9aff7e3
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857980"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931312"
 name: Exchange Server 2013
 summary: >+
   Exchange Server 2013는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Enterprise, Standard와 같은 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise, Standard
 
 products:
 - office
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 지침](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 지침](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"

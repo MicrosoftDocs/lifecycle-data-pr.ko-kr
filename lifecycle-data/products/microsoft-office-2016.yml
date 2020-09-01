@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2016
   description: Microsoft Office 2016는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0862856c981f0887a99cd499275edcda6f18533b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
+  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858190"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930498"
 name: Microsoft Office 2016
 summary: >+
   Microsoft Office 2016는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Home and Business \n* Home and Student \n* 개인\n* 만든\n* Professional Plus\n* 표준을"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Plus\n* Standard"

@@ -2,13 +2,14 @@
 metadata:
   title: 식 4
   description: 식 4가 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826659"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930868"
 name: 식 4
 summary: >+
   식 4가 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Expression Studio Ultimate 4에 대 한 기본 지원 끝은 2015 년 10 월 13 일입니다.\n\n## <a name=\"editions\"></a>버전 \n* 디자인\n* Encoder\n* 둥근 사각형 궁극적인\n* Web"
+content: "\n\n> [!NOTE]\n> Expression Studio Ultimate 4에 대 한 기본 지원 끝은 2015 년 10 월 13 일입니다.\n\n## <a name=\"editions\"></a>버전 \n* 디자인\n* Encoder\n* 둥근 사각형 궁극적인\n* 웹"
