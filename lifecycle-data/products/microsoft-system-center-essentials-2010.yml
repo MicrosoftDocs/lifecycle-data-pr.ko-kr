@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Essentials 2010
-  description: Microsoft System Center Essentials 2010은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 469c101b597227f04b8e412e71b888037fc38577
-  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
+  description: Microsoft System Center Essentials 2010는 고정 수명 주기 정책을 따릅니다.
+  ms.date: 09/01/2020
+  keywords: All applicable,wSQL
+  ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906258"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938194"
 name: Microsoft System Center Essentials 2010
 summary: >+
-  Microsoft System Center Essentials 2010은 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
+  Microsoft System Center Essentials 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이에 따라 모든 적용 가능한 WSQL 버전이 적용됩니다.
+  이 작업은 다음 버전에 적용 됩니다.
 
 products:
 - msc
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>에디션 \n* 모든 해당\n* wSQL"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 적용 가능한 모든 제품\n* wSQL"

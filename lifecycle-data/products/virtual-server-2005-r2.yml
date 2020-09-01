@@ -2,15 +2,16 @@
 metadata:
   title: 가상 서버 2005 R2
   description: 가상 서버 2005 R2는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827111"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937935"
 name: 가상 서버 2005 R2
-summary: "가상 서버 2005 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n이 작업은 Enterprise, Standard와 같은 버전에 적용 됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. \n"
+summary: "가상 서버 2005 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Enterprise, Standard\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"

@@ -2,13 +2,14 @@
 metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826730"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939193"
 name: Windows Small Business Server 2008
 summary: "Windows Small Business Server 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Premium, Standard\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n\n이 제품 패키지의 지원 날짜는 개별 구성 요소 제품의 각 수명 주기에 따라 결정됩니다. 개별 구성 요소 제품의 수명 주기를 검토하여 지원 기간을 확인하세요.\n"
 products:
