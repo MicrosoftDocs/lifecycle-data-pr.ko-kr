@@ -2,19 +2,20 @@
 metadata:
   title: GPOVault
   description: GPOVault는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
+  ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903734"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936011"
 name: GPOVault
 summary: >+
-  GPOVault는 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
+  GPOVault는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  This applies to the following editions: 1.0, 2.0, Enterprise 1.0, Enterprise 2.0
+  이는 다음과 같은 버전 (1.0, 2.0, Enterprise 1.0, Enterprise 2.0)에 적용 됩니다.
 
 products:
 - windows
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> 이 제품에 대한 지원이 해당 구입 약관에 따라 달라질 수 있습니다. \n\n## <a name=\"editions\"></a>에디션 \n* 1.0\n* 2.0\n* Enterprise 1.0\n* Enterprise 2.0"
+content: "\n\n> [!NOTE]\n> 이 제품의 지원은 획득 약관의 적용을 받습니다. \n\n## <a name=\"editions\"></a>버전 \n* 1.0\n* 2.0\n* 엔터프라이즈 1.0\n* 엔터프라이즈 2.0"

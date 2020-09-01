@@ -2,19 +2,20 @@
 metadata:
   title: Visual Studio Team Foundation Server 2012
   description: Visual Studio Team Foundation Server 2012는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fd163f4af7e1f56e537990c97f59aa03cbb323c2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: All
+  ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858129"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937343"
 name: Visual Studio Team Foundation Server 2012
 summary: >+
   Visual Studio Team Foundation Server 2012는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. 전체
 
 products:
 - vs
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/13/2015
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>버전 \n* 모두"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>버전 \n* 전체"
