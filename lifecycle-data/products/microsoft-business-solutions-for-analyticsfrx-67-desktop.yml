@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 비즈니스 솔루션 for Analytics--.Frx 6.7 Desktop
-  description: Microsoft 비즈니스 솔루션 for Analytics--.Frx 6.7 Desktop은 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
+  description: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827264"
-name: Microsoft 비즈니스 솔루션 for Analytics--.Frx 6.7 Desktop
+name: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
 summary: >+
-  Microsoft 비즈니스 솔루션 for Analytics--.Frx 6.7 Desktop은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Business Solutions for Analytics--FRx 6.7 Desktop은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2004
   endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Dynamics 제품의 구성 요소로 배포 되지 않은 경우 .Frx 지원은 지정 된 날짜에 종료 됩니다. Dynamics 제품과 함께 배포할 때 Dynamics 수명 주기 날짜가 .Frx 날짜를 재정의 합니다."
+content: "\n\n> [!NOTE]\n> FRx 지원은 Dynamics 제품의 구성 요소로 배포되지 않는 한 표시된 날짜에 종료됩니다. Dynamics 제품과 함께 배포하는 경우 Dynamics 수명 주기 날짜는 FRx 날짜를 재정의합니다."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows MultiPoint Server 2010
-  description: Windows MultiPoint Server 2010는 고정 수명 주기 정책을 따릅니다.
+  description: Windows MultiPoint Server 2010은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827080"
 name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows MultiPoint Server 2010은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다. 교육, 표준
+  Academic, Standard 버전에 적용됩니다.
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [추가 마이그레이션 지침](/windows-server/get-started/installation-and-upgrade)\n* [제품 정보](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>버전 \n* Academic\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [추가 마이그레이션 지침](/windows-server/get-started/installation-and-upgrade)\n* [제품 정보](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>버전 \n* Academic\n* Standard"
