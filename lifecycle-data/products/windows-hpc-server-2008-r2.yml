@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826577"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)"

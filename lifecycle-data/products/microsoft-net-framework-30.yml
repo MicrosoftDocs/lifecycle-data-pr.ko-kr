@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 3.0
-  description: Microsoft .NET Framework 3.0는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft .NET Framework 3.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827209"
 name: Microsoft .NET Framework 3.0
 summary: >+
-  Microsoft .NET Framework 3.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft .NET Framework 3.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> 3.5 SP1 이전 .NET Framework 3. x 버전 지원은 2011 년 7 월 12 일에 종료 되었습니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> 2011년 7월 12일에 3.5 SP1 이전의 .NET Framework 3.x 버전에 대한 지원이 종료되었습니다."

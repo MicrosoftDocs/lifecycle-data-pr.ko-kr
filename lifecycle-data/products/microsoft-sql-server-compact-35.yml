@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 56bd1813245aa846320d7cb818075f03bcc862fe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826770"
 name: Microsoft SQL Server Compact 3.5
-summary: "Microsoft SQL Server Compact 3.5는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. \n"
+summary: "Microsoft SQL Server Compact 3.5는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
 - sql-server
 policyType: fixed
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)"

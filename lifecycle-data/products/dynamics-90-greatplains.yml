@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 9.0 GreatPlains
-  description: Dynamics 9.0 GreatPlains 고정 수명 주기 정책을 따릅니다.
+  description: Dynamics 9.0 GreatPlains는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826673"
 name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Dynamics 9.0 GreatPlains는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다.
+  > 이 제품에 대한 지원이 종료되었습니다.
 products:
 - dynamics
 policyType: fixed

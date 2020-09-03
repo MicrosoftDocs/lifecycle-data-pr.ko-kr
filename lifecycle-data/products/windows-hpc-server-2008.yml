@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008
-  description: Windows HPC 서버 2008는 고정 수명 주기 정책을 따릅니다.
+  description: Windows HPC Server 2008은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827087"
 name: Windows HPC Server 2008
 summary: >
-  Windows HPC 서버 2008는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows HPC Server 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 Standard (Hyper-v 불포함)에 적용 됩니다.
+  Standard(Hyper-V 불포함) 버전에 적용됩니다.
 
 
   > [!IMPORTANT]
 
-  > 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을\n* Hyper-v가 없는 경우"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard\n* Hyper-V 불포함"
