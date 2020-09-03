@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857860"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> .NET Framework 4, 4.5 및 4.5.1에 대 한 지원은 2016 년 1 월 12 일에 종료 되었습니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> 2016년 1월 12일에 .NET Framework 4, 4.5, 4.5.1 지원이 종료되었습니다."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8 산업
-  description: Windows Embedded 8 산업은 고정 수명 주기 정책을 따릅니다.
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry 는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857776"
-name: Windows Embedded 8 산업
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Embedded 8 산업은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Embedded 8 Industry는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 엔터프라이즈, Pro의 버전에 적용 됩니다.
+  Enterprise, Pro 버전에 적용됩니다.
 
 
   > [!IMPORTANT]
 
-  > 고객은 계속 지원 되도록 하기 위해 Windows 8.1로 마이그레이션해야 합니다.
+  > 고객은 계속 지원을 받으려면 Windows 8.1로 마이그레이션해야 합니다.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://www.microsoft.com/download/details.aspx?id=40279)\n* [수명 주기 FAQ-Windows 제품](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈\n* 전문가"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://www.microsoft.com/download/details.aspx?id=40279)\n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Pro"

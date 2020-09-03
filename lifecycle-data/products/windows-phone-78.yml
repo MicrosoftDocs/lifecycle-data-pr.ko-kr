@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 7.8
-  description: Windows Phone 7.8는 고정 수명 주기 정책을 따릅니다.
+  description: Windows Phone 7.8은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858210"
 name: Windows Phone 7.8
 summary: >
-  Windows Phone 7.8는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Phone 7.8은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다.
+  > 이 제품에 대한 지원이 종료되었습니다.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft는 보안 업데이트를 비롯 하 여 휴대폰의 운영 체제에 대 한 업데이트를 수명 주기 시작 날짜 이후 18 개월 동안 사용할 수 있도록 합니다. 업데이트 배포는 휴대폰을 구매한 전화 제조업체 또는 모바일 운영자가 제어할 수 있습니다. 업데이트 가용성은 국가, 지역 및 하드웨어 기능에 따라서도 달라 집니다."
+content: "\n\n> [!NOTE]\n> Microsoft는 수명 주기 시작 날짜 이후 18개월 동안 보안 업데이트를 포함하여 운영 체제에 대한 업데이트를 제공합니다. 휴대폰을 구매한 통신사 또는 휴대폰 제조업체에서 업데이트 배포를 제어할 수 있습니다. 또한 업데이트 사용 가능 여부는 국가, 지역 및 하드웨어 기능별로 다릅니다."

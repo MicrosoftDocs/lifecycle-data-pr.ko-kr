@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 재무 및 작업용 Dynamics 365
-  description: 재무 및 작업용 Dynamics 365는 최신 수명 주기 정책을 따릅니다.
+  title: Dynamics 365 for Finance and Operations
+  description: Dynamics 365 for Finance and Operations 는 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858020"
-name: 재무 및 작업용 Dynamics 365
+name: Dynamics 365 for Finance and Operations
 summary: >+
-  재무 및 작업용 Dynamics 365는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Dynamics 365 for Finance and Operations 는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Enterprise
 
 products:
 - dynamics
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft Dynamics 365 로드맵](https://roadmap.dynamics.com/)\n* [서비스 정보](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [시스템 요구 사항](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈"
+content: "\n## <a name=\"links\"></a>링크 \n* [Microsoft Dynamics 365 로드맵](https://roadmap.dynamics.com/)\n* [서비스 정보](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [시스템 요구 사항](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise"

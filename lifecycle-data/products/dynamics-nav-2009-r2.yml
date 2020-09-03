@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2009 R2
-  description: Dynamics NAV 2009 R2 고정 수명 주기 정책을 따릅니다.
+  description: Dynamics NAV 2009 R2는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 01925fe0f661312fdda3eef0517d8e99c15bde06
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858095"
 name: Dynamics NAV 2009 R2
 summary: >+
-  Dynamics NAV 2009 R2 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Dynamics NAV 2009 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> NAV 2009의 지원 날짜 종료는 표시 된 대로 확장 되었습니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> NAV 2009의 지원 종료 날짜가 다음과 같이 연장되었습니다."

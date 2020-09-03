@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 데스크톱용 Microsoft 응용 프로그램 가상화 호스팅 5.1
-  description: Windows 데스크톱에 대 한 Microsoft 응용 프로그램 가상화 호스팅 5.1는 고정 수명 주기 정책을 따릅니다.
+  title: Windows Desktops를 위한 Microsoft Application Virtualization Hosting 5.1
+  description: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops 는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858076"
-name: Windows 데스크톱용 Microsoft 응용 프로그램 가상화 호스팅 5.1
+name: Windows Desktops를 위한 Microsoft Application Virtualization Hosting 5.1
 summary: >+
-  Windows 데스크톱에 대 한 Microsoft 응용 프로그램 가상화 호스팅 5.1는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows 데스크톱용 Microsoft Application Virtualization Hosting 5.1은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전의 Windows 데스크톱에 적용 됩니다.
+  Windows Desktops용 버전에 적용됩니다.
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [제품 정보](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>버전 \n* Windows 데스크톱"
+content: "\n## <a name=\"links\"></a>링크 \n* [제품 정보](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>버전 \n* Windows Desktops용"
