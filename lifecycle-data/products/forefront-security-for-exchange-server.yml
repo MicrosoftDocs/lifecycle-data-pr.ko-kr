@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Security for Exchange Server
-  description: Exchange Server에 대 한 Forefront Security는 고정 수명 주기 정책을 따릅니다.
+  description: Forefront Security for Exchange Server 는 고정 수명 주기 정책을 따릅니다.
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893727"
 name: Forefront Security for Exchange Server
 summary: >
-  Exchange Server에 대 한 Forefront Security는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Forefront Security for Exchange Server 는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > Forefront brand에서 보안 제품에 대 한 로드맵을 변경 했습니다. 이 제품은 12 월 31 일까, 2015에 비해 단종 됩니다.
+  > Forefront 브랜드 보안 제품에 대한 로드맵이 변경되었습니다. 이 제품은 2015년 12월 31일부터 단종됩니다.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://www.microsoft.com/security/business/explore/cybersecurity)"

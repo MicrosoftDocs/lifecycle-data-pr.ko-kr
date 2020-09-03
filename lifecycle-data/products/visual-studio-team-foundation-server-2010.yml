@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010이 고정 수명 주기 정책을 따릅니다.
+  description: Visual Studio Team Foundation Server 2010은 고정 수명 주기 정책을 따릅니다.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906809"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010은 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
+  Visual Studio Team Foundation Server 2010은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이러한 버전은 모든 적용 가능한 외부 커넥터에 따라 다를 수 있습니다.
+  All applicable, External Connector 버전에 적용됩니다.
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>에디션 \n* 모든 해당\n* 외부 커넥터"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>버전 \n* 적용 가능한 모든 제품\n* 외부 커넥터"

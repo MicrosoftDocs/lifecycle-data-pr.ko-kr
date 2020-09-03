@@ -5,12 +5,12 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892506"
 name: System Center Operations Manager 2007 R2
-summary: "System Center Operations Manager 2007 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요. \n"
+summary: "System Center Operations Manager 2007 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
