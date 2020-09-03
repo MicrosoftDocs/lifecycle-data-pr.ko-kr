@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8 용 windows Defender 및 8.1
-  description: Windows 8 및 8.1 용 windows Defender는 구성 요소 수명 주기 정책을 따릅니다.
+  title: Windows 8 및 8.1용 Windows Defender
+  description: Windows 8 및 8.1용 Windows Defender는 구성 요소 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857777"
-name: Windows 8 용 windows Defender 및 8.1
+name: Windows 8 및 8.1용 Windows Defender
 summary: >+
-  Windows 8 및 8.1 용 windows Defender는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+  Windows 8 및 8.1용 Windows Defender는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: For Windows 8
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> 이 릴리스는 상위 제품의 수명 주기를 따르는 구성 요소 라고 합니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> 이 릴리스는 상위 제품의 수명 주기를 따르는 구성 요소입니다."

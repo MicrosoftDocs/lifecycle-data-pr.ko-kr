@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2012
-  description: Dynamics C5 2012 고정 수명 주기 정책을 따릅니다.
+  description: Dynamics C5 2012는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858016"
 name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Dynamics C5 2012는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"
