@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 모바일 Enterprise (2017 년 10 월에 출시)
-  description: Windows 10 모바일 Enterprise (10 월)에 릴리스된 2017는 고정 수명 주기 정책을 따릅니다.
+  title: Windows 10 Mobile Enterprise, 2017년 10월 출시
+  description: 2017년 10월에 출시된 Windows 10 Mobile Enterprise 는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870677"
-name: Windows 10 모바일 Enterprise (2017 년 10 월에 출시)
+name: Windows 10 Mobile Enterprise, 2017년 10월 출시
 summary: >
-  Windows 10 모바일 Enterprise (10 월)에 릴리스된 2017는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  2017년 10월에 출시된 Windows 10 Mobile Enterprise 는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다.
+  > 이 제품에 대한 지원이 종료되었습니다.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Links \n* [장치 OS 수명 주기 FAQ](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile이 종료 되었습니다. 2019 년 12 월 10 일 지원](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>링크 \n* [장치 OS 수명 주기 FAQ](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile은 2019년 12월 10일에 지원 종료](/lifecycle/announcements/windows-10-mobile-end-of-support)"

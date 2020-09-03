@@ -5,16 +5,16 @@ metadata:
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906291"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008은 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
+  Microsoft System Center Mobile Device Manager 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이에 따라 모든 적용 가능한 WSQL 버전이 적용됩니다.
+  All applicable, wSQL 버전에 적용됩니다.
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>에디션 \n* 모든 해당\n* wSQL"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 적용 가능한 모든 제품\n* wSQL"

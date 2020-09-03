@@ -5,7 +5,7 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893579"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft BizTalk Server 2004는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 개발자, 엔터프라이즈, 파트너, 표준 버전에 적용 됩니다.
+  Developer, Enterprise, Partner, Standard 버전에 적용됩니다.
 
 products:
 - microsoft-servers
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Developer\n* 엔터프라이즈\n* Partner\n* 표준을"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Developer\n* Enterprise\n* Partner\n* Standard"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879515"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [추가 정보](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition은 Lync Server 2010 및 Lync Server 2013에서 지원 됩니다. Lync Phone Edition의 지원 날짜는 Lync Server 2013 수명 주기에 맞게 2 년 연장 되었습니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [추가 정보](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition은 Lync Server 2010 및 Lync Server 2013에서 지원됩니다. Lync Phone Edition의 지원 날짜는 Lync Server 2013 수명 주기와 일치하도록 2년 연장되었습니다."

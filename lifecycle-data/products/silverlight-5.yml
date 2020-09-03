@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870690"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Silverlight 5는 여기에 나와 있는 브라우저를 지원 하거나 기본 브라우저의 수명 주기를 통해 짧은 10/12/2021 위치에 있습니다.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight 지원 종료](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft는 도구 지원이 종료 되기 전에 최소 12 개월 동안 알림을 제공 합니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [Silverlight 5는 2021년 10월 21일까지 또는 기본 브라우저의 수명 주기까지(둘 중 먼저 도달할 때까지) 여기에 나와 있는 브라우저를 지원합니다.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight 지원 종료](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft는 도구 지원이 종료되기 최소 12개월 전에 알려드립니다."

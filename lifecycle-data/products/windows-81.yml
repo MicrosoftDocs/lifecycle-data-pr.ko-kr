@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8.1
-  description: Windows 8.1이 고정 수명 주기 정책을 따릅니다.
+  description: Windows 8.1은 고정 수명 주기 정책을 따릅니다.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906663"
 name: Windows 8.1
 summary: >+
-  Windows 8.1이 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
+  Windows 8.1은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이버전은 Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL에 따라 다를 수 있습니다.
+  다음 버전에 적용됩니다. Enterprise, Enterprise N, N, Pro(Media Center, Professional, Professional N, SL 포함)
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>에디션 \n* 엔터프라이즈\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Enterprise N\n* N\n* Pro(Media Center 포함)\n* Professional\n* Professional N\n* SL"
