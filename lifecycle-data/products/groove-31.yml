@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Groove 3.1
+  description: Groove 3.1 고정 수명 주기 정책을 따릅니다.
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950851"
+name: Groove 3.1
+summary: >+
+  Groove 3.1 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+  이 작업은 엔터프라이즈 백업 서비스, 엔터프라이즈 데이터 브리지, 엔터프라이즈 릴레이 서버, 호스팅된 관리 서비스, 호스팅된 릴레이 서비스, Office 프로젝트, 가상 Office 파일 공유, 가상 Office Professional, 웹 서비스 개발 키트에 적용 됩니다.
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 엔터프라이즈 백업 서비스\n* 엔터프라이즈 데이터 브리지\n* 엔터프라이즈 릴레이 서버\n* 호스팅된 관리 서비스\n* 호스팅된 릴레이 서비스\n* Office 프로젝트\n* 가상 Office 파일 공유\n* Virtual Office Professional\n* 웹 서비스 개발 키트"
