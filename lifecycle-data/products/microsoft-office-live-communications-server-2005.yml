@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Live Communications Server 2005
   description: Microsoft Office Live Communications Server 2005는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 56bdae2a655c365c4b477c677dc6642350d837e8
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826860"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001544"
 name: Microsoft Office Live Communications Server 2005
 summary: "Microsoft Office Live Communications Server 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Enterprise, Standard\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:

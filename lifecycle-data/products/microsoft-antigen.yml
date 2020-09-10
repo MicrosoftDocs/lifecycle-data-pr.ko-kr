@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
+  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827302"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001988"
 name: Microsoft Antigen
 summary: >+
   Microsoft Antigen은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/17/2006
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront 브랜드 보안 제품에 대한 로드맵이 변경되었습니다. 이 제품은 2015년 12월 31일부터 단종됩니다.\n\n## <a name=\"editions\"></a>버전 \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* SMTP Gateways\n* Spam Manager\n\n"
+content: "\n\n> [!NOTE]\n> Forefront 브랜드 보안 제품에 대한 로드맵이 변경되었습니다. 이 제품은 2015년 12월 31일부터 단종됩니다.\n\n## <a name=\"editions\"></a>버전 \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* SMTP Gateways\n* Spam Manager\n"
