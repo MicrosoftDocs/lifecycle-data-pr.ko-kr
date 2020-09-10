@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Search Server 2008
   description: Microsoft Search Server 2008은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8cc4d7be772a82fb4a16297daa58a2cc779aa3ab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Express,Standard
+  ms.openlocfilehash: 897d34ffd003985cb2b60bebbc2db5d53614b443
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826622"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999065"
 name: Microsoft Search Server 2008
 summary: "Microsoft Search Server 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\nExpress, Standard 버전에 적용됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
