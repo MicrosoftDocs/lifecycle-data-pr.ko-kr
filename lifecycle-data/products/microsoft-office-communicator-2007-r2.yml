@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Communicator 2007 R2
   description: Microsoft Office Communicator 2007 R2는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: All applicable,Phone
+  ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827572"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001729"
 name: Microsoft Office Communicator 2007 R2
 summary: "Microsoft Office Communicator 2007 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\nAll applicable, Phone 버전에 적용됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. 마이그레이션 지침을 참조하세요. \n"
 products:
