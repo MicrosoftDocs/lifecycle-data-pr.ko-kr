@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: 제품 및 서비스 수명 주기 정보 검색(미리 보기)
+title: 제품 및 서비스 수명 주기 정보 검색
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> 이 페이지는 개발 중이며 9월 2일에 정식으로 게시할 예정입니다. 그때까지 [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)에서 지원 타임라인과 세부 정보가 있는 Microsoft 제품 전체 목록을 확인하실 수 있습니다.\n> [!NOTE]\n> [수명 주기 내보내기](/lifecycle/export/products) 페이지에서 수명 주기 정보를 내보냅니다.\n\n\nMicrosoft 수명 주기는 제품 수명 동안 일관되고 예측 가능한 지원 지침을 제공하여 고객이 IT 투자 및 환경을 관리하는 동시에 미래를 전략적으로 계획할 수 있도록 지원합니다.\n\n\n아래에서 Microsoft 상용 제품 및 서비스 목록을 검색한 다음 결과를 선택하여 지원 및 서비스 일정, 필수 업데이트, 마이그레이션 정보 및 시스템 요구 사항을 찾습니다."
+summary: "\n> [!NOTE]\n> [수명 주기 내보내기](/lifecycle/products/export) 페이지에서 수명 주기 정보를 내보냅니다.\n\n\nMicrosoft 수명 주기는 제품 수명 동안 일관되고 예측 가능한 지원 지침을 제공하여 고객이 IT 투자 및 환경을 관리하는 동시에 미래를 전략적으로 계획할 수 있도록 지원합니다.\n\n\n아래에서 Microsoft 상용 제품 및 서비스 목록을 검색한 다음 결과를 선택하여 지원 및 서비스 일정, 필수 업데이트, 마이그레이션 정보 및 시스템 요구 사항을 찾습니다."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899846"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943040"
