@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
+  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894063"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939600"
 name: 'Windows Server 2003 '
 summary: >+
   Windows Server 2003은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/28/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션을 위한 Windows Server 2003 컴퓨터 준비](/azure/migrate/prepare-windows-server-2003-migration)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [Windows Server 2003에서 Windows Server 2008로 업그레이드하기 위해 지원되는 경로](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Itanium 기반 시스템의 시작 날짜는 2003년 6월 19일입니다.\n\n## <a name=\"editions\"></a>버전 \n* Datacenter(32비트 x86)\n* Datacenter(x64)\n* Itanium 기반 시스템용 Datacenter\n* Enterprise(32비트 x86)\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Standard(32비트 x86)\n* 웹"
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows Server 2003에서 Windows Server 2008로 업그레이드하기 위해 지원되는 경로](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [마이그레이션을 위한 Windows Server 2003 컴퓨터 준비](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Itanium 기반 시스템의 시작 날짜는 2003년 6월 19일입니다.\n\n## <a name=\"editions\"></a>버전 \n* Datacenter(32비트 x86)\n* Datacenter(x64)\n* Itanium 기반 시스템용 Datacenter\n* Enterprise(32비트 x86)\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Standard(32비트 x86)\n* 웹"
