@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 클라우드 플랫폼 시스템
-  description: 클라우드 플랫폼 시스템은 고정 수명 주기 정책을 따릅니다.
+  title: Cloud Platform System
+  description: Cloud Platform System은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932052"
-name: 클라우드 플랫폼 시스템
+name: Cloud Platform System
 summary: >+
-  클라우드 플랫폼 시스템은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Cloud Platform System은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> 모든 고객에 게 표준 수명 주기 전환 시간 표시 막대를 제공 하기 위해 다음과 같이 클라우드 플랫폼 시스템에 대 한 지원이 확장 되었습니다.\n> [!NOTE]\n> 2017 년 9 월 18 일에 시작 되는 클라우드 플랫폼 시스템 표준입니다.\n\n## <a name=\"editions\"></a>버전 \n* Standard"
+content: "\n\n> [!NOTE]\n> Cloud Platform System에 대한 기본 지원은 모든 고객에게 표준 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다.\n> [!NOTE]\n> Cloud Platform System Standard는 2017년 9월 18일에 출시되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Standard"

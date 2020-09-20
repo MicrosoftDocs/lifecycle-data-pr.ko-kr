@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 비즈니스용 Skype 2015
-  description: 비즈니스용 Skype 2015 고정 수명 주기 정책을 따릅니다.
+  description: 비즈니스용 Skype 2015는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858137"
 name: 비즈니스용 Skype 2015
 summary: >+
-  비즈니스용 Skype 2015 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  비즈니스용 Skype 2015는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> 클라이언트: 비즈니스용 Skype 2015 클라이언트 릴리스는 Lync 2013 클라이언트에 대 한 업데이트 이며 동일한 제품 수명 주기를 따릅니다."
+content: "\n\n> [!NOTE]\n> 클라이언트: 비즈니스용 Skype 2015 클라이언트 릴리스는 Lync 2013 클라이언트에 대한 업데이트이며 동일한 제품 수명 주기를 따릅니다."

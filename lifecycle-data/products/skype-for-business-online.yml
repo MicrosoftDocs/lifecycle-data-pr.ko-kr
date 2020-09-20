@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858135"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 이 서비스는 2021 년 7 월 31 일에 사용 중지 됩니다. 마이그레이션 지침은 아래를 참조 하세요.
+  > 이 서비스는 2021년 7월 31일에 사용 중지됩니다. 마이그레이션 지침은 아래를 참조하세요.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/MicrosoftTeams/upgrade-start-here)"

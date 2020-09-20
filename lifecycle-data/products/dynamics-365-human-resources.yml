@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 인적 자원
-  description: Dynamics 365 인적 자원은 최신 수명 주기 정책을 따릅니다.
+  title: Dynamics 365 Human Resources
+  description: Dynamics 365 Human Resources는 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870624"
-name: Dynamics 365 인적 자원
+name: Dynamics 365 Human Resources
 summary: >+
-  Dynamics 365 인적 자원은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Dynamics 365 Human Resources는 [최신](/lifecycle/policies/modern) 수명 정책을 따릅니다.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> 핵심 HR 앱 (이전에 Dynamics 365 Talent에 포함)은 relaunched를 Dynamics 365 인적 리소스로 사용 합니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Core HR 앱(이전에 Dynamics 365 Talent에 포함)이 Dynamics 365 Human Resources로 다시 출시되었습니다."

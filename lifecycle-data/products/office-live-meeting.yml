@@ -6,12 +6,12 @@ metadata:
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928907"
 name: Office Live Meeting
-summary: "Office Live Meeting은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Standard\n\n> [!IMPORTANT]\n> 이 서비스에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조하세요. \n"
+summary: "Office Live Meeting은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Standard\n\n> [!IMPORTANT]\n> 이 서비스에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요. \n"
 products:
 - office
 policyType: modern-online

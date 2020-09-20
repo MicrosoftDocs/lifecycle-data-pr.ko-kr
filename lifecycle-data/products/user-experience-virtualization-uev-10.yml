@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: UE-V (User Experience Virtualization) 1.0
-  description: UE-V (User Experience Virtualization) 1.0 고정 수명 주기 정책을 따릅니다.
+  title: UE-V(User Experience Virtualization) 1.0
+  description: UE-V(User Experience Virtualization) 1.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be913f32a545326fbfcd9b752017f9f4070c6ec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857797"
-name: UE-V (User Experience Virtualization) 1.0
+name: UE-V(User Experience Virtualization) 1.0
 summary: >+
-  UE-V (User Experience Virtualization) 1.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  UE-V(User Experience Virtualization) 1.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

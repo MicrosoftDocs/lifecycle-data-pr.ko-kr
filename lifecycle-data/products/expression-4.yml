@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 식 4
-  description: 식 4가 고정 수명 주기 정책을 따릅니다.
+  title: Expression 4
+  description: Expression 4는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930868"
-name: 식 4
+name: Expression 4
 summary: >+
-  식 4가 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Expression 4는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 디자인, 인코더, Studio Ultimate, Web 등의 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Expression Studio Ultimate 4에 대 한 기본 지원 끝은 2015 년 10 월 13 일입니다.\n\n## <a name=\"editions\"></a>버전 \n* 디자인\n* Encoder\n* 둥근 사각형 궁극적인\n* 웹"
+content: "\n\n> [!NOTE]\n> Expression Studio Ultimate 4에 대한 기본 지원은 2015년 10월 13일에 종료됩니다.\n\n## <a name=\"editions\"></a>버전 \n* Design\n* Encoder\n* Studio Ultimate\n* 웹"

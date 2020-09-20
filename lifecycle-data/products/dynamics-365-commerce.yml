@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870627"
 name: Dynamics 365 Commerce
 summary: >+
-  Dynamics 365 Commerce는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Dynamics 365 Commerce는 [최신](/lifecycle/policies/modern) 수명 정책을 따릅니다.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/01/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft Dynamics 365 로드맵](https://roadmap.dynamics.com/)\n* [이름 변경에 대 한 자세한 내용은](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 소매 is 현재 Dynamics 365 상거래"
+content: "\n## <a name=\"links\"></a>링크 \n* [Microsoft Dynamics 365 로드맵](https://roadmap.dynamics.com/)\n* [이름 변경에 대한 자세한 내용](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail은 이제 Dynamics 365 Commerce입니다."

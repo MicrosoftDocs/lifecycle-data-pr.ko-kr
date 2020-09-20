@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Power BI Workspace 컬렉션
-  description: Azure Power BI Workspace 컬렉션은 최신 수명 주기 정책을 따릅니다.
+  title: Azure Power BI 작업 영역 컬렉션
+  description: Azure Power BI 작업 영역 컬렉션은 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857748"
-name: Azure Power BI Workspace 컬렉션
+name: Azure Power BI 작업 영역 컬렉션
 summary: >
-  Azure Power BI Workspace 컬렉션은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Azure Power BI 작업 영역 컬렉션은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - sql-server
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2016
   endDate: 07/30/2018
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

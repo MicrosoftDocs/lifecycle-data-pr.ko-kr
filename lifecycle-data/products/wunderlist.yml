@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857821"
 name: Wunderlist
-summary: "Wunderlist는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원은 해당 취득 조건에 따라 달라 집니다. 이 제품에 대 한 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요. \n"
+summary: "Wunderlist는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품의 지원은 획득 약관의 적용을 받습니다. 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/02/2015
   endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"

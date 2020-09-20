@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: OneNote 2016
-  description: OneNote 2016 고정 수명 주기 정책을 따릅니다.
+  description: OneNote 2016은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 83108e00815fae4b6a914e47cb25f84822cace1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857806"
 name: OneNote 2016
 summary: >+
-  OneNote 2016 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  OneNote 2016은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Links \n* [OneNote-Microsoft 기술 커뮤니티](https://techcommunity.microsoft.com/t5/Office-365-Blog/Your-OneNote/ba-p/954922)\n\n> [!NOTE]\n> 표시 된 대로 기본 지원은 다음과 같이 확장 되었습니다. 자세한 내용은 여기로 이동 하세요."
+content: "\n## <a name=\"links\"></a>링크 \n* [OneNote - Microsoft 기술 커뮤니티](https://techcommunity.microsoft.com/t5/Office-365-Blog/Your-OneNote/ba-p/954922)\n\n> [!NOTE]\n> 메인스트림 지원이 아래와 같이 연장되었습니다. 이곳으로 이동하여 더 자세한 정보를 봅니다."
