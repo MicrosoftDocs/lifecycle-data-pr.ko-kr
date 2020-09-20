@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 비즈니스 솔루션--뛰어난 Plains 8.0
-  description: Microsoft 비즈니스 솔루션--8.0 Plains은 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Business Solutions--Great Plains 8.0
+  description: Microsoft Business Solutions--Great Plains 8.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934679"
-name: Microsoft 비즈니스 솔루션--뛰어난 Plains 8.0
+name: Microsoft Business Solutions--Great Plains 8.0
 summary: >
-  Microsoft 비즈니스 솔루션--8.0 Plains은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Business Solutions--Great Plains 8.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Standard
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원은 2009 년 10 월 13 일 종료 됨
+  > 이 제품에 대한 지원은 2009년 10월 13일에 종료되었습니다.
 products:
 - dynamics
 policyType: fixed-mainstream-only

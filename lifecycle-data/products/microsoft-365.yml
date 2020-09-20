@@ -6,7 +6,7 @@ metadata:
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935974"
@@ -15,7 +15,7 @@ summary: >+
   Microsoft 365는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
-  이는 비즈니스, 교육 기관, Enterprise, 정부 버전에 적용 됩니다.
+  Business, Education, Enterprise, Government 버전에 적용됩니다.
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>링크 \n* [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)\n* [시스템 요구 사항](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>버전 \n* Business\n* Education\n* Enterprise\n* 정부 기관"
+content: "\n## <a name=\"links\"></a>링크 \n* [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)\n* [시스템 요구 사항](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>버전 \n* Business\n* Education\n* Enterprise\n* Government"
