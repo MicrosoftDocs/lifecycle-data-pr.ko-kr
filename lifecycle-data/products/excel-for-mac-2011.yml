@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Mac 용 Excel 2011
-  description: Mac 용 Excel 2011 고정 수명 주기 정책을 따릅니다.
+  title: Excel for Mac 2011
+  description: Excel for Mac 2011은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827343"
-name: Mac 용 Excel 2011
+name: Excel for Mac 2011
 summary: >+
-  Mac 용 Excel 2011 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Excel for Mac 2011은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Microsoft Office for Mac 2011에 대 한 기본 지원은 고객에 게 표준 수명 주기 전환 시간 표시 막대를 제공 하기 위해 표시 된 대로 확장 되었습니다."
+content: "\n\n> [!NOTE]\n> Excel for Mac 2011에 대한 기본 지원은 모든 고객에게 표준 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다."

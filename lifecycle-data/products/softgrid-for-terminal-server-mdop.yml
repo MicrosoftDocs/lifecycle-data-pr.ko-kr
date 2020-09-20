@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: MDOP (터미널 서버용 Softgrid)
-  description: MDOP (터미널 서버용 Softgrid)는 고정 수명 주기 정책을 따릅니다.
+  title: Softgrid for Terminal Server(MDOP)
+  description: Softgrid for Terminal Server(MDOP)는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826592"
-name: MDOP (터미널 서버용 Softgrid)
+name: Softgrid for Terminal Server(MDOP)
 summary: >+
-  MDOP (터미널 서버용 Softgrid)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Softgrid for Terminal Server(MDOP)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [수명 주기 FAQ-일반](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 이전에 지원 되지 않는 버전을 제외 합니다. 이 제품에 대 한 지원은 해당 취득 조건에 따라 달라 집니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - 일반](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 이전에 지원되지 않는 버전은 제외합니다. 이 제품의 지원은 획득 약관의 적용을 받습니다."

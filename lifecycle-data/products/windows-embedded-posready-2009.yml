@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827095"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 지원이 종료 되었습니다. 아래 마이그레이션 지침을 참조 하세요.
+  > 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2009
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Windows Embedded 2009에 대 한 지원 종료](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [IoT 용 Windows](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows Embedded 2009 지원 종료](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [IoT용 Windows](https://www.microsoft.com/windowsforbusiness/windows-iot)"
