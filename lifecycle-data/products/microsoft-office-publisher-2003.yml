@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: Microsoft Office Publisher 2003는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft Office Publisher 2003은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930350"
 name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Office Publisher 2003은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 표준, 즉 디지털 이미징을 사용 하는 버전에 적용 됩니다.
+  Standard(Digital Imaging 포함) 버전에 적용됩니다.
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Standard\n* 디지털 이미징 사용"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Standard\n* Digital Imaging 포함"

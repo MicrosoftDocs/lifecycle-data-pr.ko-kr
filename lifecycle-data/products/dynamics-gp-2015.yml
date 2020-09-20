@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: efca9971ae340c54b72a50d61dc1f2323278c9a3
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858197"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2015
   endDate: 04/08/2025
-content: "\n## <a name=\"links\"></a>Links \n* [추가 정보 및 마이그레이션 지침](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [제품 정보](/dynamics-gp/)"
+content: "\n## <a name=\"links\"></a>링크 \n* [추가 정보 및 마이그레이션 지침](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [제품 정보](/dynamics-gp/)"
