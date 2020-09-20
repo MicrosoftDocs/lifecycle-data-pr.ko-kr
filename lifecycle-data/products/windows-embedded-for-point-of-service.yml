@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 서비스 지점에 대 한 Windows Embedded
-  description: 서비스 지점에 대 한 Windows Embedded는 고정 수명 주기 정책을 따릅니다.
+  title: Windows Embedded for Point of Service
+  description: Windows Embedded for Point of Service는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: fbfd3d13009c5b34a5ef92a78e76149f30ec707d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827098"
-name: 서비스 지점에 대 한 Windows Embedded
+name: Windows Embedded for Point of Service
 summary: >
-  서비스 지점에 대 한 Windows Embedded는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Embedded for Point of Service는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다.
+  > 이 제품에 대한 지원이 종료되었습니다.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 06/06/2005
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 지점 지원에 대 한 Windows Embedded](https://support.microsoft.com/help/18581)"
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows Embedded for Point of Service 지원](https://support.microsoft.com/help/18581)"
