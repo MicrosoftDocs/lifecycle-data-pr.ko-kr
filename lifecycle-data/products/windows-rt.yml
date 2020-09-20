@@ -6,7 +6,7 @@ metadata:
   keywords: 8.0999999999999996
   ms.openlocfilehash: 0bdab4b7a511cb789fae28d77b4846464ab5e763
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939711"
@@ -15,7 +15,7 @@ summary: >+
   Windows RT는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 다음 버전에 적용 됩니다 8.1.
+  8.1 버전에 적용됩니다.
 
 products:
 - windows

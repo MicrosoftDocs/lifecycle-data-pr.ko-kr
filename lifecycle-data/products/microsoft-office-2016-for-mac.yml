@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Mac 용 Microsoft Office 2016
-  description: Mac 용 Microsoft Office 2016 고정 수명 주기 정책을 따릅니다.
+  title: Mac용 Microsoft Office 2016
+  description: Microsoft Office 2016 for Mac은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Standard
   ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936307"
-name: Mac 용 Microsoft Office 2016
+name: Mac용 Microsoft Office 2016
 summary: >+
-  Mac 용 Microsoft Office 2016 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Office 2016 for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 가정 및 비즈니스, 가정 및 학생, 표준 버전에 적용 됩니다.
+  Home and Business, Home and Student, Standard 버전에 적용됩니다.
 
 products:
 - office

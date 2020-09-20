@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 엔터프라이즈 데스크톱 가상화 2.0
-  description: Microsoft 엔터프라이즈 데스크톱 가상화 2.0 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933902"
-name: Microsoft 엔터프라이즈 데스크톱 가상화 2.0
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  Microsoft 엔터프라이즈 데스크톱 가상화 2.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Enterprise Desktop Virtualization 2.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Enterprise

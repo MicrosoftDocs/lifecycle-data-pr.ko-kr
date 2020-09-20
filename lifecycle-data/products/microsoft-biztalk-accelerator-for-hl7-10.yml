@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 'Microsoft BizTalk Accelerator for HL7 1.0 '
-  description: Microsoft BizTalk Accelerator for HL7 1.0는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft BizTalk Accelerator for HL7 1.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935160"
 name: 'Microsoft BizTalk Accelerator for HL7 1.0 '
 summary: >+
-  Microsoft BizTalk Accelerator for HL7 1.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft BizTalk Accelerator for HL7 1.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Standard

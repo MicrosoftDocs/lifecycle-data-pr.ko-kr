@@ -1,13 +1,13 @@
 ---
 title: 수명 주기 데이터 내보내기
 description: 제품 수명 주기 정보 내보내기
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008471"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025036"
 ---
 # <a name="lifecycle-data-export"></a>수명 주기 데이터 내보내기
 
@@ -23,7 +23,7 @@ ms.locfileid: "1008471"
 ## <a name="export-products-by-family-and-group"></a>제품군 및 그룹별로 제품 내보내기
 가족을 선택한 다음 내보낼 그룹을 선택 합니다. 참고: 그룹 값을 선택 하면 내보내기가 시작 됩니다. 
 
-> [!div class="op_multi_selector" title1="거실" title2="Group"]
+> [!div class="op_multi_selector" title1="거실" title2="그룹"]
 > - [(.NET | 모든](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
 > - [(.NET | .NET)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET'%20and%20parent/parent/name%20eq%20'.NET')
 > - [(Azure | 모든](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Azure')
