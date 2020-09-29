@@ -6,7 +6,7 @@ metadata:
   keywords: Developer,Professional,Proofing Tools,Standard,Web Components
   ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928796"
@@ -15,7 +15,7 @@ summary: >+
   Office XP는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이는 개발자, 전문가, 언어 교정 도구, 표준, 웹 구성 요소 등의 버전에 적용 됩니다.
+  다음 버전에 적용됩니다. Developer, Professional, Proofing Tools, Standard, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Developer\n* Professional\n* 교정 도구\n* Standard\n* Web Components"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Developer\n* Professional\n* Proofing Tools\n* Standard\n* Web Components"

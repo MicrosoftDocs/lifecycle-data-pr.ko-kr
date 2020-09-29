@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 클래스 서버 4.0
-  description: Microsoft 클래스 서버 4.0 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Class Server 4.0
+  description: Microsoft Class Server 4.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 0edbcc4d8beac695a9fc873ec7ae2d51c06e8f56
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934494"
-name: Microsoft 클래스 서버 4.0
+name: Microsoft Class Server 4.0
 summary: >+
-  Microsoft 클래스 서버 4.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Class Server 4.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Standard

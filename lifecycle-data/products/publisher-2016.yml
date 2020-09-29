@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Publisher 2016
-  description: 게시자 2016 고정 수명 주기 정책을 따릅니다.
+  description: Publisher 2016은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: da399cd636aa0fe84a000ab93878bcf08c27f446
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926132"
 name: Publisher 2016
 summary: >+
-  게시자 2016 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Publisher 2016은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Standard
