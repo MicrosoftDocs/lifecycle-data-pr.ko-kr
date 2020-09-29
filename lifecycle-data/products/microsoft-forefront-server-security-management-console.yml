@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Server Security 관리 콘솔
-  description: Microsoft Forefront Server 보안 관리 콘솔은 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Forefront Server Security Management Console
+  description: Microsoft Forefront Server Security Management Console은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827222"
-name: Microsoft Forefront Server Security 관리 콘솔
+name: Microsoft Forefront Server Security Management Console
 summary: >+
-  Microsoft Forefront Server 보안 관리 콘솔은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Forefront Server Security Management Console은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

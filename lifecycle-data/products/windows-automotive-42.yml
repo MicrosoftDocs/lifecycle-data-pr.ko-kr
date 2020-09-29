@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 자동차 4.2
-  description: Windows 자동차 4.2 고정 수명 주기 정책을 따릅니다.
+  title: Windows Automotive 4.2
+  description: Windows Automotive 4.2는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826578"
-name: Windows 자동차 4.2
+name: Windows Automotive 4.2
 summary: >
-  Windows 자동차 4.2 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Automotive 4.2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다.
+  > 이 제품에 대한 지원이 종료되었습니다.
 products:
 - windows
 policyType: fixed

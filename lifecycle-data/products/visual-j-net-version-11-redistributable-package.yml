@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Visual j # .NET 버전 1.1 재배포 가능 패키지'
-  description: '고정 수명 주기 정책을 따르는 Visual j # .NET 버전 1.1 재배포 가능 패키지'
+  title: Visual J# .NET 버전 1.1 재배포 가능 패키지
+  description: Visual J# .NET 버전 1.1 재배포 가능 패키지는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5cd64a881e213e1db23e4d7a0f7fe32baf3d8b12
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826744"
-name: 'Visual j # .NET 버전 1.1 재배포 가능 패키지'
+name: Visual J# .NET 버전 1.1 재배포 가능 패키지
 summary: >+
-  [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따르는 Visual j # .net 버전 1.1 재배포 가능 패키지
+  Visual J# .NET 버전 1.1 재배포 가능 패키지는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

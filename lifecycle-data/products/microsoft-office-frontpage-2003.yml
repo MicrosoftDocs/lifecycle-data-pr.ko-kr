@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office FrontPage 2003
-  description: Microsoft Office FrontPage 2003는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft Office FrontPage 2003은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: eb7f001218c8b53cc1ebf75314ca5bd2b8b9a792
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826866"
 name: Microsoft Office FrontPage 2003
-summary: "Microsoft Office FrontPage 2003는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대 한 지원이 종료 되었습니다. \n"
+summary: "Microsoft Office FrontPage 2003은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
 - office
 policyType: fixed

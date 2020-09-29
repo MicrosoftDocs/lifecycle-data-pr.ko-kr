@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 비즈니스 솔루션 (분석 Forecaster 6.7)
-  description: 분석 Forecaster 6.7 용 Microsoft 비즈니스 솔루션은 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Business Solutions for Analytics Forecaster 6.7
+  description: Microsoft Business Solutions for Analytics Forecaster 6.7은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827267"
-name: Microsoft 비즈니스 솔루션 (분석 Forecaster 6.7)
+name: Microsoft Business Solutions for Analytics Forecaster 6.7
 summary: >+
-  분석 Forecaster 6.7 용 Microsoft 비즈니스 솔루션은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Business Solutions for Analytics Forecaster 6.7은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
