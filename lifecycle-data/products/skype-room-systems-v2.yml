@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype 대화방 시스템 v2
-  description: Skype 대화방 시스템 v2는 최신 수명 주기 정책을 따릅니다.
+  title: Skype Room Systems v2
+  description: Skype Room Systems v2는 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858133"
-name: Skype 대화방 시스템 v2
+name: Skype Room Systems v2
 summary: >+
-  Skype 대화방 시스템 v2는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Skype Room Systems v2는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/18/2016
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

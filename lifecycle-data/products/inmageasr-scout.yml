@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Site Recovery의 InMage 정찰 병
-  description: Azure Site Recovery의 InMage 정찰 병은 최신 수명 주기 정책을 따릅니다.
+  title: InMage Scout in Azure Site Recovery
+  description: InMage Scout in Azure Site Recovery는 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857905"
-name: Azure Site Recovery의 InMage 정찰 병
+name: InMage Scout in Azure Site Recovery
 summary: >+
-  Azure Site Recovery의 InMage 정찰 병은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  InMage Scout in Azure Site Recovery는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 12/31/2020
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://aka.ms/asr-scout-doc)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/asr-scout-doc)"

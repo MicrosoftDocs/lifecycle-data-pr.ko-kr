@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 비즈니스용 Skype 2016
-  description: 비즈니스용 Skype 2016 고정 수명 주기 정책을 따릅니다.
+  description: 비즈니스용 Skype 2016은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858136"
 name: 비즈니스용 Skype 2016
 summary: >+
-  비즈니스용 Skype 2016 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  비즈니스용 Skype 2016은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
