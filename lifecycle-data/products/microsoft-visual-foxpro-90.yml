@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual FoxPro 9.0
-  description: Microsoft Visual FoxPro 9.0는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft Visual FoxPro 9.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Professional
   ms.openlocfilehash: 689e9849afd320715a3f700c08beee645de18060
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "929314"
 name: Microsoft Visual FoxPro 9.0
 summary: >+
-  Microsoft Visual FoxPro 9.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Visual FoxPro 9.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  Professional 버전에 적용됩니다.
 
 products:
 - vs

@@ -6,7 +6,7 @@ metadata:
   keywords: Professional
   ms.openlocfilehash: f1a877392c50fc6e526869f7269b728b9dd727cd
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "929054"
@@ -15,7 +15,7 @@ summary: >+
   Microsoft Visual FoxPro 8.0 Professional Edition은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 다음 버전에 적용 됩니다.
+  Professional 버전에 적용됩니다.
 
 products:
 - vs

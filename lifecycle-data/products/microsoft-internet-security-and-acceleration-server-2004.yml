@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 인터넷 보안 및 가속 서버 2004
-  description: Microsoft 인터넷 보안 및 가속 서버 2004 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Microsoft Internet Security and Acceleration Server 2004는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933495"
-name: Microsoft 인터넷 보안 및 가속 서버 2004
-summary: "Microsoft 인터넷 보안 및 가속 서버 2004 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Enterprise, Standard\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Microsoft Internet Security and Acceleration Server 2004는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Enterprise, Standard\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
 - microsoft-servers
 policyType: fixed

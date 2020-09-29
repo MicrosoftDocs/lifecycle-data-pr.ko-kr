@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 클래스 서버 3.0
-  description: Microsoft 클래스 서버 3.0 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Class Server 3.0
+  description: Microsoft Class Server 3.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934642"
-name: Microsoft 클래스 서버 3.0
+name: Microsoft Class Server 3.0
 summary: >+
-  Microsoft 클래스 서버 3.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Class Server 3.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Standard

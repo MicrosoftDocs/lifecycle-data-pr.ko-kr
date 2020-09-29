@@ -6,7 +6,7 @@ metadata:
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934050"
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 버전 1910 부터는 Configuration Manager가 Microsoft Endpoint Manager의 일부가 되었습니다.
+  > 1910 버전부터 구성 관리자는 Microsoft Endpoint Manager의 일부가 되었습니다.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [버전 세부 정보](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager가 이제 Microsoft 끝점 구성 관리자입니다.](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [이전 버전](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [구성 관리자 란?](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [버전 세부 정보](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager는 이제 Microsoft Endpoint Configuration Manager입니다.](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [이전 버전](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [구성 관리자는 무엇입니까?](/mem/configmgr/core/understand/introduction)"
