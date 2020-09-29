@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Access 2016
-  description: 액세스 2016 고정 수명 주기 정책을 따릅니다.
+  description: Access 2016은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 98a71f2b9f489d7d1f30a0177e4389ea9c4f5897
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940118"
 name: Access 2016
 summary: >+
-  액세스 2016 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Access 2016은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   다음 버전에 적용됩니다. Standard

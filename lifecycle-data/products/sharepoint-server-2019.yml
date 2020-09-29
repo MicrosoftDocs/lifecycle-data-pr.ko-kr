@@ -6,7 +6,7 @@ metadata:
   keywords: ''
   ms.openlocfilehash: 04aeff151809d56448eda49c96441651a9675171
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941677"
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/sharepoint/sharepoint-server) 및 [개발자](https://developer.microsoft.com/sharepoint/docs) 설명서 참조"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/sharepoint/sharepoint-server) 및 [개발자](https://developer.microsoft.com/sharepoint/docs) 설명서를 참조하세요."
