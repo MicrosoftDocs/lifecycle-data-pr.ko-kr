@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4372209f8c7d30c736fb93349bff6a395b0e77ab
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870643"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/01/2018
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 정보](/azure/cyclecloud/service-policy)"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/azure/cyclecloud/service-policy)"

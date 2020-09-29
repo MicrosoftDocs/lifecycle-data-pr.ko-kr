@@ -5,7 +5,7 @@ metadata:
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924262"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>링크 \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security는 7 월 14th, 2015로 인해 중단 되었습니다. 제품 버전에 대 한 지원이 종료 된 후에는 맬웨어 방지 및 스파이웨어 방지 정의 업데이트를 더 이상 사용할 수 없습니다. 시스템 센터 Endpoint Protection을 교체로 평가 하세요."
+content: "\n## <a name=\"links\"></a>링크 \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security는 2015년 7월 14일부터 중단되었습니다. 제품 버전에 대한 지원이 종료되면 맬웨어 방지 및 스파이웨어 방지 정의 업데이트를 더 이상 사용할 수 없습니다. System Center Endpoint Protection을 대안으로 평가하세요."

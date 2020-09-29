@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: StorSimple 데이터 관리자
-  description: StorSimple 데이터 관리자는 고정 수명 주기 정책을 따릅니다.
+  title: StorSimple Data Manager
+  description: StorSimple Data Manager는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870664"
-name: StorSimple 데이터 관리자
+name: StorSimple Data Manager
 summary: >+
-  StorSimple 데이터 관리자는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  StorSimple Data Manager는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/20/2020
   ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905908"
 name: Microsoft System Center Configuration Manager(LTSB - 버전 1606)
 summary: >+
-  Microsoft System Center Configuration Manager(LTSB - 버전 1606)는 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
+  Microsoft System Center Configuration Manager(LTSB - 버전 1606)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 및 지원 정보](/sccm/core/understand/learn-more-editions)"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 및 지원 정보](/sccm/core/understand/learn-more-editions)"
