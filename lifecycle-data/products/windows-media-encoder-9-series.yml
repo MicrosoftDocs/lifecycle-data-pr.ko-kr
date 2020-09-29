@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Media 인코더 9 시리즈
-  description: Windows Media Encoder 9 시리즈는 고정 수명 주기 정책을 따릅니다.
+  description: Windows Media 인코더 9 시리즈는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940007"
 name: Windows Media 인코더 9 시리즈
 summary: >+
-  Windows Media Encoder 9 시리즈는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Media 인코더 9 시리즈는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  이 작업은 64 비트, Standard 버전에 적용 됩니다.
+  64 Bit, Standard 버전에 적용됩니다.
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> 2005 년 9 월 15 일에 릴리스된 Windows Media Encoder 9 시리즈 x64 Edition\n\n## <a name=\"editions\"></a>버전 \n* 64Bit\n* Standard"
+content: "\n\n> [!NOTE]\n> Windows Media 인코더 9 시리즈 x64 버전은 2005년 9월 15일에 출시되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* 64Bit\n* Standard"

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2016
-  description: Project Server 2016는 고정 수명 주기 정책을 따릅니다.
+  description: Project Server 2016은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941455"
 name: Project Server 2016
 summary: >+
-  Project Server 2016는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Project Server 2016은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/project/project-server-2013-and-2016) 및 [개발자](https://developer.microsoft.com/project/docs) 설명서를 참조 하세요."
+content: "\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/project/project-server-2013-and-2016) 및 [개발자](https://developer.microsoft.com/project/docs) 설명서를 참조하세요."

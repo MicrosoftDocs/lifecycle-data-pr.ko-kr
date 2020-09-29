@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Silverlight 3
+  description: Microsoft Silverlight 3은 고정 수명 주기 정책을 따릅니다.
+  ms.date: 09/21/2020
+  keywords: ''
+  ms.openlocfilehash: 039ef2353f648bae64ee84b9951541e221f7ada5
+  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 09/21/2020
+  ms.locfileid: "1025305"
+name: Microsoft Silverlight 3
+summary: >+
+  Microsoft Silverlight 3은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/09/2009
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 07/09/2009
+  endDate: 04/12/2011
+content: "\n\n> [!NOTE]\n> 도구에 대한 지원은 알림 날짜로부터 12개월 이내에 종료됩니다."
