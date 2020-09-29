@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 제어 관리 서버 2013
-  description: Microsoft Office 감사 및 제어 관리 서버 2013은 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Office Audit and Control Management Server 2013
+  description: Microsoft Office Audit and Control Management Server 2013은 고정 수명 주기 정책을 따릅니다.
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907917"
-name: Microsoft Office 제어 관리 서버 2013
+name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  Microsoft Office 관리 서버 2013은 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
+  Microsoft Office Audit and Control Management Server 2013은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: EMET(Enhanced Mitigation Experience Toolkit)
-  description: EMET(Enhanced Mitigation Experience Toolkit)가 고정 수명 주기 정책을 따릅니다.
+  description: EMET(Enhanced Mitigation Experience Toolkit)는 고정 수명 주기 정책을 따릅니다.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905311"
 name: EMET(Enhanced Mitigation Experience Toolkit)
 summary: >+
-  EMET(향상된 완화 Toolkit)는 고정 수명 주기 [정책을](/lifecycle/policies/fixed) 따릅니다.
+  EMET(Enhanced Mitigation Experience Toolkit)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

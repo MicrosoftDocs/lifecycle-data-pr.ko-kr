@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure BizTalk 서비스
-  description: Azure BizTalk 서비스는 최신 수명 주기 정책을 따릅니다.
+  title: Azure BizTalk Services
+  description: Azure BizTalk Services는 최신 수명 주기 정책을 따릅니다.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904275"
-name: Azure BizTalk 서비스
+name: Azure BizTalk Services
 summary: >+
-  Azure BizTalk 서비스는 최신 [수명 주기 정책을](/lifecycle/policies/modern) 따릅니다.
+  Azure BizTalk Services는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://azure.microsoft.com/services/biztalk-services)"

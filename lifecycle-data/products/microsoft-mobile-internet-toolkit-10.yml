@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/21/2020
   ms.openlocfilehash: e9a9ce1f047d999f0d4cc8ce565d1611b2b7f748
   ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907223"
 name: Microsoft Mobile Internet Toolkit 1.0
 summary: >+
-  Microsoft Mobile Internet Toolkit 1.0은 고정 수명 [주기](/lifecycle/policies/fixed) 정책을 따릅니다.
+  Microsoft Mobile Internet Toolkit 1.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

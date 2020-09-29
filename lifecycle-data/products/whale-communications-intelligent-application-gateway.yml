@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907147"
 name: Whale Communications Intelligent Application Gateway
 summary: >+
-  Whale Communications Intelligent Application Gateway는 고정 수명 [주기 정책을](/lifecycle/policies/fixed) 따릅니다.
+  Whale Communications Intelligent Application Gateway는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
