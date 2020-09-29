@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded CE 6.0
-  description: Windows Embedded CE 6.0는 고정 수명 주기 정책을 따릅니다.
+  description: Windows Embedded CE 6.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: a4dcc45afc796f07ef8606d1130588a449bd0e8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827100"
 name: Windows Embedded CE 6.0
 summary: >
-  Windows Embedded CE 6.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Embedded CE 6.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
   > [!IMPORTANT]
 
-  > 이 제품에 대 한 지원이 종료 되었습니다.
+  > 이 제품에 대한 지원이 종료되었습니다.
 products:
 - windows
 policyType: fixed

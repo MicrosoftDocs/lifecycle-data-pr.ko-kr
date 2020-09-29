@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 서비스 관리자 2010
-  description: System Center Service Manager 2010는 고정 수명 주기 정책을 따릅니다.
+  title: System Center Service Manager 2010
+  description: System Center Service Manager 2010은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 844c0319c76e81e57b895549694a67efddc1bccc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827120"
-name: System Center 서비스 관리자 2010
+name: System Center Service Manager 2010
 summary: >+
-  System Center Service Manager 2010는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  System Center Service Manager 2010은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 비즈니스 솔루션--솔로몬 6.0
-  description: Microsoft 비즈니스 솔루션--솔로몬 6.0 고정 수명 주기 정책을 따릅니다.
+  title: Microsoft Business Solutions--Solomon 6.0
+  description: Microsoft Business Solutions--Solomon 6.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 540bb6a54428f0ebae78d2599649a27a4504fea6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827261"
-name: Microsoft 비즈니스 솔루션--솔로몬 6.0
+name: Microsoft Business Solutions--Solomon 6.0
 summary: >+
-  Microsoft 비즈니스 솔루션--솔로몬 6.0 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft Business Solutions--Solomon 6.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2008
-  description: Dynamics C5 2008 고정 수명 주기 정책을 따릅니다.
+  description: Dynamics C5 2008은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa21ee533af7b18e203b20be31a3cf453418a9ef
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826666"
 name: Dynamics C5 2008
 summary: >+
-  Dynamics C5 2008 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Dynamics C5 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2007
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)"
