@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 2013 버전의 Office 365 ProPlus
-  description: Office 2013 버전의 Office 365 ProPlus는 최신 수명 주기 정책을 따릅니다.
+  title: Office 365 ProPlus Office 2013 버전
+  description: Office 365 ProPlus Office 2013 버전은 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 737fb217dc596643edfbcb06dd90640e1641c49b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857809"
-name: Office 2013 버전의 Office 365 ProPlus
+name: Office 365 ProPlus Office 2013 버전
 summary: >+
-  Office 2013 버전의 Office 365 ProPlus는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+  Office 365 ProPlus Office 2013 버전은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 products:

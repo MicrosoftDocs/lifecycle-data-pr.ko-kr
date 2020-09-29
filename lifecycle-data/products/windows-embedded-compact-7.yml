@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6a72f68217243c9b2160dca4aa9136ae5d21f16b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858154"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Links \n* [마이그레이션 지침](https://support.microsoft.com/help/4057281)"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://support.microsoft.com/help/4057281)"

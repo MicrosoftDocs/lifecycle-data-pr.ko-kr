@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center 2016 Virtual Machine Manager
-  description: System Center 2016 가상 컴퓨터 관리자는 고정 수명 주기 정책을 따릅니다.
+  description: System Center 2016 Virtual Machine Manager는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858050"
 name: System Center 2016 Virtual Machine Manager
 summary: >+
-  System Center 2016 가상 컴퓨터 관리자는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  System Center 2016 Virtual Machine Manager는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 진단 및 복구 도구 집합 10.0
-  description: Microsoft 진단 및 복구 도구 집합 10.0는 고정 수명 주기 정책을 따릅니다.
+  description: Microsoft 진단 및 복구 도구 집합 10.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
   ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857881"
 name: Microsoft 진단 및 복구 도구 집합 10.0
 summary: >+
-  Microsoft 진단 및 복구 도구 집합 10.0는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Microsoft 진단 및 복구 도구 집합 10.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
