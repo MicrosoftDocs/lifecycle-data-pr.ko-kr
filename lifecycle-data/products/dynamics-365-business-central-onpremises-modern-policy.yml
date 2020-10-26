@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics 365 Business Central 온-프레미스(최신 정책)
   description: Dynamics 365 Business Central 온-프레미스(최신 정책)는 최신 수명 주기 정책을 따릅니다.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 6198004b9c681fb99e7c34f596c16bf08c588914
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 10/19/2020
+  keywords: 
+  ms.openlocfilehash: 792031c3f92cb2ad7791442ef8428435b69dc2c1
+  ms.sourcegitcommit: 2898ade954d468d09e16a723f0685bbac5214be0
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891960"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "1160877"
 name: Dynamics 365 Business Central 온-프레미스(최신 정책)
 summary: >+
   Dynamics 365 Business Central 온-프레미스(최신 정책)는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
@@ -20,6 +21,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/01/2019
 releases:
+- version: 2020 release wave 2, version 17.x
+  startDate: 10/01/2020
+  endDate: 04/12/2022
 - version: 2020 release wave 1, version 16.x
   startDate: 04/01/2020
   endDate: 10/12/2021
