@@ -2,13 +2,14 @@
 metadata:
   title: 비즈니스용 Skype Online
   description: 비즈니스용 Skype Online은 최신 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858135"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162192"
 name: 비즈니스용 Skype Online
 summary: >
   비즈니스용 Skype Online은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 이 서비스는 2021년 7월 31일에 사용 중지됩니다. 마이그레이션 지침은 아래를 참조하세요.
+  > 이 서비스는 2021년 7월 31일에 사용 중지됩니다. 마이그레이션 지침은 아래를 참조하세요. 하이브리드 음성 배포에 미치는 영향에 대해 알아보려면 [여기](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055)로 이동하세요.
 products:
 - office
 policyType: modern-online

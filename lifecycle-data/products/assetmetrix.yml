@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: AssetMetrix
+  description: AssetMetrix는 최신 수명 주기 정책을 따릅니다.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: db5a90d3b938f0b8b7a8311d5b0092e445818ae8
+  ms.sourcegitcommit: 36daddf71b03a8e6938fa973778bf6c67b1bd663
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/14/2020
+  ms.locfileid: "1154182"
+name: AssetMetrix
+summary: >+
+  AssetMetrix는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- msc
+policyType: modern-online
+supportDates:
+  start: 12/01/2007
+  end: 07/08/2008
+releases:
+- version: Original Release
+  startDate: 12/01/2007
+  endDate: 07/08/2008
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - 일반](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 이 제품의 지원은 획득 약관의 적용을 받습니다."
