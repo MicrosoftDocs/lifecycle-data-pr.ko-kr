@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>링크 \n* [SharePoint 2016 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Workflow Manager가 SharePoint Server 2016 또는 SharePoint Server 2013의 구성 요소인 경우 각 SharePoint Server 버전의 지원 종료 날짜에 따라 지원됩니다.\n\n## <a name=\"editions\"></a>버전 \n* 클라이언트\n* Standard"
+content: "\n## <a name=\"links\"></a>링크 \n* [SharePoint 2016 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Workflow Manager가 SharePoint Server 2016 또는 SharePoint Server 2013의 구성 요소인 경우 각 SharePoint Server 버전의 지원 종료 날짜에 따라 지원됩니다.\n\n## <a name=\"editions\"></a>버전 \n* Client\n* Standard"

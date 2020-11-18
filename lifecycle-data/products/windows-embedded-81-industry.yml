@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded 8.1 Industry
-  description: Windows Embedded 8.1 Industry 는 고정 수명 주기 정책을 따릅니다.
+  description: Windows Embedded 8.1 Industry는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/10/2020
   keywords: Enterprise,Pro,Sideloading
   ms.openlocfilehash: e033f9a8e05ac0646caf13dd8642e70cfa6bb16a
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1002432"
 name: Windows Embedded 8.1 Industry
 summary: >+
-  Windows Embedded 8.1 Industry 는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Windows Embedded 8.1 Industry는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   Enterprise, Pro, Sideloading 버전에 적용됩니다.
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - Windows 제품](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 FAQ](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Pro\n* 사이드로딩"
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - Windows 제품](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 FAQ](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Pro\n* Sideloading"
