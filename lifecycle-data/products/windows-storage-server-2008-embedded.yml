@@ -15,7 +15,7 @@ summary: >+
   Windows Storage Server 2008 Embedded는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
+  32Bit, 64Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup 버전에 적용됩니다.
 
 products:
 - windows

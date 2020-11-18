@@ -15,7 +15,7 @@ summary: >
   Visual Studio Team System 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
+  All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS 버전에 적용됩니다.
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [마이그레이션 지침](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* 전체\n* 아키텍처\n* Database\n* 개발\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [마이그레이션 지침](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* All\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
