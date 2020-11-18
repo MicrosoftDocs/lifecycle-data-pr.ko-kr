@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Host Systems 2.0용 Microsoft BizTalk Adapters
-  description: Host Systems 2.0용 Microsoft BizTalk Adapters 는 고정 수명 주기 정책을 따릅니다.
+  description: Host Systems 2.0용 Microsoft BizTalk Adapters는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/10/2020
   keywords: Developer,Standard
   ms.openlocfilehash: 233e1bef8d5f953df1498b57cfbfc077b3461f49
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1000212"
 name: Host Systems 2.0용 Microsoft BizTalk Adapters
 summary: >+
-  Host Systems 2.0용 Microsoft BizTalk Adapters 는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+  Host Systems 2.0용 Microsoft BizTalk Adapters는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
   Developer, Standard 버전에 적용됩니다.

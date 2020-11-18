@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. All, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+  All, Pro(MSDN Premium 포함), Professional, Professional(MSDN 포함), Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express 버전에 적용됩니다.
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express, Visual Studio Team System 버전 포함\n\n## <a name=\"editions\"></a>버전 \n* 전체\n* Pro(MSDN Premium 포함)\n* Professional\n* Professional(MSDN 포함) \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express, Visual Studio Team System 버전 포함\n\n## <a name=\"editions\"></a>버전 \n* All\n* Pro(MSDN Premium 포함)\n* Professional\n* Professional(MSDN 포함) \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

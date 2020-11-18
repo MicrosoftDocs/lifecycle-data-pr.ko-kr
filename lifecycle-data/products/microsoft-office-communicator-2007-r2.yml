@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001729"
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\nAll applicable, Phone 버전에 적용됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. 마이그레이션 지침을 참조하세요. \n"
+summary: "Microsoft Office Communicator 2007 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n적용 가능한 모든 제품, Phone 버전에 적용됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. 마이그레이션 지침을 참조하세요. \n"
 products:
 - office
 policyType: fixed

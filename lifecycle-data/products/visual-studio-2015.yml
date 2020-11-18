@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2015는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell(통합), Shell(격리), Test Professional, TPS, Visual C++ Redistributable
+  Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell(Integrated), Shell(Isolated), Test Professional, TPS, Visual C++ Redistributable 버전에 적용됩니다.
 
 products:
 - vs
