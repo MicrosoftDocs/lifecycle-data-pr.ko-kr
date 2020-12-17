@@ -2,20 +2,20 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESGH,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSGH,PSM,Remote Tools,Team Explorer,Visual C++ Redistributable
-  ms.openlocfilehash: 944f1805bb73b6937043cdb30b72b59732fe5e1c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 12/08/2020
+  keywords: 
+  ms.openlocfilehash: b0c62a885196785982c3d308a9088d4baee93e7a
+  ms.sourcegitcommit: 3ab84f41d3282b710920b60cd302c8c52d9c6808
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937306"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "1338280"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  다음 버전에 적용됩니다. Agents, Build Tools, Community, Enterprise, ESGH, Mac용, IntelliTrace Standalone Collector, Performance Tools, Professional, PSGH, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable
+  다음 버전에 적용됩니다. Agents, Build Tools, Community, Enterprise, Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -25,10 +25,13 @@ supportDates:
   end: 04/09/2024
   extendedEnd: 04/10/2029
 releases:
+- version: Version 16.7
+  startDate: 08/05/2020
+  endDate: 04/10/2029
 - version: Version 16.4
   startDate: 12/03/2019
-  endDate: 04/10/2029
+  endDate: 10/12/2021
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>링크 \n* [공지](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [서비스 정보](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* ESGH\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* PSGH\n* PSM\n* 원격 도구\n* Team Explorer\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>링크 \n* [Visual Studio 블로그 공지 사항](https://devblogs.microsoft.com/visualstudio/)\n* [서비스 정보](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 다운로드 페이지](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 릴리스 노트](/visualstudio/releases/2019/release-notes)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* 원격 도구\n* Team Explorer\n* Visual C++ Redistributable"
