@@ -1,0 +1,47 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET 및 .NET Core
+  description: Microsoft .NET 및 .NET Core는 최신 수명 주기 정책을 따릅니다.
+  ms.date: 12/17/2020
+  keywords: ASP.NET Core,Entity Framework Core
+  ms.openlocfilehash: 6052955c370906a7e2ecc16cc1d24b3e055adc89
+  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "1347405"
+name: Microsoft .NET 및 .NET Core
+summary: >+
+  Microsoft .NET 및 .NET Core는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: .NET 5.0
+  startDate: 11/10/2020
+- version: .NET Core 3.1 (LTS)
+  startDate: 12/03/2019
+  endDate: 12/03/2022
+- version: .NET Core 3.0
+  startDate: 09/23/2019
+  endDate: 03/03/2020
+- version: .NET Core 2.2
+  startDate: 12/04/2018
+  endDate: 12/23/2019
+- version: .NET Core 2.1 (LTS)
+  startDate: 05/30/2018
+  endDate: 08/21/2021
+- version: .NET Core 2.0
+  startDate: 08/14/2017
+  endDate: 10/01/2018
+- version: .NET Core 1.1
+  startDate: 11/16/2016
+  endDate: 06/27/2019
+- version: .NET Core 1.0
+  startDate: 06/27/2016
+  endDate: 06/27/2019
+content: "\n## <a name=\"links\"></a>링크 \n* [.NET Core 지원 세부 정보(dotnet)](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)\n* [.NET Core 릴리스 일정](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [.NET Core 제품 로드맵](https://github.com/dotnet/core/blob/master/product-roadmap/current.md)\n* [수명 주기 FAQ - .NET Core](/lifecycle/faq/dotnet-core)\n* [ASP.NET 및 ASP.NET Core 지원 세부 정보](https://dotnet.microsoft.com/platform/support/policy/aspnet)\n* [Entity Framework 지원 세부 정보](/ef/core/what-is-new)\n\n> [!NOTE]\n> Microsoft .NET Core의 브랜드가 .NET 5.0부터 .NET으로 변경되었습니다. \n>\n>ASP.NET Core 및 Entity Framework Core는 .NET Core와 동일한 수명 주기를 따릅니다."
