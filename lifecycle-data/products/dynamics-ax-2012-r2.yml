@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics AX 2012 R2
   description: Dynamics AX 2012 R2는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 12/17/2020
+  keywords: 
+  ms.openlocfilehash: 692e77796e74b3dc826fcb3b21fa110d8e3485b2
+  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858019"
+  ms.lasthandoff: 12/18/2020
+  ms.locfileid: "1348230"
 name: Dynamics AX 2012 R2
 summary: >+
   Dynamics AX 2012 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -20,9 +21,9 @@ policyType: fixed
 supportDates:
   start: 02/19/2013
   end: 10/09/2018
-  extendedEnd: 10/12/2021
+  extendedEnd: 04/12/2022
 releases:
 - version: Original Release
   startDate: 02/19/2013
-  endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 마이그레이션 프로그램](https://dynamics.microsoft.com/migration-program/)\n* [추가 수명 주기 정보](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> 메인스트림 지원이 아래와 같이 연장되었습니다."
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 마이그레이션 프로그램](https://dynamics.microsoft.com/migration-program/)\n* [추가 수명 주기 정보](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Dynamics AX 2012 및 Dynamics AX R2에 대한 지원 종료가 2021년 10월 12일에서 2022년 4월 12일로 연장되었습니다."
