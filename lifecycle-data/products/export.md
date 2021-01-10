@@ -1,25 +1,25 @@
 ---
 title: 수명 주기 데이터 내보내기
 description: 제품 수명 주기 정보 내보내기
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335891"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367570"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="c75b2-103">수명 주기 데이터 내보내기</span><span class="sxs-lookup"><span data-stu-id="c75b2-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="51034-103">수명 주기 데이터 내보내기</span><span class="sxs-lookup"><span data-stu-id="51034-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="c75b2-104">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="c75b2-104">Export all products</span></span>
-<span data-ttu-id="c75b2-105">아래를 클릭하여 모든 제품에 대한 수명 주기 데이터를 내보냅니다.</span><span class="sxs-lookup"><span data-stu-id="c75b2-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="51034-104">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="51034-104">Export all products</span></span>
+<span data-ttu-id="51034-105">아래를 클릭하여 모든 제품에 대한 수명 주기 데이터를 내보냅니다.</span><span class="sxs-lookup"><span data-stu-id="51034-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="c75b2-106">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="c75b2-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="51034-106">모든 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="51034-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="c75b2-107">제품군 및 그룹별 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="c75b2-107">Export products by Family and Group</span></span>
-<span data-ttu-id="c75b2-108">내보내려면 제품군을 선택한 다음 그룹을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="c75b2-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="c75b2-109">참고: 그룹 값을 선택하면 내보내기가 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="c75b2-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="51034-107">제품군 및 그룹별 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="51034-107">Export products by Family and Group</span></span>
+<span data-ttu-id="51034-108">내보내려면 제품군을 선택한 다음 그룹을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="51034-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="51034-109">참고: 그룹 값을 선택하면 내보내기가 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="51034-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="제품군" title2="그룹"]
 > - [(.NET | 모두)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335891"
 > - [(Windows | Security)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | Server)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="c75b2-170">지원 종료일별 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="c75b2-170">Export products by end of support date</span></span>
-<span data-ttu-id="c75b2-171">지원이 종료되는 제품을 보려면 연도를 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="c75b2-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="c75b2-172">참고: 연도 값을 선택하면 내보내기가 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="c75b2-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="51034-170">지원 종료일별 제품 내보내기</span><span class="sxs-lookup"><span data-stu-id="51034-170">Export products by end of support date</span></span>
+<span data-ttu-id="51034-171">지원이 종료되는 제품을 보려면 연도를 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="51034-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="51034-172">참고: 연도 값을 선택하면 내보내기가 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="51034-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [다음 12개월](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [다음 6개월](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
