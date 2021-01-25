@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2012용 Windows Server 업데이트 서비스
   description: Windows Server Update Services for Windows Server 2012는 구성 요소 수명 주기 정책을 따릅니다.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 01/22/2021
+  keywords: 
+  ms.openlocfilehash: 6982a7f3e59967b7daddc7dd0ba73bd112e0d81a
+  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858115"
+  ms.lasthandoff: 01/23/2021
+  ms.locfileid: "1416719"
 name: Windows Server 2012용 Windows Server 업데이트 서비스
 summary: >+
   Windows Server Update Services for Windows Server 2012는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
@@ -19,11 +20,9 @@ products:
 policyType: component
 supportDates:
   start: 10/30/2012
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: >-
-  > [!TIP]
-
-  > 이 구성 요소는 부모 제품인 Windows Server 2012의 수명 주기를 따릅니다.
+content: "\n\n> [!NOTE]\n> 이 구성 요소는 부모 제품인 Windows Server 2012의 수명 주기를 따릅니다."
