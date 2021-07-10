@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11은 구성 요소 수명 주기 정책을 따릅니다.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893653"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029512"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11은 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > IE(Internet Explorer) 11 데스크톱 애플리케이션은 2022년 6월 15일부터 특정 운영 체제에 대한 지원을 종료합니다. 고객은 IE 모드를 사용하여 Microsoft Edge로 이동하는 것이 좋습니다. IE 모드는 이전 버전과의 호환이 가능하며 최소 2029년까지 지원됩니다. 또한 Microsoft는 IE 모드 사용 중지 1년 전에 알림을 제공합니다. 이 발표의 영향을 받는 버전을 비롯하여 Internet Explorer에 지원되는 운영 체제 목록을 보려면 [여기](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)로 이동하세요.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 수명 주기 정책 FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016년 1월 12일부터, 지원되는 운영 체제에서 사용할 수 있는 가장 최신 버전의 Internet Explorer 에만 기술 지원과 보안 업데이트가 제공됩니다."
+content: "\n\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer/Edge 수명 주기 FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorer 지원 운영 체제](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge 지원 운영 체제](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> 일부 Internet Explorer 버전은 ESU(추가 보안 업데이트)를 사용할 수 있는 경우 최신 OS 종료 날짜 이후에 지원될 수 있습니다. ESU를 제공하는 제품 목록을 보려면 [여기](https://docs.microsoft.com/lifecycle/faq/extended-security-updates)를 참조하세요."

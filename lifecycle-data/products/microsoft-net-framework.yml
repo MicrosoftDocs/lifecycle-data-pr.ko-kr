@@ -2,19 +2,23 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework는 구성 요소 수명 주기 정책을 따릅니다.
-  ms.date: 12/16/2020
+  ms.date: 04/26/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: ac0ceb3f06c50aca5da4d362e291d809d1353b17
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.openlocfilehash: 36c69b53dc4e37ba17b820fe0442e82744f98f41
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347404"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029475"
 name: Microsoft .NET Framework
-summary: >+
+summary: >
   Microsoft .NET Framework는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
 
+
+  > [!IMPORTANT]
+
+  > .NET Framework 4.5.2, 4.6, 4.61은 2022년 4월 26일에 사용 중지됩니다. 이러한 특정 릴리스는 이전에 SHA(Secure Hash Algorithm)-1 인증서를 사용하여 디지털 서명되었습니다. 이 알고리즘은 더 이상 안전하지 않은 것으로 간주됩니다. 고객은 SHA-2로 이동하는 것이 좋습니다. 자세한 내용을 보려면 [여기](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)로 이동하세요.
 products:
 - dotnet
 policyType: component
@@ -33,10 +37,13 @@ releases:
   startDate: 08/02/2016
 - version: .NET Framework 4.6.1
   startDate: 11/30/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.6
   startDate: 07/29/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.2
   startDate: 05/05/2014
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.1
   startDate: 01/15/2014
   endDate: 01/12/2016
@@ -52,4 +59,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n\n> [!NOTE]\n> .NET Framework 3.5 서비스 팩 1(SP1)은 Windows 10 버전 1809 및 Windows Server 2019부터 고정 정책을 따르는 독립 실행형 제품입니다. 이에 앞서 .NET Framework 3.5 SP1은 설치된 Windows 운영 체제의 구성 요소로 간주됩니다."
+content: "\n## <a name=\"links\"></a>링크 \n* [수명 주기 FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [제품 정보](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61 사용 중지](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 서비스 팩 1(SP1)은 Windows 10 버전 1809 및 Windows Server 2019부터 고정 정책을 따르는 독립 실행형 제품입니다. 이에 앞서 .NET Framework 3.5 SP1은 설치된 Windows 운영 체제의 구성 요소로 간주됩니다."

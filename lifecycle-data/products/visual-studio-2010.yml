@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 01/08/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
-  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
+  ms.date: 05/28/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/08/2021
-  ms.locfileid: "1375256"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029956"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional with MSDN, PSM, Remote Debugger, SDK, Shell(통합), Shell(격리), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime(VSTO), Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK 버전에 적용됩니다.
+
+  Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional(MSDN 포함), PSM, Remote Debugger, SDK, Shell(통합), Shell(격리), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK 버전에 적용됩니다.
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* 전체\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Professional(MSDN 포함) \n* PSM\n* Remote Debugger\n* SDK\n* Shell(Integrated)\n* Shell(Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime(VSTO)\n* Ultimate\n* Ultimate with MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
+content: "\n\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> VSTO(Visual Studio 2010 Tools for Office) 런타임은 다양한 버전의 Visual Studio 및 Microsoft Office와 함께 제공되며 상위 제품의 수명 주기를 따릅니다. [여기](https://www.microsoft.com/download/details.aspx?id=56961)에서 별도로 다운로드할 수도 있습니다.\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* 전체\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Professional(MSDN 포함) \n* PSM\n* Remote Debugger\n* SDK\n* Shell(Integrated)\n* Shell(Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate with MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
