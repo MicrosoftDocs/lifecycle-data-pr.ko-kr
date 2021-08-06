@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,External Connector,for Embedded Systems,Foundation,Standard
-  ms.openlocfilehash: a3b2666efc31669a997f7726ad092705d2c52517
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/12/2021
+  keywords: 
+  ms.openlocfilehash: b92bdbb5164be3a4dd3e4f398fc1b9062ab98ee0
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939452"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2171936"
 name: Windows Server 2012
 summary: >+
   Windows Server 2012는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  Datacenter, Essentials, External Connector, Embedded Systems용, Foundation, Standard 버전에 적용됩니다.
+
+  다음 버전에 적용됩니다. Datacenter, Essentials, External Connector, Embedded Systems용, Foundation, Standard
+
+
 
 products:
 - windows
@@ -25,7 +28,16 @@ supportDates:
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
+- version: Extended Security Update Year 3
+  startDate: 10/14/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/08/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/10/2023
+  endDate: 10/08/2024
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-overview)\n* [제품 정보](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 이 제품의 기본 및 추가 지원은 고객에게 표준 수명 주기 전환 일정을 제공할 수 있도록 확장되었습니다. 2013년 1월 2일에 출시된 Windows Server Essentials.\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Essentials\n* External Connector\n* Embedded Systems용\n* Foundation\n* Standard"
+content: "\n\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-overview)\n* [제품 정보](/windows/release-information/status-windows-server-2012)\n* [수명 주기 FAQ - 추가 보안 업데이트](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> 이 제품의 기본 및 추가 지원은 고객에게 표준 수명 주기 전환 일정을 제공할 수 있도록 확장되었습니다. 2013년 1월 2일에 출시된 Windows Server Essentials.\n\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Essentials\n* 외부 커넥터\n* Embedded Systems용\n* Foundation\n* Standard"

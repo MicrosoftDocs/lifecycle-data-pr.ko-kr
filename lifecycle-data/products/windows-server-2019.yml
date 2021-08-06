@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2019
   description: Windows Server 2019는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard
-  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: dbba3f3d791a3646dc46974ddf37f64c83207bed
+  ms.sourcegitcommit: 4e981a76c3185e8691faa3033ff05c685bba0999
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939341"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255334"
 name: Windows Server 2019
 summary: >+
   Windows Server 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
+
   다음 버전에 적용됩니다. Datacenter, Essentials, Standard
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>링크 \n* [제품 정보](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 업데이트 사용 가능 여부](https://aka.ms/WSRelaunchBlog)\n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 및 Windows Server(버전 1809)가 2018년 11월 13일에 다시 릴리스되었습니다. 지원 날짜는 이에 따라 조정되었습니다.\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Essentials\n* Standard"
+content: "\n\n## <a name=\"links\"></a>링크 \n* [제품 정보](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 업데이트 사용 가능 여부](https://aka.ms/WSRelaunchBlog)\n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)\n* [Windows 컨테이너 기본 이미지 서비스 수명 주기.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Windows Server 2019와 함께 릴리스된 컨테이너는 동일한 수명 주기 날짜를 따릅니다.\n> [!NOTE]\n> Windows Server 2019 및 Windows Server(버전 1809)가 2018년 11월 13일에 다시 릴리스되었습니다. 지원 날짜는 이에 따라 조정되었습니다.\n\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Essentials\n* Standard"
