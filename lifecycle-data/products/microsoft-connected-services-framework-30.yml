@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Connected Services Framework 3.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/10/2020
   keywords: Billing Standard Business Event,Order Handling Standard Business Event,Server,Standard,Standard Server with Standard Business Events
-  ms.openlocfilehash: e9592f59a0c2be51336c7bcc16312cc0cf90686b
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 8bfb813b4df3e2636f767d998859f3783686600b49280b02f24e151d7c85e35b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "999990"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485080"
 name: Microsoft Connected Services Framework 3.0
 summary: >+
   Microsoft Connected Services Framework 3.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events 버전에 적용됩니다.
+  다음 버전에 적용됩니다. 청구 표준 비즈니스 이벤트, 주문 처리 표준 비즈니스 이벤트, 서버, 표준, 표준 비즈니스 이벤트가 있는 표준 서버
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* 청구 표준 비즈니스 이벤트\n* 주문 처리 표준 비즈니스 이벤트\n* 서버\n* Standard\n* 표준 비즈니스 이벤트가 있는 표준 서버"
