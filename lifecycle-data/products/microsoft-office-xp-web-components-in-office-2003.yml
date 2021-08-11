@@ -3,12 +3,12 @@ metadata:
   title: Office 2003의 Microsoft Office XP Web Components
   description: Microsoft Office XP Web Components in Office 2003은 구성 요소 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 71e1eeae85bb7963657d0aa63bbe6361221ea7a6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 12731c2b5c636481213e3b4bcbffba2b032a6676a7139566ab1a496e07e89652
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826638"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2500591"
 name: Office 2003의 Microsoft Office XP Web Components
 summary: >+
   Microsoft Office XP Web Components in Office 2003은 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
