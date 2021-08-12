@@ -3,12 +3,12 @@ metadata:
   title: System Center Orchestrator 반기 채널
   description: System Center Orchestrator 반기 채널은 최신 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: de277b59d1e0acc8950a1366199747a3a3213c0c95f60a87219d48c8bc4789c2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870719"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2515724"
 name: System Center Orchestrator 반기 채널
 summary: >
   System Center Orchestrator 반기 채널은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
