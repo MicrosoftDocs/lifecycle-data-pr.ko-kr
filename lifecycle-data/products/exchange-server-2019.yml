@@ -3,29 +3,30 @@ metadata:
   title: Exchange Server 2019
   description: Exchange Server 2019는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 56188a0231413a812f5b4dea4eb8371c9bc9110b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931127"
+  keywords: 'Enterprise,Standard'
 name: Exchange Server 2019
-summary: >+
+summary: |+
   Exchange Server 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   다음 버전에 적용됩니다. Enterprise, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/22/2018
   end: 01/09/2024
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 10/22/2018
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>링크 \n* [서비스 가이드라인](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 10/22/2018
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>링크 
+  * [서비스 가이드라인](/Exchange/new-features/updates?view=exchserver-2019)
+
+
+  ## <a name="editions"></a>버전 
+  * Enterprise
+  * Standard

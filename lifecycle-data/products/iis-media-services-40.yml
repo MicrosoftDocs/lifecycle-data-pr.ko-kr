@@ -3,23 +3,21 @@ metadata:
   title: IIS 미디어 서비스 4.0
   description: IIS 미디어 서비스 4.0은 구성 요소 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 52297271a9bb92f999b37f70833442af5458ac62
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857904"
 name: IIS 미디어 서비스 4.0
-summary: >+
+summary: |+
   IIS 미디어 서비스 4.0은 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 01/30/2011
 releases:
-- version: Original Release
-  startDate: 01/30/2011
-content: "\n\n> [!NOTE]\n> 이 릴리스는 상위 주요 제품인 Windows Server 2008의 지원 수명 주기를 따르는 구성 요소로 알려져 있습니다."
+  - version: Original Release
+    startDate: 01/30/2011
+content: |+
+
+
+  > [!NOTE]
+  > 이 릴리스는 상위 주요 제품인 Windows Server 2008의 지원 수명 주기를 따르는 구성 요소로 알려져 있습니다.

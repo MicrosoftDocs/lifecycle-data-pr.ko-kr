@@ -3,23 +3,22 @@ metadata:
   title: Microsoft Internet Information Services 7.5
   description: Microsoft Internet Information Services 7.5는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827589"
 name: Microsoft Internet Information Services 7.5
-summary: >+
+summary: |+
   Microsoft Internet Information Services 7.5는 [고정](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/22/2009
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-content: "> [!TIP]\n> 이 릴리스는 상위 주요 제품, Windows 7 및 Windows Server 2008 R2의 지원 수명 주기를 따르는 구성 요소입니다.\n\n## <a name=\"links\"></a>링크 \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"
+  - version: Original Release
+    startDate: 10/22/2009
+content: |+
+  > [!TIP]
+  > 이 릴리스는 상위 주요 제품, Windows 7 및 Windows Server 2008 R2의 지원 수명 주기를 따르는 구성 요소입니다.
+
+  ## <a name="links"></a>링크 
+  * [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)
