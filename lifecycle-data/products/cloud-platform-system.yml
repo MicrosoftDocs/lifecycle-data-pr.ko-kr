@@ -4,18 +4,18 @@ metadata:
   description: Cloud Platform System은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 448affd48bc634814f54888410f728dccf178711d943addbdd2cec6388c4135e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932052"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492377"
 name: Cloud Platform System
 summary: >+
   Cloud Platform System은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-  Standard 버전에 적용됩니다.
+  다음 버전에 적용됩니다. Standard
 
 products:
 - azure
