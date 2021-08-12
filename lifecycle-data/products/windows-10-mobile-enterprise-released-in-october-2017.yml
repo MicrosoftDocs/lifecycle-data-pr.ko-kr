@@ -3,12 +3,12 @@ metadata:
   title: Windows 10 Mobile Enterprise, 2017년 10월 출시
   description: 2017년 10월에 출시된 Windows 10 Mobile Enterprise 는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: afa653d5f3b506c7b210eb83cfaf88fa657a214e902eba27c0d8134455a678e6
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870677"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2517352"
 name: Windows 10 Mobile Enterprise, 2017년 10월 출시
 summary: >
   2017년 10월에 출시된 Windows 10 Mobile Enterprise 는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
