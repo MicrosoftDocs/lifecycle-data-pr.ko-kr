@@ -3,32 +3,32 @@ metadata:
   title: Microsoft Identity Manager 2016
   description: Microsoft Identity Manager 2016은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857877"
 name: Microsoft Identity Manager 2016
-summary: >+
+summary: |+
   Microsoft Identity Manager 2016은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 09/28/2015
   end: 01/12/2021
   extendedEnd: 01/13/2026
 releases:
-- version: Service Pack 2
-  startDate: 11/04/2019
-  endDate: 01/13/2026
-- version: Service Pack 1
-  startDate: 09/20/2016
-  endDate: 11/04/2020
-- version: Original Release
-  startDate: 09/28/2015
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>링크 \n* [Azure 지원은 Microsoft Identity Manager 2016에 대한 추가 지원이 종료됨에 따라 Azure AD 통합 구성 요소에서 사용할 수 있습니다.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure 지원 계획.](https://azure.microsoft.com/support/plans/)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [제품 정보](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+  - version: Service Pack 2
+    startDate: 11/04/2019
+    endDate: 01/13/2026
+  - version: Service Pack 1
+    startDate: 09/20/2016
+    endDate: 11/04/2020
+  - version: Original Release
+    startDate: 09/28/2015
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>링크 
+  * [Azure 지원은 Microsoft Identity Manager 2016에 대한 추가 지원이 종료됨에 따라 Azure AD 통합 구성 요소에서 사용할 수 있습니다.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)
+  * [Azure 지원 계획.](https://azure.microsoft.com/support/plans/)
+  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)
+  * [제품 정보](/microsoft-identity-manager/microsoft-identity-manager-2016)

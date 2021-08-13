@@ -3,29 +3,21 @@ metadata:
   title: Microsoft Edge Legacy
   description: Microsoft Edge Legacy는 구성 요소 수명 주기 정책을 따릅니다.
   ms.date: 08/24/2020
-  ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908809"
 name: Microsoft Edge Legacy
-summary: >
+summary: |
   Microsoft Edge Legacy는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
 
 
-
   > [!IMPORTANT]
-
   > 이 제품에 대한 지원은 2021년 3월 9일에 종료됩니다. 자세한 내용을 보려면 [여기](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)로 이동하세요.
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: component
 supportDates:
   start: 07/29/2015
   end: 03/09/2021
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 03/09/2021
-content: ''
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 03/09/2021
+content: |+
