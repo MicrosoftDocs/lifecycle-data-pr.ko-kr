@@ -3,36 +3,37 @@ metadata:
   title: Virtual PC 2004
   description: Virtual PC 2004는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/10/2020
-  keywords: Express,Standard
-  ms.openlocfilehash: 858fa64b63de7edadffbc6d4514d1a9f7ea6e42a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000865"
+  keywords: 'Express,Standard'
 name: Virtual PC 2004
-summary: >
+summary: |
   Virtual PC 2004는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   Express, Standard 버전에 적용됩니다.
 
-
   > [!IMPORTANT]
-
   > 이 제품에 대한 지원이 종료되었습니다.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/20/2004
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 1
-  startDate: 08/30/2006
-  endDate: 04/08/2014
-- version: Original Release
-  startDate: 01/20/2004
-  endDate: 10/09/2007
-content: "> [!TIP]\n> 2006년 4월 13일에 출시된 Microsoft Virtual PC 2004 Express.\n\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Express\n* Standard"
+  - version: Service Pack 1
+    startDate: 08/30/2006
+    endDate: 04/08/2014
+  - version: Original Release
+    startDate: 01/20/2004
+    endDate: 10/09/2007
+content: |
+  > [!TIP]
+  > 2006년 4월 13일에 출시된 Microsoft Virtual PC 2004 Express.
+
+  ## <a name="links"></a>링크 
+  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>버전 
+  * Express
+  * Standard

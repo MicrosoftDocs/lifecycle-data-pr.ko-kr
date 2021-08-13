@@ -3,33 +3,32 @@ metadata:
   title: 소프트웨어 라이선싱 및 보호 서버
   description: 소프트웨어 라이선싱 및 보호 서버는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001063"
+  keywords: 'Enterprise,Standard'
 name: 소프트웨어 라이선싱 및 보호 서버
-summary: >
+summary: |
   소프트웨어 라이선싱 및 보호 서버는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   Enterprise, Standard 버전에 적용됩니다.
 
-
   > [!IMPORTANT]
-
   > SLPS(소프트웨어 라이선싱 및 보호 서버)의 매각으로 인해 Microsoft는 2009년 9월 24일까지 SLPS를 지원했습니다.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>링크 \n* [SLPS(소프트웨어 라이선싱 및 보호 서버)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>링크 
+  * [SLPS(소프트웨어 라이선싱 및 보호 서버)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>버전 
+  * Enterprise
+  * Standard

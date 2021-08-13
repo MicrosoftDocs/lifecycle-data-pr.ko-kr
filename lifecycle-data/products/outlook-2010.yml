@@ -3,29 +3,31 @@ metadata:
   title: Outlook 2010
   description: Outlook 2010은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Standard,with Business Contact Manager
-  ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928833"
+  keywords: 'Standard,with Business Contact Manager'
 name: Outlook 2010
-summary: >+
+summary: |+
   Outlook 2010은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   Standard(Business Contact Manager 포함) 버전에 적용됩니다.
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/DeployOffice/office-2010-end-support-roadmap)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard\n* Business Contact Manager"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+  ## <a name="links"></a>링크 
+  * [마이그레이션 지침](/DeployOffice/office-2010-end-support-roadmap)
+  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>버전 
+  * Standard
+  * Business Contact Manager
