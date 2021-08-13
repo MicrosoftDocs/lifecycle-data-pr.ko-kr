@@ -3,25 +3,23 @@ metadata:
   title: Mac용 가상 PC
   description: Virtual PC for Mac은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827114"
 name: Mac용 가상 PC
-summary: >+
+summary: |+
   Virtual PC for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> 버전 5.01, 버전 5.02, 버전 5.03, 버전 5.04, 버전 6.01, 버전 6.02, 버전 6.1, 버전 6.1.1 업데이트, 버전 7, 버전 7.01 포함"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > 버전 5.01, 버전 5.02, 버전 5.03, 버전 5.04, 버전 6.01, 버전 6.02, 버전 6.1, 버전 6.1.1 업데이트, 버전 7, 버전 7.01 포함

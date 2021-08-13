@@ -4,28 +4,30 @@ metadata:
   description: Windows 10 IoT 2016 LTSB는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: fc19a4917f270b8c1c774c8e62b504dec47ef5ce
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938268"
 name: Windows 10 IoT 2016 LTSB
-summary: >+
+summary: |+
   Windows 10 IoT 2016 LTSB는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   다음 버전에 적용됩니다. Enterprise
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 08/02/2016
   end: 10/12/2021
   extendedEnd: 10/13/2026
 releases:
-- version: Original Release
-  startDate: 08/02/2016
-  endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>링크 \n* [WaaS(Windows as a Service)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 10월 업데이트(버전 1809) 다시 릴리스](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise"
+  - version: Original Release
+    startDate: 08/02/2016
+    endDate: 10/13/2026
+content: |
+
+  ## <a name="links"></a>링크 
+  * [WaaS(Windows as a Service)](/windows/deployment/update/waas-quick-start)
+  * [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Windows 10 10월 업데이트(버전 1809) 다시 릴리스](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>버전 
+  * Enterprise

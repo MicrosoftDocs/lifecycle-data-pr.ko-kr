@@ -4,26 +4,34 @@ metadata:
   description: Windows Storage Server 2003 R2는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940886"
 name: Windows Storage Server 2003 R2
-summary: "Windows Storage Server 2003 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\nStandard 버전에 적용됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다.\n이 제품은 Windows Server 2003 서비스 팩 1과 함께 제공됩니다. \n"
+summary: |
+  Windows Storage Server 2003 R2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+  Standard 버전에 적용됩니다.
+
+  > [!IMPORTANT]
+  > 이 제품에 대한 지원이 종료되었습니다.
+  이 제품은 Windows Server 2003 서비스 팩 1과 함께 제공됩니다. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/05/2006
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 03/05/2006
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 03/05/2006
+    endDate: 04/14/2009
+content: |
+
+  ## <a name="links"></a>링크 
+  * [마이그레이션 지침](/windows-server/upgrade/upgrade-overview)
+
+
+  ## <a name="editions"></a>버전 
+  * Standard

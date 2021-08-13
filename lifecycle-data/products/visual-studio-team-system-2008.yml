@@ -3,36 +3,42 @@ metadata:
   title: Visual Studio Team System 2008
   description: Visual Studio Team System 2008은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/02/2020
-  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
-  ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
-  ms.sourcegitcommit: 27cfc07314fb17289e3d7cad15c37b591d53621a
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/03/2020
-  ms.locfileid: "945303"
+  keywords: 'All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS'
 name: Visual Studio Team System 2008
-summary: >
+summary: |
   Visual Studio Team System 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
-
-  All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS 버전에 적용됩니다.
-
+  다음 버전에 적용됩니다. All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
   > [!IMPORTANT]
-
   > 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 02/19/2008
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 08/11/2008
-  endDate: 04/10/2018
-- version: Original Release
-  startDate: 02/19/2008
-  endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [마이그레이션 지침](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>버전 \n* All\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+  - version: Service Pack 1
+    startDate: 08/11/2008
+    endDate: 04/10/2018
+  - version: Original Release
+    startDate: 02/19/2008
+    endDate: 10/13/2009
+content: |
+
+  ## <a name="links"></a>링크 
+  * [마이그레이션 지침](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)
+  * [마이그레이션 지침](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)
+  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>버전 
+  * 전체
+  * 아키텍처
+  * Database
+  * 개발
+  * Team Explorer
+  * Team Test Load Agent
+  * TFS

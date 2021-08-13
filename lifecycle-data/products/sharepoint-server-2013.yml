@@ -4,29 +4,30 @@ metadata:
   description: SharePoint Server 2013은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: ccd15eb6ef3e1766b31cadaa08b558c6071fddf9
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941603"
 name: SharePoint Server 2013
-summary: >+
+summary: |+
   SharePoint Server 2013은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Service Pack 1
-  startDate: 02/25/2014
-  endDate: 04/11/2023
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/sharepoint/sharepoint-server) 및 [개발자](https://developer.microsoft.com/sharepoint/docs) 설명서를 참조하세요."
+  - version: Service Pack 1
+    startDate: 02/25/2014
+    endDate: 04/11/2023
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |+
+
+  ## <a name="links"></a>링크 
+  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)
+  * [서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > [제품](https://docs.microsoft.com/sharepoint/sharepoint-server) 및 [개발자](https://developer.microsoft.com/sharepoint/docs) 설명서를 참조하세요.
