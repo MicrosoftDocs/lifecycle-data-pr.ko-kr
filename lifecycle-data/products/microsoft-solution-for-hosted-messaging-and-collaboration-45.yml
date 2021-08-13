@@ -3,25 +3,19 @@ metadata:
   title: 호스팅 메시징 및 공동 작업을 위한 Microsoft 솔루션 4.5
   description: 호스팅 메시지 및 공동 작업용 Microsoft 솔루션 4.5는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826859"
 name: 호스팅 메시징 및 공동 작업을 위한 Microsoft 솔루션 4.5
-summary: >+
+summary: |+
   호스팅 메시징 및 공동 작업을 위한 Microsoft 솔루션 4.5는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/11/2008
   end: 12/12/2011
 releases:
-- version: Original Release
-  startDate: 09/11/2008
-  endDate: 12/12/2011
-content: ''
+  - version: Original Release
+    startDate: 09/11/2008
+    endDate: 12/12/2011
+content: |+

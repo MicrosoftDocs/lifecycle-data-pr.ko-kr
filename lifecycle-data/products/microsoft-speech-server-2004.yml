@@ -3,29 +3,28 @@ metadata:
   title: Microsoft Speech Server 2004
   description: Microsoft Speech Server 2004는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937084"
+  keywords: 'Enterprise,Standard'
 name: Microsoft Speech Server 2004
-summary: >+
+summary: |+
   Microsoft Speech Server 2004는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   다음 버전에 적용됩니다. Enterprise, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 04/28/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 04/28/2004
-  endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 04/28/2004
+    endDate: 07/08/2014
+content: |
+
+
+
+  ## <a name="editions"></a>버전 
+  * Enterprise
+  * Standard

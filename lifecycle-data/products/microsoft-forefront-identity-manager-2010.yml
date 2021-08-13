@@ -3,26 +3,24 @@ metadata:
   title: Microsoft Forefront Identity Manager 2010
   description: Microsoft Forefront Identity Manager 2010은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827223"
 name: Microsoft Forefront Identity Manager 2010
-summary: >+
+summary: |+
   Microsoft Forefront Identity Manager 2010은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 10/10/2017
   extendedEnd: 10/11/2022
 releases:
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Microsoft Forefront Identity Manager 2010에 대한 기본 및 추가 지원은 모든 고객에게 표준 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다."
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 10/11/2022
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft Forefront Identity Manager 2010에 대한 기본 및 추가 지원은 모든 고객에게 표준 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다.
