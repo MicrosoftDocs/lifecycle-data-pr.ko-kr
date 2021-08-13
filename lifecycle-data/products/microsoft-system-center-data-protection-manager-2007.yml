@@ -3,33 +3,29 @@ metadata:
   title: Microsoft System Center Data Protection Manager 2007
   description: Microsoft System Center Data Protection Manager 2007은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827168"
 name: Microsoft System Center Data Protection Manager 2007
-summary: >
+summary: |
   Microsoft System Center Data Protection Manager 2007은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-
   > [!IMPORTANT]
-
   > 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 12/15/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/19/2008
-  endDate: 01/09/2018
-- version: Original Release
-  startDate: 12/15/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)"
+  - version: Service Pack 1
+    startDate: 12/19/2008
+    endDate: 01/09/2018
+  - version: Original Release
+    startDate: 12/15/2007
+    endDate: 01/12/2010
+content: |+
+
+  ## <a name="links"></a>링크 
+  * [마이그레이션 지침](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)
+  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)

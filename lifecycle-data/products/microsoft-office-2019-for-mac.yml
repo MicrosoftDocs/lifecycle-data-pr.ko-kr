@@ -3,28 +3,29 @@ metadata:
   title: Mac용 Microsoft Office 2019
   description: Microsoft Office 2019 for Mac은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930424"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Mac용 Microsoft Office 2019
-summary: >+
+summary: |+
   Microsoft Office 2019 for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   Academic, Home and Business, Home and Student, Standard 버전에 적용됩니다.
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Academic\n* Home and Business \n* Home and Student\n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>버전 
+  * Academic
+  * Home and Business 
+  * Home and Student
+  * Standard
