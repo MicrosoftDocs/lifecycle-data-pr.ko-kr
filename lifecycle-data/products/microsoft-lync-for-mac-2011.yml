@@ -3,26 +3,26 @@ metadata:
   title: Microsoft Lync for Mac 2011
   description: Microsoft Lync for Mac 2011은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826645"
 name: Microsoft Lync for Mac 2011
-summary: >+
+summary: |+
   Microsoft Lync for Mac 2011은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
   extendedEnd: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>링크 \n* [Mac에서의 비즈니스용 Skype](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Microsoft Lync for Mac 2011에 대한 지원은 모든 고객에게 Mac상에서 비즈니스용 Skype로의 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/09/2018
+content: |+
+
+  ## <a name="links"></a>링크 
+  * [Mac에서의 비즈니스용 Skype](https://www.microsoft.com/download/details.aspx?id=54108)
+
+  > [!NOTE]
+  > Microsoft Lync for Mac 2011에 대한 지원은 모든 고객에게 Mac상에서 비즈니스용 Skype로의 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다.

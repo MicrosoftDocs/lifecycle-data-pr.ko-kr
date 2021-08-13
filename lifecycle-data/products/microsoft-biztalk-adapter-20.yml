@@ -3,29 +3,31 @@ metadata:
   title: Microsoft BizTalk Adapter 2.0
   description: Microsoft BizTalk Adapter 2.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934753"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: Microsoft BizTalk Adapter 2.0
-summary: >+
+summary: |+
   Microsoft BizTalk Adapter 2.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   for MSMQ, for mySAP Business Suite, for SAP 버전에 적용됩니다.
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Microsoft BizTalk Adapter 2.0 for SAP의 시작 날짜는 2004년 11월 2일입니다. Microsoft BizTalk Adapter for MSMQ 2.0의 시작 날짜는 2004년 12월 10일입니다.\n\n## <a name=\"editions\"></a>버전 \n* for MSMQ\n* for mySAP Business Suite\n* for SAP"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > Microsoft BizTalk Adapter 2.0 for SAP의 시작 날짜는 2004년 11월 2일입니다. Microsoft BizTalk Adapter for MSMQ 2.0의 시작 날짜는 2004년 12월 10일입니다.
+
+  ## <a name="editions"></a>버전 
+  * for MSMQ
+  * for mySAP Business Suite
+  * for SAP
