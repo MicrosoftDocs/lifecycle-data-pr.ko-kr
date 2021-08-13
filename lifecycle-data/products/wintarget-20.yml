@@ -3,28 +3,29 @@ metadata:
   title: WinTarget 2.0
   description: WinTarget 2.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938749"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
+summary: |+
   WinTarget 2.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   Advanced, Standard 버전에 적용됩니다.
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> 이 제품의 지원은 획득 약관의 적용을 받습니다.\n\n## <a name=\"editions\"></a>버전 \n* 고급\n* Standard"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > 이 제품의 지원은 획득 약관의 적용을 받습니다.
+
+  ## <a name="editions"></a>버전 
+  * 고급
+  * Standard

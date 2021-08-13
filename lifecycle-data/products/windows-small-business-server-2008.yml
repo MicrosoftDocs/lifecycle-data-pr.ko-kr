@@ -3,23 +3,36 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Premium,Standard
-  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939193"
+  keywords: 'Premium,Standard'
 name: Windows Small Business Server 2008
-summary: "Windows Small Business Server 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Premium, Standard\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n\n이 제품 패키지의 지원 날짜는 개별 구성 요소 제품의 각 수명 주기에 따라 결정됩니다. 개별 구성 요소 제품의 수명 주기를 검토하여 지원 기간을 확인하세요.\n"
+summary: |
+  Windows Small Business Server 2008은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+  다음 버전에 적용됩니다. Premium, Standard
+
+  > [!IMPORTANT]
+  > 이 제품에 대한 지원이 종료되었습니다. 
+
+  이 제품 패키지의 지원 날짜는 개별 구성 요소 제품의 각 수명 주기에 따라 결정됩니다. 개별 구성 요소 제품의 수명 주기를 검토하여 지원 기간을 확인하세요.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/21/2008
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 11/21/2008
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>버전 \n* Premium\n* Standard"
+  - version: Original Release
+    startDate: 11/21/2008
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>링크 
+  * [마이그레이션 지침](https://aka.ms/AA1ovn4)
+  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
+  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
+  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
+
+
+  ## <a name="editions"></a>버전 
+  * Premium
+  * Standard

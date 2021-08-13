@@ -4,23 +4,28 @@ metadata:
   description: Microsoft Office Communicator 2005는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936270"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\nStandard 버전에 적용됩니다.\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
+summary: |
+  Microsoft Office Communicator 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
+  Standard 버전에 적용됩니다.
+
+  > [!IMPORTANT]
+  > 이 제품에 대한 지원이 종료되었습니다. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/13/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 08/13/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"
+  - version: Original Release
+    startDate: 08/13/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>버전 
+  * Standard

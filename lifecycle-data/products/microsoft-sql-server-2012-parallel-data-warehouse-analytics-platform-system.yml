@@ -3,34 +3,34 @@ metadata:
   title: Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)
   description: Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: b8b7ba18a9194156b247cc21091283d7b6e3af28
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172223"
+  keywords: null
 name: Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)
-summary: >+
+summary: |+
   Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 
 
-
   > [!IMPORTANT]
-
   > Analytics Platform System 지원 종료 기한이 2024년 10월 8일에서 2026년 3월 31일로 연장되었습니다.
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/12/2013
   end: 10/08/2019
   extendedEnd: 03/31/2026
 releases:
-- version: Original Release
-  startDate: 07/12/2013
-  endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>링크 \n* [제품 정보](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> SQL Server 2012 PDW(병렬 데이터 웨어하우스)는 APS(Analytics Platform System)로 이름이 변경되었습니다."
+  - version: Original Release
+    startDate: 07/12/2013
+    endDate: 10/08/2024
+content: |+
+
+
+  ## <a name="links"></a>링크 
+  * [제품 정보](https://www.microsoft.com/sql-server/analytics-platform-system)
+
+
+  > [!NOTE]
+  > SQL Server 2012 PDW(병렬 데이터 웨어하우스)는 APS(Analytics Platform System)로 이름이 변경되었습니다.

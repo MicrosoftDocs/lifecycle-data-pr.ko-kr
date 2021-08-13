@@ -3,36 +3,36 @@ metadata:
   title: Windows Server 2008 for Windows Essential Server Solutions
   description: Windows Server 2008 for Windows Essential Server Solutions는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: dd1f811a9e93cdfe97655a9cfd030cfffdbd1116
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939563"
+  keywords: 'Standard,without Hyper-V'
 name: Windows Server 2008 for Windows Essential Server Solutions
-summary: >
+summary: |
   Windows Server 2008 for Windows Essential Server Solutions는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   다음 버전에 적용됩니다. Standard, Hyper-V 불포함
 
-
   > [!IMPORTANT]
-
   > 이 제품에 대한 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/18/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 02/18/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>링크 \n* [마이그레이션 지침](https://aka.ms/AA1ovn4)\n* [제품 정보](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard\n* Hyper-V 불포함"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 02/18/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>링크 
+  * [마이그레이션 지침](https://aka.ms/AA1ovn4)
+  * [제품 정보](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)
+
+
+  ## <a name="editions"></a>버전 
+  * Standard
+  * Hyper-V 불포함

@@ -3,29 +3,33 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002726"
+  keywords: null
 name: Workflow Manager 1.0
-summary: >+
+summary: |+
   Workflow Manager 1.0은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   Client, Standard 버전에 적용됩니다.
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>링크 \n* [SharePoint 2016 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Workflow Manager가 SharePoint Server 2016 또는 SharePoint Server 2013의 구성 요소인 경우 각 SharePoint Server 버전의 지원 종료 날짜에 따라 지원됩니다.\n\n## <a name=\"editions\"></a>버전 \n* Client\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>링크 
+  * [SharePoint 2016 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [SharePoint 2013 서비스 정보](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Workflow Manager가 SharePoint Server 2016 또는 SharePoint Server 2013의 구성 요소인 경우 각 SharePoint Server 버전의 지원 종료 날짜에 따라 지원됩니다.
+
+  ## <a name="editions"></a>버전 
+  * 클라이언트
+  * Standard

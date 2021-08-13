@@ -3,29 +3,25 @@ metadata:
   title: 2016년 8월에 출시된 Windows 10 Mobile Enterprise
   description: 2016년 8월에 출시된 Windows 10 Mobile Enterprise는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858035"
 name: 2016년 8월에 출시된 Windows 10 Mobile Enterprise
-summary: >
+summary: |
   2016년 8월에 출시된 Windows 10 Mobile Enterprise 는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
-
   > [!IMPORTANT]
-
   > 이 제품에 대한 지원이 종료되었습니다.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 08/16/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 08/16/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>링크 \n* [장치 OS 수명 주기 FAQ](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile은 2019년 12월 10일에 지원 종료](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 08/16/2016
+    endDate: 10/09/2018
+content: |+
+
+  ## <a name="links"></a>링크 
+  * [장치 OS 수명 주기 FAQ](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 Mobile은 2019년 12월 10일에 지원 종료](/lifecycle/announcements/windows-10-mobile-end-of-support)
