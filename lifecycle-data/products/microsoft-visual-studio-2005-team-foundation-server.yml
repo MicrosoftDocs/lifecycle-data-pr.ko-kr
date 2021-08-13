@@ -3,29 +3,30 @@ metadata:
   title: Visual Studio Team Foundation Server 2005
   description: Visual Studio Team Foundation Server 2005는 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "826613"
 name: Visual Studio Team Foundation Server 2005
-summary: >+
+summary: |+
   Visual Studio Team Foundation Server 2005는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 06/17/2006
   end: 07/12/2011
   extendedEnd: 07/12/2016
 releases:
-- version: Service Pack 1
-  startDate: 12/14/2006
-  endDate: 07/12/2016
-- version: Original Release
-  startDate: 06/17/2006
-  endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n* [마이그레이션 지침](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> 이 제품에 대한 지원이 종료되었습니다. 마이그레이션 지침은 아래를 참조하세요."
+  - version: Service Pack 1
+    startDate: 12/14/2006
+    endDate: 07/12/2016
+  - version: Original Release
+    startDate: 06/17/2006
+    endDate: 01/08/2008
+content: |+
+
+  ## <a name="links"></a>링크 
+  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)
+  * [마이그레이션 지침](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)
+
+  > [!NOTE]
+  > 이 제품에 대한 지원이 종료되었습니다. 마이그레이션 지침은 아래를 참조하세요.

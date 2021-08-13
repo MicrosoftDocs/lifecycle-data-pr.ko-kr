@@ -3,25 +3,23 @@ metadata:
   title: Mac용 PowerPoint 2011
   description: PowerPoint 2011 for Mac은 고정 수명 주기 정책을 따릅니다.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858174"
 name: Mac용 PowerPoint 2011
-summary: >+
+summary: |+
   PowerPoint 2011 for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Microsoft Office for Mac 2011에 대한 기본 지원은 모든 고객에게 표준 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft Office for Mac 2011에 대한 기본 지원은 모든 고객에게 표준 수명 주기 전환 일정을 제공하기 위해 아래와 같이 연장되었습니다.

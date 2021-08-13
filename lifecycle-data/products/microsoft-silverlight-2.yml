@@ -3,25 +3,23 @@ metadata:
   title: Microsoft Silverlight 2
   description: Microsoft Silverlight 2는 고정 수명 주기 정책을 따릅니다.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 618979f69c809bc5e02dc991417fa3162f59279a
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904285"
 name: Microsoft Silverlight 2
-summary: >+
+summary: |+
   Microsoft Silverlight 2는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-- silverlight
+  - silverlight
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/10/2008
   end: 10/12/2010
 releases:
-- version: Original Release
-  startDate: 10/10/2008
-  endDate: 10/12/2010
-content: "\n\n> [!NOTE]\n> 도구에 대한 지원은 알림 날짜로부터 12개월 이내에 종료됩니다."
+  - version: Original Release
+    startDate: 10/10/2008
+    endDate: 10/12/2010
+content: |+
+
+
+  > [!NOTE]
+  > 도구에 대한 지원은 알림 날짜로부터 12개월 이내에 종료됩니다.
