@@ -3,32 +3,47 @@ metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
-  ms.openlocfilehash: 5b020aa502db37cded2369b6c15eeb0c00d3b878
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937380"
+  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
 name: Visual Studio 2017
-summary: >+
+summary: |+
   Visual Studio 2017은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
 
   이는 다음 에디션에 적용됩니다: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-- version: Version 15.9
-  startDate: 11/13/2018
-  endDate: 04/13/2027
-- version: Version 15.0
-  startDate: 03/07/2017
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>링크 \n* [공지](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [서비스 정보](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>버전 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* ESM\n* Feedback Client\n* Mac용\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* PSM\n* 원격 도구\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
+  - version: Version 15.9
+    startDate: 11/13/2018
+    endDate: 04/13/2027
+  - version: Version 15.0
+    startDate: 03/07/2017
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>링크 
+  * [공지](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
+  * [서비스 정보](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
+
+
+  ## <a name="editions"></a>버전 
+  * Agents
+  * Build Tools
+  * Community
+  * Enterprise
+  * ESM
+  * Feedback Client
+  * Mac용
+  * IntelliTrace Standalone Collector
+  * Performance Tools
+  * Professional
+  * PSM
+  * 원격 도구
+  * Team Explorer
+  * Test Professional
+  * Visual C++ Redistributable
