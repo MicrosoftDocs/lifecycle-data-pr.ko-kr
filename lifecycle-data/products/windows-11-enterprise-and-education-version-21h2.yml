@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Enterprise and Education(버전 21H2)
+  description: Windows 11 Enterprise and Education(버전 21H2)은 최신 수명 주기 정책을 따릅니다.
+  ms.date: 09/22/2021
+  keywords: 
+  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509382"
+name: Windows 11 Enterprise and Education(버전 21H2)
+summary: >+
+  Windows 11 Enterprise and Education(버전 21H2)은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+
+  다음 버전에 적용됩니다. Education, Enterprise
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>링크 \n* [WaaS(Windows as a Service)](/windows/deployment/update/waas-quick-start)\n* [수명 주기 FAQ - Windows](/lifecycle/faq/windows)\n* [추가 Windows 리소스](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 Home and Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> 연기하지 않는 한 후속 Windows 11 기능 업데이트는 나열된 일반 지원 날짜가 종료되기 전에 설치할 수 있습니다.\n\n\n## <a name=\"editions\"></a>버전 \n* Education\n* Enterprise"

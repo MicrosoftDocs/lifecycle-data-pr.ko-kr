@@ -2,48 +2,36 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509220"
 name: Visual Studio 2017
-summary: |+
+summary: >+
   Visual Studio 2017은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
-  이는 다음 에디션에 적용됩니다: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
+
+
+  Community, Enterprise, Professional, Test Professional 버전에 적용됩니다.
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-  - version: Version 15.9
-    startDate: 11/13/2018
-    endDate: 04/13/2027
-  - version: Version 15.0
-    startDate: 03/07/2017
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>링크 
-  * [공지](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
-  * [서비스 정보](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
-
-
-  ## <a name="editions"></a>버전 
-  * Agents
-  * Build Tools
-  * Community
-  * Enterprise
-  * ESM
-  * Feedback Client
-  * Mac용
-  * IntelliTrace Standalone Collector
-  * Performance Tools
-  * Professional
-  * PSM
-  * 원격 도구
-  * Team Explorer
-  * Test Professional
-  * Visual C++ Redistributable
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n\n## <a name=\"links\"></a>링크 \n* [Visual Studio 블로그 공지 사항](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [서비스 정보](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Visual Studio 2017 다운로드 페이지](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Visual Studio 2017 릴리스 노트](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> 다음 구성 요소의 Visual Studio 2017 버전은 Visual Studio 2017 수명 주기의 일부로 제공되고 지원됩니다. Agents, Build Tools, ESM, Feedback Client, IntelliTrace Standalone Collector, Performance Tools, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>버전 \n* Community\n* Enterprise\n* Professional\n* Test Professional"

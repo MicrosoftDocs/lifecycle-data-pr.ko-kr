@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509294"
 name: Visual Studio 2015
-summary: |+
+summary: >+
   Visual Studio 2015는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
-  다음 버전에 적용됩니다. Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell(통합), Shell(격리), Test Professional, TPS, Visual C++ Redistributable
+
+
+  Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Professional, Release Management, Test Professional 버전에 적용됩니다.
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>링크 
-  * [서비스 정보](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>버전 
-  * Agents
-  * Community
-  * Enterprise
-  * ESM
-  * Express for Web
-  * Express for Windows 10
-  * Express for Windows Desktop
-  * Modeling SDK
-  * Professional
-  * PSM
-  * Release Management
-  * 원격 도구
-  * SDK
-  * Shell(Integrated)
-  * Shell(Isolated)
-  * Test Professional
-  * TPS
-  * Visual C++ Redistributable
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>링크 \n* [이전 버전의 Visual Studio에 대한 서비스 정보](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [서비스 팩 정책](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> 다음 구성 요소의 Visual Studio 2015 버전은 Visual Studio 2015 수명 주기의 일부로 함께 제공되고 지원됩니다. Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell(통합), Shell(격리), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>버전 \n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Professional\n* Release Management\n* Test Professional"
