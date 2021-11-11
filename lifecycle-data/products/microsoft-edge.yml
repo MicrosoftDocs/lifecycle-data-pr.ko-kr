@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge는 최신 수명 주기 정책을 따릅니다.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560064"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
 
 
 
 
+
   > [!IMPORTANT]
+
   > 이 제품의 레거시 버전은 2021년 3월 9일에 지원이 종료됩니다. 자세한 내용을 보려면 [여기](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)로 이동하세요.
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>링크 
-  * [Microsoft Edge 지원 운영 체제](/deployedge/microsoft-edge-supported-operating-systems)
-  * [수명 주기 FAQ - Internet Explorer 및 Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Microsoft Edge 수명 주기 정책](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>링크 \n* [Microsoft Edge 지원 운영 체제](/deployedge/microsoft-edge-supported-operating-systems)\n* [Edge로의 전환을 가속화하기 위한 새로운 리소스](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [수명 주기 FAQ - Internet Explorer 및 Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge 수명 주기 정책](/deployedge/microsoft-edge-support-lifecycle)"

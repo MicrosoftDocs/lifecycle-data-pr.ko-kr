@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server 구독 버전
+  description: SharePoint Server 구독판은 최신 수명 주기 정책을 따릅니다.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546917"
+name: SharePoint Server 구독 버전
+summary: >+
+  SharePoint Server 구독판은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/sharepoint/sharepoint-server) 및 [개발자](https://docs.microsoft.com/sharepoint/dev/) 설명서를 참조하세요."

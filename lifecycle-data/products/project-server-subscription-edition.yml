@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Server 구독판
+  description: Project Server 구독판은 최신 수명 주기 정책을 따릅니다.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546885"
+name: Project Server 구독판
+summary: >+
+  Project Server 구독판은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/project/project-server-2013-and-2016) 및 [개발자](https://docs.microsoft.com/office/dev/add-ins/project/) 설명서를 참조하세요."
