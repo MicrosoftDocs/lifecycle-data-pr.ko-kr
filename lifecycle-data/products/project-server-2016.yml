@@ -4,24 +4,26 @@ metadata:
   description: Project Server 2016은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/02/2020
   keywords: ''
+  ms.openlocfilehash: 54bd3d8058495434717ced8c478b9a41d652071c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136429"
 name: Project Server 2016
-summary: |+
+summary: >+
   Project Server 2016은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 05/01/2016
-  end: 07/13/2021
-  extendedEnd: 07/14/2026
+  start: 2016-05-01T00:00:00.000-08:00
+  end: 2021-07-13T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/01/2016
-    endDate: 07/14/2026
-content: |+
-
-
-  > [!NOTE]
-  > [제품](https://docs.microsoft.com/project/project-server-2013-and-2016) 및 [개발자](https://developer.microsoft.com/project/docs) 설명서를 참조하세요.
+- version: Original Release
+  startDate: 2016-05-01T00:00:00.000-08:00
+  endDate: 2026-07-14T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> [제품](https://docs.microsoft.com/project/project-server-2013-and-2016) 및 [개발자](https://developer.microsoft.com/project/docs) 설명서를 참조하세요."

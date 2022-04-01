@@ -1,13 +1,13 @@
 ---
 title: 2016년에 지원이 종료되는 제품
 description: 어떤 제품이 2016년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028905"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117559"
 ---
 # <a name="products-ending-support-in-2016"></a>2016년에 지원이 종료되는 제품
 
@@ -20,13 +20,6 @@ ms.locfileid: "4028905"
 
 
 
-## <a name="release-end-of-servicing"></a>서비스 종료 릴리스
-
-[최신 정책](/lifecycle/policies/modern)이 적용되는 다음 제품 릴리스는 2016년에 지원이 종료됩니다.
-
-| 제품 | 서비스 종료 |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager 버전 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2016년 12월 8일 목요일 |
 
 
 ## <a name="products-reaching-end-of-support"></a>지원이 종료되는 제품

@@ -3,29 +3,26 @@ metadata:
   title: Dynamics 365 for Finance and Operations
   description: Dynamics 365 for Finance and Operations 는 최신 수명 주기 정책을 따릅니다.
   ms.date: 09/29/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 5792f8d75e78d9e8bb14db6f7039fd2f32f489fc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122480"
 name: Dynamics 365 for Finance and Operations
-summary: |+
+summary: >+
   Dynamics 365 for Finance and Operations 는 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
 
   다음 버전에 적용됩니다. Enterprise
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 02/19/2016
+  start: 2016-02-19T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 02/19/2016
-content: |
-
-  ## <a name="links"></a>링크 
-  * [Microsoft Dynamics 365 로드맵](https://roadmap.dynamics.com/)
-  * [제거되었거나 사용하지 않는 기능](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
-  * [서비스 정보](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
-  * [시스템 요구 사항](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
-
-
-  ## <a name="editions"></a>버전 
-  * Enterprise
+- version: Original Release
+  startDate: 2016-02-19T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>링크 \n* [Microsoft Dynamics 365 로드맵](https://roadmap.dynamics.com/)\n* [제거되었거나 사용하지 않는 기능](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [서비스 정보](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [시스템 요구 사항](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>버전 \n* Enterprise"

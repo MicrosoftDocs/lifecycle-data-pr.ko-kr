@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 엔드포인트용 Microsoft Defender
+  description: Microsoft Defender for Endpoint는 구성 요소 수명 주기 정책을 따릅니다.
+  ms.date: 01/29/2022
+  keywords: Defender
+  ms.openlocfilehash: 28bfeeab4101c5a888350ff362aa912481cb7f88
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156923"
+name: 엔드포인트용 Microsoft Defender
+summary: >+
+  Microsoft Defender for Endpoint는 [구성 요소](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 수명 주기 정책을 따릅니다.
+
+
+
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 2016-08-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-08-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Links \n* [지원되는 Windows 운영 체제](/microsoft-365/security/defender-endpoint/minimum-requirements?view=o365-worldwide#hardware-and-software-requirements)"

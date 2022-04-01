@@ -3,40 +3,29 @@ metadata:
   title: Mac용 Microsoft Office 2008
   description: Microsoft Office 2008 for Mac은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: 'Business,Home and Student,Special Media Editon'
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 7cc28383ddeafd4d24497a0aab3b221f69865027
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4126513"
 name: Mac용 Microsoft Office 2008
-summary: |
-  Microsoft Office 2008 for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
-  다음 버전에 적용됩니다. Business, Home and Student, Special Media Editon
-
-  > [!IMPORTANT]
-  > 이 제품에 대한 지원이 종료되었습니다. 
+summary: "Microsoft Office 2008 for Mac은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 01/15/2008
-  end: 04/09/2013
+  start: 2008-01-15T00:00:00.000-08:00
+  end: 2013-04-09T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 07/20/2009
-    endDate: 04/09/2013
-  - version: Service Pack 1
-    startDate: 05/13/2008
-    endDate: 10/12/2010
-  - version: Original Release
-    startDate: 01/15/2008
-    endDate: 07/14/2009
-content: |
-
-  ## <a name="links"></a>링크 
-  * [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Office 2008 for Mac Special Media Edition의 시작 날짜는 2008년 3월 12일입니다.
-
-  ## <a name="editions"></a>버전 
-  * Business
-  * Home and Student
-  * Special Media Editon
+- version: Service Pack 2
+  startDate: 2009-07-20T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2008-05-13T00:00:00.000-08:00
+  endDate: 2010-10-12T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2008-01-15T00:00:00.000-08:00
+  endDate: 2009-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 팩 정책](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac Special Media Edition의 시작 날짜는 2008년 3월 12일입니다.\n\n## <a name=\"editions\"></a>버전 \n* Business\n* Home and Student\n* Special Media Editon"

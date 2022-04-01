@@ -4,32 +4,32 @@ metadata:
   description: Windows Embedded 2009는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/10/2020
   keywords: Standard
+  ms.openlocfilehash: 6a6340bf0f3ff61d4d3d52c66743a76d274a4d85
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123627"
 name: Windows Embedded 2009
-summary: |
+summary: >
   Windows Embedded 2009는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
 
   Standard 버전에 적용됩니다.
 
+
   > [!IMPORTANT]
+
   > 지원이 종료되었습니다. 아래 마이그레이션 지침을 참조하세요.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 12/14/2008
-  end: 01/14/2014
-  extendedEnd: 01/08/2019
+  start: 2008-12-14T00:00:00.000-08:00
+  end: 2014-01-14T22:59:59.999-08:00
+  extendedEnd: 2019-01-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/14/2008
-    endDate: 01/08/2019
-content: |
-
-  ## <a name="links"></a>링크 
-  * [Windows Embedded 2009 지원 종료](/lifecycle/announcements/windows-embedded-2009-end-of-support)
-  * [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)
-  * [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)
-
-
-  ## <a name="editions"></a>버전 
-  * Standard
+- version: Original Release
+  startDate: 2008-12-14T00:00:00.000-08:00
+  endDate: 2019-01-08T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows Embedded 2009 지원 종료](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"

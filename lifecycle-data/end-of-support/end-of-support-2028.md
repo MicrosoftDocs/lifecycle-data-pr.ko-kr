@@ -1,13 +1,13 @@
 ---
 title: 2028년에 지원이 종료되는 제품
 description: 어떤 제품이 2028년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028553"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116967"
 ---
 # <a name="products-ending-support-in-2028"></a>2028년에 지원이 종료되는 제품
 
@@ -39,3 +39,11 @@ ms.locfileid: "4028553"
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 2028년 7월 11일 화요일 |
 
 
+## <a name="products-moving-to-extended-support"></a>추가 지원 예정 제품
+
+다음 제품은 2028년에 일반 지원에서 추가 지원으로 이동합니다. 추가 지원에는 무료 보안 업데이트와 유료 비보안 업데이트 및 지원을 포함합니다. 또한 Microsoft는 추가 지원 단계 중 디자인 변경이나 새로운 기능에 대한 요청을 접수하지 않습니다.
+
+| 제품 | 주류 지원 종료 |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 2028년 4월 11일 화요일 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 2028년 7월 11일 화요일 |

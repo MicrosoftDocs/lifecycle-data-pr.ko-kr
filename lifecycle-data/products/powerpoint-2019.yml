@@ -4,26 +4,28 @@ metadata:
   description: PowerPoint 2019는 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
   keywords: Standard
+  ms.openlocfilehash: d4e7b4894de336d690869e0497a62230de32a3ac
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124869"
 name: PowerPoint 2019
-summary: |+
+summary: >+
   PowerPoint 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
 
   다음 버전에 적용됩니다. Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
-  extendedEnd: 10/14/2025
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/24/2018
-    endDate: 10/14/2025
-content: |
-
-
-
-  ## <a name="editions"></a>버전 
-  * Standard
+- version: Original Release
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>버전 \n* Standard"

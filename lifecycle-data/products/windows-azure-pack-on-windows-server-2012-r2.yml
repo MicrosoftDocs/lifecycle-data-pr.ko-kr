@@ -3,33 +3,32 @@ metadata:
   title: Windows Azure Pack(Windows Server 2012 R2)
   description: Windows Azure Pack(Windows Server 2012 R2용)은 고정 수명 주기 정책을 따릅니다.
   ms.date: 10/19/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 78a9dc5372f1d0e10859f588d89842b951c93615
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118484"
 name: Windows Azure Pack(Windows Server 2012 R2)
-summary: |+
+summary: >+
   Windows Azure Pack(Windows Server 2012 R2용)은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
+
 
   Windows Server 2012 R2 버전에 적용됩니다.
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 01/14/2014
-  end: 07/11/2017
-  extendedEnd: 07/12/2022
+  start: 2014-01-14T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
+  extendedEnd: 2022-07-12T22:59:59.999-08:00
 releases:
-  - version: on Windows Server 2012 R2
-    startDate: 01/14/2014
-    endDate: 07/12/2022
-  - version: V2 Web Sites
-    startDate: 01/14/2014
-    endDate: 07/12/2022
-content: |
-
-  ## <a name="links"></a>링크 
-  * [Windows Azure Pack Web Sites V2 지원 수명 주기 날짜](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)
-  * [Windows Azure Pack for Windows Server 제품 정보](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
-
-
-  ## <a name="editions"></a>버전 
-  * Windows Server 2012 R2
+- version: on Windows Server 2012 R2
+  startDate: 2014-01-14T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
+- version: V2 Web Sites
+  startDate: 2014-01-14T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>링크 \n* [Windows Azure Pack Web Sites V2 지원 수명 주기 날짜](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Azure Pack for Windows Server 제품 정보](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>버전 \n* Windows Server 2012 R2"

@@ -1,13 +1,13 @@
 ---
 title: 2032년에 지원이 종료되는 제품
 description: 어떤 제품이 2032년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 10/15/2021
-ms.openlocfilehash: ce028d97a7d8ba133cf639d3556d6dbd11728431
-ms.sourcegitcommit: 25d74b15f53636fd58822f99f8525489382b6d23
+ms.date: 11/16/2021
+ms.openlocfilehash: f2689d6e4647835f474d719889f30caa4cbb0d2a
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "4029151"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116745"
 ---
 # <a name="products-ending-support-in-2032"></a>2032년에 지원이 종료되는 제품
 
@@ -22,5 +22,12 @@ ms.locfileid: "4029151"
 
 
 
+## <a name="products-reaching-end-of-support"></a>지원이 종료되는 제품
+
+[고정 정책](/lifecycle/policies/fixed)의 적용을 받는 다음 제품 및 릴리스는 2032년에 지원이 종료됩니다.
+
+| 제품 | 지원 종료 |
+| --- | --- |
+| [Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 2032년 1월 13일 화요일 |
 
 

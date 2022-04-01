@@ -3,30 +3,28 @@ metadata:
   title: Windows Server 2016 Nano Server 설치 옵션
   description: Windows Server 2016 Nano Server 설치 옵션은 최신 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: 'Datacenter,Standard'
+  keywords: Datacenter,Standard
+  ms.openlocfilehash: 6e65dc34899d7c6fce38088debaf555a44c1e56d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4142053"
 name: Windows Server 2016 Nano Server 설치 옵션
-summary: |+
+summary: >+
   Windows Server 2016 Nano Server 설치 옵션은 [최신](/lifecycle/policies/modern) 수명 주기 정책을 따릅니다.
+
 
   다음 버전에 적용됩니다. Datacenter, Standard
 
 products:
-  - windows
+- windows
 policyType: modern-on-prem
 supportDates:
-  start: 10/15/2016
-  end: 10/09/2018
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 10/09/2018
-content: |
-
-  ## <a name="links"></a>링크 
-  * [서비스 정보](/windows-server/get-started/nano-in-semi-annual-channel)
-  * [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)
-
-
-  ## <a name="editions"></a>버전 
-  * Datacenter
-  * Standard
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/windows-server/get-started/nano-in-semi-annual-channel)\n* [수명 주기 FAQ - Windows 제품](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>버전 \n* Datacenter\n* Standard"

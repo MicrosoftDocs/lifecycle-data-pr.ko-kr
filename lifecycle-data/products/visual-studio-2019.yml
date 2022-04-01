@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2019는 고정 수명 주기 정책을 따릅니다.
   ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: 0f9b64cda589aef8e2cee22444c63d61d955e158
-  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.openlocfilehash: b7256c61c9079ef33c164253bf50e5c5aedf5f93
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/02/2021
-  ms.locfileid: "3546715"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4148565"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -24,23 +24,23 @@ products:
 - vs
 policyType: fixed
 supportDates:
-  start: 04/02/2019
-  end: 04/09/2024
-  extendedEnd: 04/10/2029
+  start: 2019-04-02T00:00:00.000-08:00
+  end: 2024-04-09T22:59:59.999-08:00
+  extendedEnd: 2029-04-10T22:59:59.999-08:00
 releases:
 - version: Version 16.11
-  startDate: 08/10/2021
-  endDate: 04/10/2029
+  startDate: 2021-08-10T00:00:00.000-08:00
+  endDate: 2029-04-10T22:59:59.999-08:00
 - version: Version 16.9
-  startDate: 03/02/2021
-  endDate: 10/11/2022
+  startDate: 2021-03-02T00:00:00.000-08:00
+  endDate: 2022-10-11T22:59:59.999-08:00
 - version: Version 16.7
-  startDate: 08/05/2020
-  endDate: 04/12/2022
+  startDate: 2020-08-05T00:00:00.000-08:00
+  endDate: 2022-04-12T22:59:59.999-08:00
 - version: Version 16.4
-  startDate: 12/03/2019
-  endDate: 10/12/2021
+  startDate: 2019-12-03T00:00:00.000-08:00
+  endDate: 2021-10-12T22:59:59.999-08:00
 - version: Version 16.0
-  startDate: 04/02/2019
-  endDate: 01/12/2021
+  startDate: 2019-04-02T00:00:00.000-08:00
+  endDate: 2021-01-12T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>링크 \n* [Visual Studio 블로그 공지 사항](https://devblogs.microsoft.com/visualstudio/)\n* [지원 및 수명 주기 정보](/visualstudio/releases/2019/servicing-vs2019)\n* [Visual Studio 2019 다운로드 페이지](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 릴리스 노트](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> 다음 구성 요소의 Visual Studio 2019 버전은 Visual Studio 2019 수명 주기의 일부로 함께 제공되고 지원됩니다. Agents, Build Tools, IntelliTrace Standalone Collector, Performance Tools, Remote Tools, Team Explorer, and Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>버전 \n* Community\n* Enterprise\n* Professional"

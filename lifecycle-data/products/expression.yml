@@ -3,34 +3,24 @@ metadata:
   title: Expression
   description: Expression은 고정 수명 주기 정책을 따릅니다.
   ms.date: 09/01/2020
-  keywords: 'Blend,Design,Encoder,Studio'
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: e666831112652f44cac60da2acb48a5729072771
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4150711"
 name: Expression
-summary: |
-  Expression은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
-
-  다음 버전에 적용됩니다. Blend, Design, Encoder, Studio
-
-  > [!IMPORTANT]
-  > 이 제품에 대한 지원이 종료되었습니다. 
+summary: "Expression은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.\n\n다음 버전에 적용됩니다. Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> 이 제품에 대한 지원이 종료되었습니다. \n"
 products:
-  - expression
+- expression
 policyType: fixed
 supportDates:
-  start: 07/27/2007
-  end: 10/09/2012
-  extendedEnd: 10/10/2017
+  start: 2007-07-27T00:00:00.000-08:00
+  end: 2012-10-09T22:59:59.999-08:00
+  extendedEnd: 2017-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/27/2007
-    endDate: 10/10/2017
-content: |
-
-
-  > [!NOTE]
-  > Expression Blend의 시작 날짜는 2007년 7월 13일입니다. 
-
-  ## <a name="editions"></a>버전 
-  * Blend
-  * Design
-  * Encoder
-  * Studio
+- version: Original Release
+  startDate: 2007-07-27T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Expression Blend의 시작 날짜는 2007년 7월 13일입니다. \n\n## <a name=\"editions\"></a>버전 \n* Blend\n* Design\n* Encoder\n* Studio"
