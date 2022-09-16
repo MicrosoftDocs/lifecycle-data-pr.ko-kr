@@ -1,13 +1,13 @@
 ---
 title: 2029년에 지원이 종료되는 제품
 description: 어떤 제품이 2029년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 03/09/2022
-ms.openlocfilehash: 8701595665408544350c4ca250b60eeff134a373
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/15/2022
+ms.openlocfilehash: 6b803ec0a242db952d44c813b257326c86bb7f93
+ms.sourcegitcommit: aa3eaa2573e7b3d11f65d12f166e73329011f41d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4116893"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "4522206"
 ---
 # <a name="products-ending-support-in-2029"></a>2029년에 지원이 종료되는 제품
 
@@ -28,7 +28,7 @@ ms.locfileid: "4116893"
 
 | 제품 | 지원 종료 |
 | --- | --- |
-| [Dynamics 365 for Customer Engagement Apps 버전 9(온-프레미스 업데이트)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Hyper-V Server 2019](/lifecycle/products/hyperv-server-2019?branch=live)<br>[IIS(인터넷 정보 서비스), Windows Server 2019의 IIS 10](/lifecycle/products/internet-information-services-iis?branch=live)<br>[Microsoft .NET Framework, .NET Framework 3.5 서비스 팩 1](/lifecycle/products/microsoft-net-framework?branch=live)<br>[Windows 10 Enterprise LTSC 2019 ](/lifecycle/products/windows-10-enterprise-ltsc-2019?branch=live)<br>[Windows 10 IoT Core LTSC](/lifecycle/products/windows-10-iot-core-ltsc?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2019](/lifecycle/products/windows-10-iot-enterprise-ltsc-2019?branch=live)<br>[Windows Server 2019](/lifecycle/products/windows-server-2019?branch=live)<br>[Windows Server IoT 2019](/lifecycle/products/windows-server-iot-2019?branch=live)<br>[Windows Server IoT 2019 for Storage](/lifecycle/products/windows-server-iot-2019-for-storage?branch=live)<br>[Windows Server Update Services for Windows Server 2019](/lifecycle/products/windows-server-update-services-for-windows-server-2019?branch=live)<br> | 2029년 1월 9일 화요일 |
+| [Dynamics 365 for Customer Engagement Apps 버전 9(온-프레미스 업데이트)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Hyper-V Server 2019](/lifecycle/products/hyperv-server-2019?branch=live)<br>[IIS(인터넷 정보 서비스), Windows Server 2019의 IIS 10](/lifecycle/products/internet-information-services-iis?branch=live)<br>[Microsoft .NET Framework, .NET Framework 3.5 서비스 팩 1](/lifecycle/products/microsoft-net-framework?branch=live)<br>[Microsoft Identity Manager 2016](/lifecycle/products/microsoft-identity-manager-2016?branch=live)<br>[Windows 10 Enterprise LTSC 2019 ](/lifecycle/products/windows-10-enterprise-ltsc-2019?branch=live)<br>[Windows 10 IoT Core LTSC](/lifecycle/products/windows-10-iot-core-ltsc?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2019](/lifecycle/products/windows-10-iot-enterprise-ltsc-2019?branch=live)<br>[Windows Server 2019](/lifecycle/products/windows-server-2019?branch=live)<br>[Windows Server IoT 2019](/lifecycle/products/windows-server-iot-2019?branch=live)<br>[Windows Server IoT 2019 for Storage](/lifecycle/products/windows-server-iot-2019-for-storage?branch=live)<br>[Windows Server Update Services for Windows Server 2019](/lifecycle/products/windows-server-update-services-for-windows-server-2019?branch=live)<br> | 2029년 1월 9일 화요일 |
 | [System Center 2019 Data Protection Manager](/lifecycle/products/system-center-2019-data-protection-manager?branch=live)<br>[System Center 2019 Operations Manager](/lifecycle/products/system-center-2019-operations-manager?branch=live)<br>[System Center 2019 Orchestrator](/lifecycle/products/system-center-2019-orchestrator?branch=live)<br>[System Center 2019 Service Manager](/lifecycle/products/system-center-2019-service-manager?branch=live)<br>[System Center 2019 Virtual Machine Manager](/lifecycle/products/system-center-2019-virtual-machine-manager?branch=live)<br> | 2029년 4월 9일 월요일 |
 | [Azure DevOps Server 2019](/lifecycle/products/azure-devops-server-2019?branch=live)<br>[Visual Studio 2019](/lifecycle/products/visual-studio-2019?branch=live)<br> | 2029년 4월 10일 화요일 |
 

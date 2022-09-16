@@ -1,13 +1,13 @@
 ---
 title: 2026년에 지원이 종료되는 제품
 description: 어떤 제품이 2026년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 03/09/2022
-ms.openlocfilehash: 8528b1bc53c7cf9550aa70eacbd8c389eb5fad8a
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/15/2022
+ms.openlocfilehash: b0634a52683fbc910e607d48533fa09eda5c4f99
+ms.sourcegitcommit: aa3eaa2573e7b3d11f65d12f166e73329011f41d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117115"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "4522243"
 ---
 # <a name="products-ending-support-in-2026"></a>2026년에 지원이 종료되는 제품
 
@@ -35,7 +35,7 @@ ms.locfileid: "4117115"
 
 | 제품 | 지원 종료 |
 | --- | --- |
-| [고급 위협 분석 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Dynamics CRM 2016(Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Identity Manager 2016](/lifecycle/products/microsoft-identity-manager-2016?branch=live)<br> | 2026/1/13 |
+| [고급 위협 분석 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Dynamics CRM 2016(Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br> | 2026/1/13 |
 | [Microsoft SQL Server 2012 병렬 데이터 웨어하우스(Analytics Platform System)](/lifecycle/products/microsoft-sql-server-2012-parallel-data-warehouse-analytics-platform-system?branch=live)<br> | 2026년 3월 31일 화요일 |
 | [Dynamics C5 2016](/lifecycle/products/dynamics-c5-2016?branch=live)<br>[Dynamics NAV 2016](/lifecycle/products/dynamics-nav-2016?branch=live)<br>[Microsoft Advanced Group Policy Management 4.0](/lifecycle/products/microsoft-advanced-group-policy-management-40?branch=live)<br>[Microsoft Application Virtualization 5.0](/lifecycle/products/microsoft-application-virtualization-50?branch=live)<br>[Microsoft Application Virtualization 5.1](/lifecycle/products/microsoft-application-virtualization-51?branch=live)<br>[Windows Desktops를 위한 Microsoft Application Virtualization Hosting 5.0](/lifecycle/products/microsoft-application-virtualization-hosting-50?branch=live)<br>[Windows Desktops를 위한 Microsoft Application Virtualization Hosting 5.1](/lifecycle/products/microsoft-application-virtualization-hosting-51?branch=live)<br>[Microsoft BitLocker Administration and Monitoring 2.5](/lifecycle/products/microsoft-bitlocker-administration-and-monitoring-25?branch=live)<br>[Microsoft 진단 및 복구 도구 집합 10.0](/lifecycle/products/microsoft-diagnostics-and-recovery-toolset-100?branch=live)<br>[UE-V(User Experience Virtualization) 2.1](/lifecycle/products/user-experience-virtualization-uev-21?branch=live)<br> | 2026년 4월 14일 |
 | [Dynamics GP 2016](/lifecycle/products/dynamics-gp-2016?branch=live)<br>[Dynamics GP 2016 R2](/lifecycle/products/dynamics-gp-2016-r2?branch=live)<br>[InfoPath 2013](/lifecycle/products/infopath-2013?branch=live)<br>[Project Server 2016](/lifecycle/products/project-server-2016?branch=live)<br>[Project Server 2019](/lifecycle/products/project-server-2019?branch=live)<br>[SharePoint Designer 2013](/lifecycle/products/sharepoint-designer-2013?branch=live)<br>[SharePoint Server 2016](/lifecycle/products/sharepoint-server-2016?branch=live)<br>[SharePoint Server 2019](/lifecycle/products/sharepoint-server-2019?branch=live)<br>[SQL Server 2016](/lifecycle/products/sql-server-2016?branch=live)<br> | 2026년 7월 14일 화요일 |
