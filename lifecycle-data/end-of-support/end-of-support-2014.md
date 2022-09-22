@@ -1,13 +1,13 @@
 ---
 title: 2014년에 지원이 종료되는 제품
 description: 어떤 제품이 2014년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 08/11/2021
-ms.openlocfilehash: 6dede11fc813825dd096d7fbfa49e6c25ad15b9d
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 07/26/2022
+ms.openlocfilehash: 1a767b8ab82e08e49e07aac1d60e0b2eff42f412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028592"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518348"
 ---
 # <a name="products-ending-support-in-2014"></a>2014년에 지원이 종료되는 제품
 

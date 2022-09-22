@@ -1,13 +1,13 @@
 ---
 title: 2025년에 지원이 종료되는 제품
 description: 어떤 제품이 2025년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 03/09/2022
-ms.openlocfilehash: 0ef5be1ee8667f218c76bc4c219b19db879ec365
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117189"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517924"
 ---
 # <a name="products-ending-support-in-2025"></a>2025년에 지원이 종료되는 제품
 

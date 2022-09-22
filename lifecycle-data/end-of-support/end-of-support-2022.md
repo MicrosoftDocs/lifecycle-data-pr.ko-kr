@@ -1,13 +1,13 @@
 ---
 title: 2022년에 지원이 종료되는 제품
 description: 어떤 제품이 2022년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 02/24/2022
-ms.openlocfilehash: accf71d54644aa9b61b478080f2e1b29f4726250
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 08/31/2022
+ms.openlocfilehash: 28ce6823a8d257177b4ae9ca839b2288316fc412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117374"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518052"
 ---
 # <a name="products-ending-support-in-2022"></a>2022년에 지원이 종료되는 제품
 
@@ -25,10 +25,10 @@ ms.locfileid: "4117374"
 | 제품 | 사용 중지 |
 | --- | --- |
 | [Dynamics 365 for Talent](/lifecycle/products/dynamics-365-for-talent?branch=live)<br> | 2022년 2월 2일 수요일 |
+| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | 2022년 2월 15일 |
 | [Dynamics 365 Field Service(온-프레미스)](/lifecycle/products/dynamics-365-field-service-onpremises?branch=live)<br> | 2022년 6월 30일 목요일 |
 | [Microsoft Machine Learning Server(Microsoft R Server)](/lifecycle/products/microsoft-machine-learning-server-microsoft-r-server?branch=live)<br> | 2022년 7월 1일 금요일 |
 | [Windows Server](/lifecycle/products/windows-server?branch=live)<br> | 2022년 8월 9일 화요일 |
-| [PowerShell](/lifecycle/products/powershell?branch=live)<br> | 2022년 12월 3일 토요일 |
 
 
 ## <a name="release-end-of-servicing"></a>서비스 종료 릴리스
@@ -38,15 +38,18 @@ ms.locfileid: "4117374"
 | 제품 | 서비스 종료 |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, 버전 2006](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2022년 2월 11일 |
-| [Dynamics 365 Business Central 온-프레미스(최신 정책), 2020 릴리스 웨이브 2, 버전 17.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2022년 4월 12일 |
-| [.NET 5.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2022년 5월 8일 일요일 |
-| [Windows 10 Enterprise 및 Education, 버전 1909](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home 및 Pro, 버전 20H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, 버전 1909](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2022년 5월 10일 화요일 |
+| [Dynamics 365 Business Central 온-프레미스(최신 정책), 2020 릴리스 웨이브 1, 버전 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Dynamics 365 Business Central 온-프레미스(최신 정책), 2020 릴리스 웨이브 2, 버전 17.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2022년 4월 12일 |
+| [PowerShell, PowerShell 7.1](/lifecycle/products/powershell?branch=live)<br> | 2022년 5월 8일 일요일 |
+| [.NET 5.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br>[Windows 10 Enterprise 및 Education, 버전 1909](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home 및 Pro, 버전 20H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, 버전 1909](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2022년 5월 10일 화요일 |
+| [Visual Studio for Mac, Visual Studio 2019 for Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 2022년 5월 23일 |
 | [Microsoft Endpoint Configuration Manager, 버전 2010](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2022년 5월 30일 월요일 |
+| [Azure IoT Edge 버전 1.2](/lifecycle/products/azure-iot-edge?branch=live)<br> | 2022년 6월 27일 월요일 |
+| [Azure IoT Edge 버전 1.3](/lifecycle/products/azure-iot-edge?branch=live)<br> | 2022년 8월 29일 월요일 |
 | [Azure Active Directory (AD) Connect, 버전 1.x](/lifecycle/products/azure-active-directory-ad-connect?branch=live)<br> | 2022년 8월 31일 수요일 |
 | [Microsoft Endpoint Configuration Manager, 버전 2103](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2022년 10월 5일 수요일 |
 | [Dynamics 365 Business Central 온-프레미스(최신 정책), 2021 릴리스 웨이브 1, 버전 18.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2022년 10월 11일 |
-| [.NET Core 3.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2022년 12월 3일 토요일 |
-| [Windows 10 Enterprise 및 Education, 버전 21H1](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home 및 Pro, 버전 21H1](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, 버전 21H1](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2022년 12월 13일 화요일 |
+| [PowerShell, PowerShell 7.0(LTS)](/lifecycle/products/powershell?branch=live)<br> | 2022년 12월 3일 토요일 |
+| [Azure IoT Edge 버전 1.1(LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET Core 3.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br>[Windows 10 Enterprise 및 Education, 버전 21H1](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home 및 Pro, 버전 21H1](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, 버전 21H1](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2022년 12월 13일 화요일 |
 
 
 ## <a name="products-reaching-end-of-support"></a>지원이 종료되는 제품
@@ -58,7 +61,7 @@ ms.locfileid: "4117374"
 | [Visual Studio LightSwitch 2011](/lifecycle/products/visual-studio-lightswitch-2011?branch=live)<br>[Windows 7, 추가 보안 업데이트 2년차*](/lifecycle/products/windows-7?branch=live)<br>[Windows Server 2008, 추가 보안 업데이트 2년차](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, 추가 보안 업데이트 2년차](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | 2022년 1월 11일 |
 | [AppFabric 1.1 for Windows Server](/lifecycle/products/appfabric-11-for-windows-server?branch=live)<br>[Dynamics AX 2009](/lifecycle/products/dynamics-ax-2009?branch=live)<br>[Dynamics AX 2012](/lifecycle/products/dynamics-ax-2012?branch=live)<br>[Dynamics AX 2012 R2](/lifecycle/products/dynamics-ax-2012-r2?branch=live)<br>[Visual Studio 2019, 버전 16.7](/lifecycle/products/visual-studio-2019?branch=live)<br> | 2022년 4월 12일 |
 | [Microsoft .NET Framework, .NET Framework 4.5.2](/lifecycle/products/microsoft-net-framework?branch=live)<br>[Microsoft .NET Framework, .NET Framework 4.6](/lifecycle/products/microsoft-net-framework?branch=live)<br>[Microsoft .NET Framework, .NET Framework 4.6.1](/lifecycle/products/microsoft-net-framework?branch=live)<br> | 2022년 4월 26일 화요일 |
-| [Internet Explorer 11 on Windows 10](/lifecycle/products/internet-explorer-11-on-windows-10?branch=live)<br> | 2022년 6월 14일 화요일 |
+| [Windows 10 SAC(Semi-Annual Channel)의 Internet Explorer 11](/lifecycle/products/internet-explorer-11-on-windows-10-semiannual-channel-sac?branch=live)<br> | 2022년 6월 14일 화요일 |
 | [Cloud Platform System](/lifecycle/products/cloud-platform-system?branch=live)<br>[Microsoft Report Viewer Redistributable 2012](/lifecycle/products/microsoft-report-viewer-redistributable-2012?branch=live)<br>[Microsoft SQL Server 2008, 추가 보안 업데이트 3년차](/lifecycle/products/microsoft-sql-server-2008?branch=live)<br>[Microsoft SQL Server 2008 R2, 추가 보안 업데이트 3년차](/lifecycle/products/microsoft-sql-server-2008-r2?branch=live)<br>[Microsoft SQL Server 2012](/lifecycle/products/microsoft-sql-server-2012?branch=live)<br>[Microsoft System Center 2012 App Controller](/lifecycle/products/microsoft-system-center-2012-app-controller?branch=live)<br>[Microsoft System Center 2012 Configuration Manager](/lifecycle/products/microsoft-system-center-2012-configuration-manager?branch=live)<br>[Microsoft System Center 2012 Data Protection Manager](/lifecycle/products/microsoft-system-center-2012-data-protection-manager?branch=live)<br>[Microsoft System Center 2012 Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection?branch=live)<br>[Microsoft System Center 2012 Operations Manager](/lifecycle/products/microsoft-system-center-2012-operations-manager?branch=live)<br>[Microsoft System Center 2012 Orchestrator](/lifecycle/products/microsoft-system-center-2012-orchestrator?branch=live)<br>[Microsoft System Center 2012 R2 App Controller](/lifecycle/products/microsoft-system-center-2012-r2-app-controller?branch=live)<br>[Microsoft System Center 2012 R2 Configuration Manager](/lifecycle/products/microsoft-system-center-2012-r2-configuration-manager?branch=live)<br>[Microsoft System Center 2012 R2 Data Protection Manager](/lifecycle/products/microsoft-system-center-2012-r2-data-protection-manager?branch=live)<br>[Microsoft System Center 2012 R2 Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-r2-endpoint-protection?branch=live)<br>[Microsoft System Center 2012 R2 Operations Manager](/lifecycle/products/microsoft-system-center-2012-r2-operations-manager?branch=live)<br>[Microsoft System Center 2012 R2 Orchestrator](/lifecycle/products/microsoft-system-center-2012-r2-orchestrator?branch=live)<br>[Microsoft System Center 2012 R2 Service Manager](/lifecycle/products/microsoft-system-center-2012-r2-service-manager?branch=live)<br>[Microsoft System Center 2012 R2 Virtual Machine Manager](/lifecycle/products/microsoft-system-center-2012-r2-virtual-machine-manager?branch=live)<br>[Microsoft System Center 2012 Service Manager](/lifecycle/products/microsoft-system-center-2012-service-manager?branch=live)<br>[Microsoft System Center 2012 Virtual Machine Manager](/lifecycle/products/microsoft-system-center-2012-virtual-machine-manager?branch=live)<br>[Windows Azure Pack(Windows Server 2012 R2)](/lifecycle/products/windows-azure-pack-on-windows-server-2012-r2?branch=live)<br> | 2022년 7월 12일 |
 | [Microsoft Forefront Identity Manager 2010](/lifecycle/products/microsoft-forefront-identity-manager-2010?branch=live)<br>[Microsoft Forefront Identity Manager 2010 R2](/lifecycle/products/microsoft-forefront-identity-manager-2010-r2?branch=live)<br>[SQL Server 2016, 서비스 팩 2](/lifecycle/products/sql-server-2016?branch=live)<br>[Visual Studio 2019, 버전 16.9](/lifecycle/products/visual-studio-2019?branch=live)<br>[Windows Embedded POSReady 7, 추가 보안 업데이트 1년차*](/lifecycle/products/windows-embedded-posready-7?branch=live)<br>[Windows Embedded Standard 7, 추가 보안 업데이트 2년차*](/lifecycle/products/windows-embedded-standard-7?branch=live)<br> | 2022년 10월 11일 |
 | [Azure StorSimple 1200 Series](/lifecycle/products/azure-storsimple-1200-series?branch=live)<br>[Azure StorSimple 8000 Series](/lifecycle/products/azure-storsimple-8000-series?branch=live)<br>[StorSimple Data Manager](/lifecycle/products/storsimple-data-manager?branch=live)<br> | 2022년 12월 31일 토요일 |

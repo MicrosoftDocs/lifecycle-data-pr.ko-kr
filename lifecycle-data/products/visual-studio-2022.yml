@@ -2,19 +2,21 @@
 metadata:
   title: 'Visual Studio 2022 '
   description: Visual Studio 2022는 고정 수명 주기 정책을 따릅니다.
-  ms.date: 11/05/2021
+  ms.date: 2022/05/11
   keywords: 
-  ms.openlocfilehash: 4c4a28cfa9ed1963deb6afc84c17c4003b8e65a8
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 0b35faaba3b6e2d2d3b3f7711d84292c7f63c94d
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156879"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516313"
 name: 'Visual Studio 2022 '
 summary: >+
   Visual Studio 2022는 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
 
 
+
+  적용 버전: Community, Enterprise, Professional
 
 
 
@@ -26,10 +28,13 @@ supportDates:
   end: 2027-01-12T22:59:59.999-08:00
   extendedEnd: 2032-01-13T22:59:59.999-08:00
 releases:
+- version: Version 17.2 (LTSC channel)
+  startDate: 2022-05-10T00:00:00.000-08:00
+  endDate: 2024-01-09T22:59:59.999-08:00
 - version: Version 17.0 (LTSC channel)
   startDate: 2021-11-08T00:00:00.000-08:00
   endDate: 2023-07-11T22:59:59.999-08:00
 - version: Visual Studio 2022 (Current channel)
   startDate: 2021-11-08T00:00:00.000-08:00
   endDate: 2032-01-13T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>링크 \n* [Visual Studio 블로그 공지 사항](https://devblogs.microsoft.com/visualstudio/)\n* [지원 및 수명 주기 정보](/visualstudio/releases/2022/servicing-vs2022)\n* [Visual Studio 다운로드 페이지](https://visualstudio.microsoft.com/)\n* [Visual Studio 릴리스 노트](/visualstudio/releases/2022/release-notes)\n* [시스템 요구 사항](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> 다음 구성 요소의 Visual Studio 2022 버전은 Visual Studio 2022 수명 주기의 일부로 제공되고 지원됩니다. Agents, Build Tools, IntelliTrace Standalone Collector, Performance Tools, Remote Tools, Team Explorer, Visual C++ Redistributable.\n> [!NOTE]\n> Visual Studio Community 버전은 Visual Studio의 최신 부 버전의 최신 서비스 릴리스가 있는 현재 채널에서만 지원됩니다. 자세한 내용을 보려면 [여기](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022)로 이동하세요."
+content: "\n\n## <a name=\"links\"></a>링크 \n* [Visual Studio 블로그 공지 사항](https://devblogs.microsoft.com/visualstudio/)\n* [지원 및 수명 주기 정보](/visualstudio/releases/2022/servicing-vs2022)\n* [Visual Studio 다운로드 페이지](https://visualstudio.microsoft.com/)\n* [Visual Studio 릴리스 노트](/visualstudio/releases/2022/release-notes)\n* [시스템 요구 사항](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> 다음 구성 요소의 Visual Studio 2022 버전은 Visual Studio 2022 수명 주기의 일부로 제공되고 지원됩니다. Agents, Build Tools, IntelliTrace Standalone Collector, Performance Tools, Remote Tools, Team Explorer, Visual C++ Redistributable.\n> [!NOTE]\n> Visual Studio Community 버전은 Visual Studio의 최신 부 버전의 최신 서비스 릴리스가 있는 현재 채널에서만 지원됩니다. 자세한 내용을 보려면 [여기](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022)로 이동하세요. \n\n\n## <a name=\"editions\"></a>버전 \n* Community\n* Enterprise\n* Professional"

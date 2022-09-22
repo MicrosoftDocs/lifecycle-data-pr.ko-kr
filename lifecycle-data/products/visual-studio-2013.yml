@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013은 고정 수명 주기 정책을 따릅니다.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 26531cc6c88e5781b92affe65d38caf6f78b63d4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142793"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516454"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013은 [고정](/lifecycle/policies/fixed) 수명 주기 정책을 따릅니다.
@@ -33,5 +33,5 @@ releases:
   endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
   startDate: 2014-01-15T00:00:00.000-08:00
-  endDate: 2024-04-09T22:59:59.999-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>링크 \n* [서비스 정보](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> 다음 구성 요소의 Visual Studio 2013 버전은 Visual Studio 2013 수명 주기의 일부로 제공되고 지원됩니다. Agents, IntelliTrace Collector, Modelling SDK, Multibyte MFC Library, Remote Tools, SDK, Shell(통합), Shell(격리), Team Explorer, Visual C++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>버전 \n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"
