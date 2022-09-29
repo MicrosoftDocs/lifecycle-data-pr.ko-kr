@@ -1,13 +1,13 @@
 ---
 title: 2025년에 지원이 종료되는 제품
 description: 어떤 제품이 2025년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517924"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526162"
 ---
 # <a name="products-ending-support-in-2025"></a>2025년에 지원이 종료되는 제품
 
@@ -27,6 +27,13 @@ ms.locfileid: "4517924"
 | [Windows 10 Enterprise 및 Education](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home 및 Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2025/10/14 |
 
 
+## <a name="release-end-of-servicing"></a>서비스 종료 릴리스
+
+[최신 정책](/lifecycle/policies/modern)의 적용을 받는 다음 제품 릴리스는 2025년에 지원이 종료됩니다.
+
+| 제품 | 서비스 종료 |
+| --- | --- |
+| [Windows 11 Enterprise and Education(버전 22H2)](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise(버전 22H2)](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 2025/10/14 |
 
 
 ## <a name="products-reaching-end-of-support"></a>지원이 종료되는 제품

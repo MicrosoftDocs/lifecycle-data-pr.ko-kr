@@ -1,13 +1,13 @@
 ---
 title: 2023년에 지원이 종료되는 제품
 description: 어떤 제품이 2023년에 사용이 중지되는지, 지원이 종료되는지 또는 일반 지원에서 추가 지원으로 전환되는지 알아보세요.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521065"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526873"
 ---
 # <a name="products-ending-support-in-2023"></a>2023년에 지원이 종료되는 제품
 
@@ -36,13 +36,12 @@ ms.locfileid: "4521065"
 | 제품 | 서비스 종료 |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager 버전 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023년 2월 2일 목요일 |
-| [Microsoft Endpoint Configuration Manager 버전 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023년 2월 12일 일요일 |
 | [Dynamics 365 Business Central 온-프레미스(최신 정책) 2021 릴리스 웨이브 2 버전 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2023년 4월 12일 수요일 |
 | [Windows 10 Enterprise and Education(버전 20H2)](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise(버전 20H2)](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2023년 5월 9일 화요일 |
 | [Microsoft Endpoint Configuration Manager 버전 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023년 6월 1일 목요일 |
 | [Windows 10 Home and Pro 버전 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 2023년 6월 13일 화요일 |
 | [Microsoft Endpoint Configuration Manager 버전 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023년 10월 6일 금요일 |
-| [Dynamics 365 Business Central 온-프레미스(최신 정책), 2022 릴리스 웨이브 1, 버전 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home and Pro(버전 21H2), 원본 릴리스(버전 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 2023/10/10 |
+| [Dynamics 365 Business Central 온-프레미스(최신 정책), 2022 릴리스 웨이브 1, 버전 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home and Pro(버전 21H2)](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 2023/10/10 |
 
 
 ## <a name="products-reaching-end-of-support"></a>지원이 종료되는 제품
